@@ -1,0 +1,9 @@
+/* Static css file */
+
+body {
+    min-height: 100vh;
+}
+
+.content-block {
+    margin-top: 100px;
+}

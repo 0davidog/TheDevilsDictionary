@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h1>{{ entry.name | title }}</h1>
+            <h2 class="text-muted mb-3"><em>{{ entry.category }}</em></h2>
+            <p>{{ entry.description }}</p>
+            <p>—Ambrose Bierce, <cite>The Devil's Dictionary</cite></p>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

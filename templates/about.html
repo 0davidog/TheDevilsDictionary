@@ -3,12 +3,16 @@
 {% block content %}
 <div class="container">
 
-    <h1 class="text-center">{{ page_title }}</h1>
+    <h1 class="text-center" id="about">{{ page_title }}</h1>
+    <div class="text-center">
+        <a href="#preface">Preface</a>&nbsp;|
+        <a href="#author">Author</a>
+    </div>
     <hr class="mb-5">
 
     <div class="row mb-5">
         <div class="col">
-            <h2>Author's Preface</h2>
+            <h2 id="preface">Author's Preface</h2>
         </div>
     </div>
     
@@ -26,17 +30,24 @@
                 </p>
             </article>
         </div>
+        <div>
+            <a href="#about">Back to top</a>
+        </div>
     </div>
+    
 
     <div class="row mb-5">
         <div class="col">
-            <h2>About the Author</h2> 
+            <h2 id="author">About the Author</h2> 
         </div>
     </div>
 
     <div class="row mb-5">
         <div class="col-md-3 mb-3">
-            <a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Abierce.jpg"><img width="256" alt="Abierce" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Abierce.jpg?20120610201037"></a>
+            <a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Abierce.jpg">
+                <img width="100%" alt="A photograph of Ambrose Bierce circa 1866" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Abierce.jpg?20120610201037">
+            </a>
+            <p class="text-muted"><small>Ambrose Bierce circa 1866</small></p>
         </div>
         <div class="col">
             <article>
@@ -50,7 +61,11 @@
                 </p>
             </article>
         </div>
+        <div>
+            <a href="#about">Back to top</a>
+        </div>
     </div>
+    
 
 </div>
 {% endblock %}

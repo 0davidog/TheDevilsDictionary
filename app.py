@@ -1,4 +1,5 @@
-import os  
+import os
+import json
 from flask import Flask, render_template
 
 app = Flask(__name__)  # Create an instance of the Flask class and store it in the app variable
@@ -6,7 +7,28 @@ app = Flask(__name__)  # Create an instance of the Flask class and store it in t
 
 @app.route("/")  # Decorator to associate the index() function with the root URL ("/")
 def index():  # Define a function called index, which will be executed when the root URL is accessed
-    return render_template("index.html", page_title="Index")
+    letters = [chr(i) for i in range(ord('A'), ord('Z') + 1)]
+    return render_template("index.html", page_title="Index", letters=letters)
+
+
+@app.route("/<listing_name>")
+def listing(listing_name):
+    data = []
+
+    with open("data/" + listing_name + ".json", "r") as json_data:
+        data = json.load(json_data)
+    return render_template("listing.html", listing_name=listing_name, listings=data)
+
+
+@app.route("/<listing_name>/<entry_name>")
+def a_entry(listing_name, entry_name):
+    entry = {}
+    with open("data/" + listing_name + ".json", "r") as json_data:
+        data = json.load(json_data)
+        for obj in data:
+            if obj["name"] == entry_name:
+                entry = obj
+    return render_template("entry.html", entry=entry)
 
 
 @app.route("/about")

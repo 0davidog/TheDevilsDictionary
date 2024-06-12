@@ -1,5 +1,20 @@
 {% extends 'base.html' %}
 
 {% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h1>{{ page_title }}</h1>
+            <hr>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            {% for letter in letters %}
+            <a href="{{ url_for('listing', listing_name=letter) }}">{{ letter }}</a>
+            {% endfor %}
+        </div>
+    </div>
+</div>
 
 {% endblock %}

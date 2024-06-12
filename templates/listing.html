@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h1>{{ listing_name | title }}</h1>
+            <hr class="mb-5">
+        </div>
+    </div>
+    {% for entry in listings %}
+    <div class="row mb-5">
+        <div class="col">
+            <h2><a href="/{{ listing_name }}/{{ entry.name }}">{{ entry.name | title }}.</a></h2>
+            <p class="text-muted">{{ entry.category }}</p>
+            <p>{{ entry.description }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+{% endblock %}
