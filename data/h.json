@@ -3,5 +3,15 @@
         "name": "",
         "category": "",
         "description": ""
+    },
+    {
+        "name": "HABEAS CORPUS",
+        "category": "",
+        "description": "A writ by which a man may be taken out of jail when confined for the wrong crime."
+    },
+    {
+        "name": "HABIT",
+        "category": "noun",
+        "description": "A shackle for the free."
     }
 ]

@@ -1,7 +1,17 @@
 [
     {
-        "name": "",
+        "name": "I",
         "category": "",
-        "description": ""
+        "description": "I is the first letter of the alphabet, the first word of the language, the first thought of the mind, the first object of affection. In grammar it is a pronoun of the first person and singular number. Its plural is said to be _We_, but how there can be more than one myself is doubtless clearer the grammarians than it is to the author of this incomparable dictionary. Conception of two myselfs is difficult, but fine. The frank yet graceful use of 'I' distinguishes a good writer from a bad; the latter carries it with the manner of a thief trying to cloak his loot."
+    },
+    {
+        "name": "ICHOR",
+        "category": "noun",
+        "description": "A fluid that serves the gods and goddesses in place of blood.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Fair Venus, speared by Diomed,<br>&nbsp;&nbsp;&nbsp;&nbsp;Restrained the raging chief and said:<br>&nbsp;&nbsp;&nbsp;&nbsp;'Behold, rash mortal, whom you've bled --<br>&nbsp;&nbsp;&nbsp;&nbsp;Your soul's stained white with ichorshed!'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Mary Doke</cite>"
+    },
+    {
+        "name": "ICONOCLAST",
+        "category": "noun",
+        "description": " A breaker of idols, the worshipers whereof are imperfectly gratified by the performance, and most strenuously protest that he unbuildeth but doth not reedify, that he pulleth down but pileth not up. For the poor things would have other idols in place of those he thwacketh upon the mazzard and dispelleth. But the iconoclast saith: 'Ye shall have none at all, for ye need them not; and if the rebuilder fooleth round hereabout, behold I will depress the head of him and sit thereon till he squawk it.'"
     }
 ]

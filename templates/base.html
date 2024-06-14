@@ -16,43 +16,48 @@
     <!-- static CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+
+    <!-- Fontawesome -->
+    <script src="https://kit.fontawesome.com/5216db6454.js" crossorigin="anonymous"></script>
+
 </head>
 
 <body class="d-flex flex-column">
 
     <header class="fixed-top">
 
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <nav class="navbar navbar-expand-lg">
 
-            <div class="container-fluid">
+            <div class="container-fluid mb-2">
 
                 <div class="me-5">
-                    <a class="navbar-brand" href="{{ url_for ('index') }}">The Devil's Dictionary</a><br>
-                    <span><small>By Ambrose Bierce</small></span>
+                    <a class="navbar-brand" href="{{ url_for ('index') }}">The Devil's Dictionary<br><span><small>By Ambrose Bierce</small></span></a>
+                    
                 </div>
+
+                <div class="vr me-5"></div>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar"
                     aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                    <i class="fa-solid fa-bars"></i>
                 </button>
-
 
                 <div class="collapse navbar-collapse" id="navbar">
 
-                    <div class="navbar-nav">
+                    <div class="navbar-nav m-5 m-md-0">
                         <a class="nav-link" href="{{ url_for ('index') }}">Index</a>
                         <a class="nav-link" href="{{ url_for ('about') }}">About</a>
                     </div>
 
                 </div>
 
-
             </div>
-            
-
 
         </nav>
-        
 
     </header>
 
@@ -63,7 +68,7 @@
 
     </div>
 
-    <footer class="mt-auto bg-body-tertiary">
+    <footer class="mt-auto">
         <div class="container">
             <div class="row">
                 <div class="col">

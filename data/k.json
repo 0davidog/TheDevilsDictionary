@@ -1,7 +1,17 @@
 [
     {
-        "name": "",
+        "name": "K",
         "category": "",
-        "description": ""
+        "description": "K is a consonant that we get from the Greeks, but it can be traced away back beyond them to the Cerathians, a small commercial nation inhabiting the peninsula of Smero. In their tongue it was called Klatch, which means 'destroyed.' The form of the letter was originally precisely that of our H, but the erudite Dr. Snedeker explains that it was altered to its present shape to commemorate the destruction of the great temple of Jarute by an earthquake, circa 730 B.C. This building was famous for the two lofty columns of its portico, one of which was broken in half by the catastrophe, the other remaining intact. As the earlier form of the letter is supposed to have been suggested by these pillars, so, it is thought by the great antiquary, its later was adopted as a simple and natural — not to say touching — means of keeping the calamity ever in the national memory. It is not known if the name of the letter was altered as an additional mnemonic, or if the name was always Klatch and the destruction one of nature's puns. As each theory seems probable enough, I see no objection to believing both — and Dr. Snedeker arrayed himself on that side of the question. "
+    },
+    {
+        "name": "KEEP",
+        "category": "verb",
+        "description": "&nbsp;&nbsp;&nbsp;&nbsp;He willed away his whole estate,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And then in death he fell asleep,<br>&nbsp;&nbsp;&nbsp;&nbsp;Murmuring: 'Well, at any rate,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name unblemished I shall keep.'<br>&nbsp;&nbsp;&nbsp;&nbsp;But when upon the tomb 'twas wrought<br>&nbsp;&nbsp;&nbsp;&nbsp;Whose was it? -- for the dead keep naught.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Durang Gophel Arn</cite>"
+    },
+    {
+        "name": "KILL",
+        "category": "verb",
+        "description": "To create a vacancy without nominating a successor."
     }
 ]

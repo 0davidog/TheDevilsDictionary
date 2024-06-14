@@ -3,5 +3,15 @@
         "name": "",
         "category": "",
         "description": ""
+    },
+    {
+        "name": "EAT",
+        "category": "verb",
+        "description": "To perform successively (and successfully) the functions of mastication, humectation, and deglutition.<br><br>'I was in the drawing-room, enjoying my dinner,' said Brillat-Savarin, beginning an anecdote. 'What!' interrupted Rochebriant; 'eating dinner in a drawing-room?' 'I must beg you to observe, monsieur,' explained the great gastronome, 'that I did not say I was eating my dinner, but enjoying it. I had dined an hour before.' "
+    },
+    {
+        "name": "EAVESDROP",
+        "category": "verb",
+        "description": "Secretly to overhear a catalogue of the crimes and vices of another or yourself.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A lady with one of her ears applied<br>&nbsp;&nbsp;&nbsp;&nbsp;To an open keyhole heard, inside,<br>&nbsp;&nbsp;&nbsp;&nbsp;Two female gossips in converse free --<br>&nbsp;&nbsp;&nbsp;&nbsp;The subject engaging them was she.<br>&nbsp;&nbsp;&nbsp;&nbsp;'I think,' said one, 'and my husband thinks<br>&nbsp;&nbsp;&nbsp;&nbsp;That she's a prying, inquisitive minx!'<br>&nbsp;&nbsp;&nbsp;&nbsp;As soon as no more of it she could hear<br>&nbsp;&nbsp;&nbsp;&nbsp;The lady, indignant, removed her ear.<br>&nbsp;&nbsp;&nbsp;&nbsp;'I will not stay,' she said, with a pout,<br>&nbsp;&nbsp;&nbsp;&nbsp;'To hear my character lied about!'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Gopete Sherany</cite>"
     }
 ]

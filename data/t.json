@@ -1,7 +1,17 @@
 [
     {
-        "name": "",
+        "name": "T",
         "category": "",
-        "description": ""
+        "description": "T, the twentieth letter of the English alphabet, was by the Greeks absurdly called _tau_. In the alphabet whence ours comes it had the form of the rude corkscrew of the period, and when it stood alone (which was more than the Phoenicians could always do) signified _Tallegal_, translated by the learned Dr. Brownrigg, 'tanglefoot.'"
+    },
+    {
+        "name": "TABLE D'HOTE",
+        "category": "noun",
+        "description": "A caterer's thrifty concession to the universal passion for irresponsibility.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Old Paunchinello, freshly wed,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Took Madam P. to table,<br>&nbsp;&nbsp;&nbsp;&nbsp;And there deliriously fed<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As fast as he was able.<br>&nbsp;&nbsp;&nbsp;&nbsp;'I dote upon good grub,' he cried,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intent upon its throatage.<br>&nbsp;&nbsp;&nbsp;&nbsp;'Ah, yes,' said the neglected bride,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'You're in your _table d'hotage_.'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Associated Poets</cite>"
+    },
+    {
+        "name": "TAIL",
+        "category": "noun",
+        "description": "The part of an animal's spine that has transcended its natural limitations to set up an independent existence in a world of its own. Excepting in its foetal state, Man is without a tail, a privation of which he attests an hereditary and uneasy consciousness by the coat-skirt of the male and the train of the female, and by a marked tendency to ornament that part of his attire where the tail should be, and indubitably once was. This tendency is most observable in the female of the species, in whom the ancestral sense is strong and persistent. The tailed men described by Lord Monboddo are now generally regarded as a product of an imagination unusually susceptible to influences generated in the golden age of our pithecan past."
     }
 ]

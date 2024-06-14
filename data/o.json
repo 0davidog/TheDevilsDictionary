@@ -3,5 +3,15 @@
         "name": "",
         "category": "",
         "description": ""
+    },
+    {
+        "name": "OATH",
+        "category": "noun",
+        "description": "In law, a solemn appeal to the Deity, made binding upon the conscience by a penalty for perjury."
+    },
+    {
+        "name": "OBLIVION",
+        "category": "noun",
+        "description": "The state or condition in which the wicked cease from struggling and the dreary are at rest. Fame's eternal dumping ground. Cold storage for high hopes. A place where ambitious authors meet their works without pride and their betters without envy. A dormitory without an alarm clock."
     }
 ]

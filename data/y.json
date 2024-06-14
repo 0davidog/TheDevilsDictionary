@@ -3,5 +3,15 @@
         "name": "",
         "category": "",
         "description": ""
+    },
+    {
+        "name": "YANKEE",
+        "category": "noun",
+        "description": " In Europe, an American. In the Northern States of our Union, a New Englander. In the Southern States the word is unknown. (See DAMNYANK.)"
+    },
+    {
+        "name": "YEAR",
+        "category": "noun",
+        "description": "A period of three hundred and sixty-five disappointments."
     }
 ]

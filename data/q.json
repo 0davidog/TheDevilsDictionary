@@ -3,5 +3,15 @@
         "name": "",
         "category": "",
         "description": ""
+    },
+    {
+        "name": "QUEEN",
+        "category": "noun",
+        "description": " A woman by whom the realm is ruled when there is a king, and through whom it is ruled when there is not."
+    },
+    {
+        "name": "QUILL",
+        "category": "noun",
+        "description": "An implement of torture yielded by a goose and commonly wielded by an ass. This use of the quill is now obsolete, but its modern equivalent, the steel pen, is wielded by the same everlasting Presence."
     }
 ]
