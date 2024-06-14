@@ -70,7 +70,7 @@ if __name__ == "__main__":  # Check if the script is being run directly (not imp
     app.run(  # Start the Flask development server
         host=os.environ.get("IP", "0.0.0.0"),  # Get the IP address from the environment variable "IP" or default to "0.0.0.0"
         port=int(os.environ.get("IP", "5000")),  # Get the port number from the environment variable "IP" or default to 5000
-        debug=True  # Enable debug mode for the Flask application
+        debug=False  # Enable debug mode for the Flask application
     )
 
 
