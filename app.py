@@ -1,8 +1,11 @@
 import os
 import json
-from flask import Flask, render_template
+from flask import Flask, render_template, request, flash
+if os.path.exists("env.py"):
+    import env
 
 app = Flask(__name__)  # Create an instance of the Flask class and store it in the app variable
+app.secret_key = os.environ.get("SECRET_KEY")
 
 
 @app.errorhandler(404)
@@ -64,6 +67,14 @@ def entry(listing_name, entry_name):
 @app.route("/about")
 def about():
     return render_template("about.html", page_title="About")
+
+
+@app.route("/contact", methods=["GET", "POST"])
+def contact():
+    if request.method == "POST":
+        flash("Thanks {}, we have received your message!".format(
+            request.form.get("name")))
+    return render_template("contact.html", page_title="Contact")
 
 
 if __name__ == "__main__":  # Check if the script is being run directly (not imported as a module)
