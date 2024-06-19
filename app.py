@@ -1,11 +1,25 @@
 import os
 import json
 from flask import Flask, render_template, request, flash
+from flask_mail import Mail, Message
 if os.path.exists("env.py"):
     import env
 
 app = Flask(__name__)  # Create an instance of the Flask class and store it in the app variable
+
 app.secret_key = os.environ.get("SECRET_KEY")
+
+# Configuration settings
+app.config['MAIL_SERVER'] = 'smtp.gmail.com'  # Example for Gmail SMTP server
+app.config['MAIL_PORT'] = 587
+app.config['MAIL_USE_TLS'] = True
+app.config['MAIL_USE_SSL'] = False
+app.config['MAIL_USERNAME'] = os.environ.get("MAIL_USER")
+app.config['MAIL_PASSWORD'] = os.environ.get("MAIL_PASS")
+app.config['MAIL_DEFAULT_SENDER'] = os.environ.get("MAIL_USER")
+
+# Initialize the Mail object
+mail = Mail(app)
 
 
 @app.errorhandler(404)
@@ -71,9 +85,26 @@ def about():
 
 @app.route("/contact", methods=["GET", "POST"])
 def contact():
+
     if request.method == "POST":
-        flash("Thanks {}, we have received your message!".format(
-            request.form.get("name")))
+
+        content = request.form.get("message")
+        sender = request.form.get("name")
+        address = request.form.get("email")
+
+        msg = Message(
+        "Feedback Message on The Devil's Dictionary App",
+            recipients=[os.environ.get("MAIL_USER")]  # List of recipients
+        )
+        
+        msg.body = f"{sender} ({address}) says: '{content}'."
+    
+        with app.app_context():
+            mail.send(msg)
+
+            flash("Thanks {}, we have received your message!".format(
+                request.form.get("name")))
+        
     return render_template("contact.html", page_title="Contact")
 
 
