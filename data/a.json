@@ -1,5 +1,10 @@
 [
     {
+        "name": "",
+        "category": "",
+        "description": ""
+    },
+    {
         "name": "A",
         "category": "",
         "description": "The first letter in every properly constructed alphabet. It is the first natural utterance of the human vocal organs, and is variously sounded, according to the pleasure and convenience of the speaker. In logic, A asserts and B denies. Assertions being proverbially untrue, the presumption would be in favor of B's innocence were it not that denials are notoriously false. In grammar, A is called the indefinite article, probably because, denoting a definite number, it is so obviously a numeral adjective."
@@ -8,5 +13,430 @@
         "name": "ABACOT",
         "category": "noun",
         "description": "A cap of state wrought into the shape of two crowns, formerly worn by kings. Very pretty monarchs had it made in the form of three crowns."
+    },
+    {
+        "name": "ABACTOR",
+        "category": "noun",
+        "description": "One who steals a whole herd of cattle, as distinguished from the inferior actor who steals one animal at a time—a superior stock actor, as it were."
+    },
+    {
+        "name": "ABADA",
+        "category": "noun",
+        "description": "An African animal having three horns, two on the head and on on the nape of the neck by which to hang up the carcass after the head has been removed. In those varieties that are not hunted by man, this third horn is imperfectly developed or wholly wanting."
+    },
+    {
+        "name": "ABADDON",
+        "category": "noun",
+        "description": "[1.] A certian person who is much in society, but whom one does not meet. A bad one.<br>[2.] The Adversary of Souls, considered under one of his many charming aspects."
+    },
+    {
+        "name": "ABANDON",
+        "category": "verb",
+        "description": "[1.] To correct an erring friend or admonish a needy one. Of women the word abandoned is used in the sense of indiscreet.<br>[2.] To confer the advantage of being rid of you. To recant.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Thank heaven, I have abandoned the follies of youth for those of age.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Chauncey Depew</cite>"
+    },
+    {
+        "name": "ABASEMENT",
+        "category": "noun",
+        "description": "A decent and customary mental attitude in the presence of wealth of power. Peculiarly appropriate in an employee when addressing an employer."
+    },
+    {
+        "name": "ABATIS",
+        "category": "noun",
+        "description": "Rubbish in front of a fort, to prevent the rubbish outside from molesting the rubbish inside."
+    },
+    {
+        "name": "ABDICATION",
+        "category": "noun",
+        "description": "An act whereby a sovereign attests his sense of the high temperature of the throne.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Poor Isabella's Dead, whose abdication<br>&nbsp;&nbsp;&nbsp;&nbsp;Set all tongues wagging in the Spanish nation.<br>&nbsp;&nbsp;&nbsp;&nbsp;For that performance 'twere unfair to scold her:<br>&nbsp;&nbsp;&nbsp;&nbsp;She wisely left a throne too hot to hold her.<br>&nbsp;&nbsp;&nbsp;&nbsp;To History she'll be no royal riddle --<br>&nbsp;&nbsp;&nbsp;&nbsp;Merely a plain parched pea that jumped the griddle.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "ABDOMEN",
+        "category": "noun",
+        "description": "The temple of the god Stomach, in whose worship, with sacrificial rights, all true men engage. From women this ancient faith commands but a stammering assent. They sometimes minister at the altar in a half-hearted and ineffective way, but true reverence for the one deity that men really adore they know not. If woman had a free hand in the world's marketing the race would become graminivorous."
+    },
+    {
+        "name": "ABILITY",
+        "category": "noun",
+        "description": "The natural equipment to accomplish some small part of the meaner ambitions distinguishing able men from dead ones. In the last analysis ability is commonly found to consist mainly in a high degree of solemnity. Perhaps, however, this impressive quality is rightly appraised; it is no easy task to be solemn."
+    },
+    {
+        "name": "ABNORMAL",
+        "category": "adjective",
+        "description": "Not conforming to standard. In matters of thought and conduct, to be independent is to be abnormal, to be abnormal is to be detested. Wherefore the lexicographer adviseth a striving toward the straiter [sic] resemblance of the Average Man than he hath to himself. Whoso attaineth thereto shall have peace, the prospect of death and the hope of Hell."
+    },
+    {
+        "name": "ABORIGINIES",
+        "category": "noun",
+        "description": "Persons of little worth found cumbering the soil of a newly discovered country. They soon cease to cumber; they fertilize."
+    },
+    {
+        "name": "ABRACADABRA",
+        "category": "",
+        "description": "&nbsp;&nbsp;&nbsp;&nbsp;By Abracadabra we signify<br>&nbsp;&nbsp;&nbsp;&nbsp;An infinite number of things.<br>&nbsp;&nbsp;&nbsp;&nbsp;'Tis the answer to What? and How? and Why?<br>&nbsp;&nbsp;&nbsp;&nbsp;And Whence? and Whither? -- a word whereby<br>&nbsp;&nbsp;&nbsp;&nbsp;The Truth (with the comfort it brings)<br>&nbsp;&nbsp;&nbsp;&nbsp;Is open to all who grope in night,<br>&nbsp;&nbsp;&nbsp;&nbsp;Crying for Wisdom's holy light.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Whether the word is a verb or a noun<br>&nbsp;&nbsp;&nbsp;&nbsp;Is knowledge beyond my reach.<br>&nbsp;&nbsp;&nbsp;&nbsp;I only know that 'tis handed down.<br>&nbsp;&nbsp;&nbsp;&nbsp;From sage to sage,<br>&nbsp;&nbsp;&nbsp;&nbsp;From age to age --<br>&nbsp;&nbsp;&nbsp;&nbsp;An immortal part of speech!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Of an ancient man the tale is told<br>&nbsp;&nbsp;&nbsp;&nbsp;That he lived to be ten centuries old,<br>&nbsp;&nbsp;&nbsp;&nbsp;In a cave on a mountain side.<br>&nbsp;&nbsp;&nbsp;&nbsp;(True, he finally died.)<br>&nbsp;&nbsp;&nbsp;&nbsp;The fame of his wisdom filled the land,<br>&nbsp;&nbsp;&nbsp;&nbsp;For his head was bald, and you'll understand<br>&nbsp;&nbsp;&nbsp;&nbsp;His beard was long and white<br>&nbsp;&nbsp;&nbsp;&nbsp;And his eyes uncommonly bright.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Philosophers gathered from far and near<br>&nbsp;&nbsp;&nbsp;&nbsp;To sit at his feat and hear and hear,<br>&nbsp;&nbsp;&nbsp;&nbsp;Though he never was heard<br>&nbsp;&nbsp;&nbsp;&nbsp;To utter a word<br>&nbsp;&nbsp;&nbsp;&nbsp;But 'Abracadabra, abracadab,<br>&nbsp;&nbsp;&nbsp;&nbsp;Abracada, abracad,<br>&nbsp;&nbsp;&nbsp;&nbsp;Abraca, abrac, abra, ab!'<br>&nbsp;&nbsp;&nbsp;&nbsp;'Twas all he had,<br>&nbsp;&nbsp;&nbsp;&nbsp;'Twas all they wanted to hear, and each<br>&nbsp;&nbsp;&nbsp;&nbsp;Made copious notes of the mystical speech,<br>&nbsp;&nbsp;&nbsp;&nbsp;Which they published next --<br>&nbsp;&nbsp;&nbsp;&nbsp;A trickle of text<br>&nbsp;&nbsp;&nbsp;&nbsp;In the meadow of commentary.<br>&nbsp;&nbsp;&nbsp;&nbsp;Mighty big books were these,<br>&nbsp;&nbsp;&nbsp;&nbsp;In a number, as leaves of trees;<br>&nbsp;&nbsp;&nbsp;&nbsp;In learning, remarkably -- very!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;He's dead,<br>&nbsp;&nbsp;&nbsp;&nbsp;As I said,<br>&nbsp;&nbsp;&nbsp;&nbsp;And the books of the sages have perished,<br>&nbsp;&nbsp;&nbsp;&nbsp;But his wisdom is sacredly cherished.<br>&nbsp;&nbsp;&nbsp;&nbsp;In Abracadabra it solemnly rings,<br>&nbsp;&nbsp;&nbsp;&nbsp;Like an ancient bell that forever swings.<br>&nbsp;&nbsp;&nbsp;&nbsp;O, I love to hear<br>&nbsp;&nbsp;&nbsp;&nbsp;That word make clear<br>&nbsp;&nbsp;&nbsp;&nbsp;Humanity's General Sense of Things.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Jamrach Holobom</cite>"
+    },
+    {
+        "name": "ABRIDGE",
+        "category": "verb",
+        "description": "To shorten.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;When in the course of human events it becomes necessary for<br>&nbsp;&nbsp;&nbsp;&nbsp;people to abridge their king, a decent respect for the opinions of<br>&nbsp;&nbsp;&nbsp;&nbsp;mankind requires that they should declare the causes which impel<br>&nbsp;&nbsp;&nbsp;&nbsp;them to the separation.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Oliver Cromwell</cite>"
+    },
+    {
+        "name": "ABRUPT",
+        "category": "adjective",
+        "description": "Sudden, without ceremony, like the arrival of a cannon- shot and the departure of the soldier whose interests are most affected by it. Dr. Samuel Johnson beautifully said of another author's ideas that they were 'concatenated without abruption.'"
+    },
+    {
+        "name": "ABSCOND",
+        "category": "verb",
+        "description": "To 'move in a mysterious way', commonly with the property of another.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Spring beckons! All things to the call respond;<br>&nbsp;&nbsp;&nbsp;&nbsp;The trees are leaving and cashiers abscond.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Phela Orm</cite>"
+    },
+    {
+        "name": "ABSENT",
+        "category": "adjective",
+        "description": "Peculiarly exposed to the tooth of detraction; vilifed; hopelessly in the wrong; superseded in the consideration and affection of another.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;To men a man is but a mind. Who cares<br>&nbsp;&nbsp;&nbsp;&nbsp;What face he carries or what form he wears?<br>&nbsp;&nbsp;&nbsp;&nbsp;But woman's body is the woman. O,<br>&nbsp;&nbsp;&nbsp;&nbsp;Stay thou, my sweetheart, and do never go,<br>&nbsp;&nbsp;&nbsp;&nbsp;But heed the warning words the sage hath said:<br>&nbsp;&nbsp;&nbsp;&nbsp;A woman absent is a woman dead.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Jogo Tyree</cite>"
+    },
+    {
+        "name": "ABSENTEE",
+        "category": "noun",
+        "description": "A person with an income who has had the forethought to remove himself from the sphere of exaction."
+    },
+    {
+        "name": "ABSOLUTE",
+        "category": "adjective",
+        "description": "Independent, irresponsible. An absolute monarchy is one in which the sovereign does as he pleases so long as he pleases the assassins. Not many absolute monarchies are left, most of them having been replaced by limited monarchies, where the sovereign's power for evil (and for good) is greatly curtailed, and by republics, which are governed by chance."
+    },
+    {
+        "name": "ABSTAINER",
+        "category": "noun",
+        "description": "A weak person who yields to the temptation of denying himself a pleasure. A total abstainer is one who abstains from everything but abstention, and especially from inactivity in the affairs of others.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Said a man to a crapulent youth: 'I thought<br>&nbsp;&nbsp;&nbsp;&nbsp;You a total abstainer, my son.'<br>&nbsp;&nbsp;&nbsp;&nbsp;'So I am, so I am,' said the scrapgrace caught --<br>&nbsp;&nbsp;&nbsp;&nbsp;'But not, sir, a bigoted one.'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "ABSURDITY",
+        "category": "noun",
+        "description": "A statement or belief manifestly inconsistent with one's own opinion."
+    },
+    {
+        "name": "ACADEME",
+        "category": "noun",
+        "description": "An ancient school where morality and philosophy were taught."
+    },
+    {
+        "name": "ACADEMY",
+        "category": "noun",
+        "description": "[from ACADEME] A modern school where football is taught."
+    },
+    {
+        "name": "ACCIDENT",
+        "category": "noun",
+        "description": "An inevitable occurrence due to the action of immutable natural laws."
+    },
+    {
+        "name": "ACCOMPLICE",
+        "category": "noun",
+        "description": "One associated with another in a crime, having guilty knowledge and complicity, as an attorney who defends a criminal, knowing him guilty. This view of the attorney's position in the matter has not hitherto commanded the assent of attorneys, no one having offered them a fee for assenting."
+    },
+    {
+        "name": "ACCORD",
+        "category": "noun",
+        "description": "Harmony."
+    },
+    {
+        "name": "ACCORDION",
+        "category": "noun",
+        "description": "An instrument in harmony with the sentiments of an assassin."
+    },
+    {
+        "name": "ACCOUNTABILITY",
+        "category": "noun",
+        "description": "The mother of caution.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'My accountability, bear in mind,'<br>&nbsp;&nbsp;&nbsp;&nbsp;Said the Grand Vizier: 'Yes, yes,'<br>&nbsp;&nbsp;&nbsp;&nbsp;Said the Shah: 'I do -- 'tis the only kind<br>&nbsp;&nbsp;&nbsp;&nbsp;Of ability you possess.'<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Joram Tate</cite>"
+    },
+    {
+        "name": "ACCUSE",
+        "category": "verb",
+        "description": "To affirm another's guilt or unworth; most commonly as a justification of ourselves for having wronged him."
+    },
+    {
+        "name": "ACEPHALOUS",
+        "category": "adjective",
+        "description": "In the surprising condition of the Crusader who absently pulled at his forelock some hours after a Saracen scimitar had, unconsciously to him, passed through his neck, as related by de Joinville."
+    },
+    {
+        "name": "ACHIEVEMENT",
+        "category": "noun",
+        "description": "The death of endeavor and the birth of disgust."
+    },
+    {
+        "name": "ACKNOWLEDGE",
+        "category": "verb",
+        "description": "To confess. Acknowledgement of one another's faults is the highest duty imposed by our love of truth."
+    },
+    {
+        "name": "ACQUAINTANCE",
+        "category": "noun",
+        "description": "A person whom we know well enough to borrow from, but not well enough to lend to. A degree of friendship called slight when its object is poor or obscure, and intimate when he is rich or famous."
+    },
+    {
+        "name": "ACTUALLY",
+        "category": "adjective",
+        "description": "Perhaps; possibly."
+    },
+    {
+        "name": "ADAGE",
+        "category": "noun",
+        "description": "Boned wisdom for weak teeth."
+    },
+    {
+        "name": "ADAMANT",
+        "category": "noun",
+        "description": "A mineral frequently found beneath a corset. Soluble in solicitate of gold."
+    },
+    {
+        "name": "ADDER",
+        "category": "noun",
+        "description": "A species of snake. So called from its habit of adding funeral outlays to the other expenses of living."
+    },
+    {
+        "name": "ADHERENT",
+        "category": "noun",
+        "description": "A follower who has not yet obtained all that he expects to get."
+    },
+    {
+        "name": "ADMINISTRATION",
+        "category": "noun",
+        "description": "An ingenious abstraction in politics, designed to receive the kicks and cuffs due to the premier or president. A man of straw, proof against bad-egging and dead-catting."
+    },
+    {
+        "name": "ADMIRAL",
+        "category": "noun",
+        "description": "That part of a war-ship which does the talking while the figure-head does the thinking."
+    },
+    {
+        "name": "ADMIRATION",
+        "category": "noun",
+        "description": "Our polite recognition of another's resemblance to ourselves."
+    },
+    {
+        "name": "ADMONITION",
+        "category": "noun",
+        "description": "Gentle reproof, as with a meat-axe. Friendly warning.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Consigned by way of admonition,<br>&nbsp;&nbsp;&nbsp;&nbsp;His soul forever to perdition.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Judibras</cite>"
+    },
+    {
+        "name": "ADORE",
+        "category": "verb",
+        "description": "To venerate expectantly."
+    },
+    {
+        "name": "ADVICE",
+        "category": "noun",
+        "description": "The smallest current coin.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'The man was in such deep distress,'<br>&nbsp;&nbsp;&nbsp;&nbsp;Said Tom, 'that I could do no less<br>&nbsp;&nbsp;&nbsp;&nbsp;Than give him good advice.' Said Jim:<br>&nbsp;&nbsp;&nbsp;&nbsp;'If less could have been done for him<br>&nbsp;&nbsp;&nbsp;&nbsp;I know you well enough, my son,<br>&nbsp;&nbsp;&nbsp;&nbsp;To know that's what you would have done.'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Jebel Jocordy</cite>"
+    },
+    {
+        "name": "AFFIANCED",
+        "category": "pp",
+        "description": "Fitted with an ankle-ring for the ball-and-chain."
+    },
+    {
+        "name": "AFFLICTION",
+        "category": "noun",
+        "description": "An acclimatizing process preparing the soul for another and bitter world."
+    },
+    {
+        "name": "AFRICAN",
+        "category": "noun",
+        "description": "A nigger that votes our way."
+    },
+    {
+        "name": "AGE",
+        "category": "noun",
+        "description": "That period of life in which we compound for the vices that we still cherish by reviling those that we have no longer the enterprise to commit."
+    },
+    {
+        "name": "AGITATOR",
+        "category": "noun",
+        "description": "A statesman who shakes the fruit trees of his neighbors -- to dislodge the worms."
+    },
+    {
+        "name": "AIM",
+        "category": "noun",
+        "description": "The task we set our wishes to.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Cheer up! Have you no aim in life?'<br>&nbsp;&nbsp;&nbsp;&nbsp;She tenderly inquired.<br>&nbsp;&nbsp;&nbsp;&nbsp;'An aim? Well, no, I haven't, wife;<br>&nbsp;&nbsp;&nbsp;&nbsp;The fact is -- I have fired.'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "AIR",
+        "category": "noun",
+        "description": "A nutritious substance supplied by a bountiful Providence for the fattening of the poor."
+    },
+    {
+        "name": "ALDERMAN",
+        "category": "noun",
+        "description": "An ingenious criminal who covers his secret thieving with a pretence of open marauding."
+    },
+    {
+        "name": "ALIEN",
+        "category": "noun",
+        "description": "An American sovereign in his probationary state."
+    },
+    {
+        "name": "ALLAH",
+        "category": "noun",
+        "description": "The Mahometan Supreme Being, as distinguished from the Christian, Jewish, and so forth.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Allah's good laws I faithfully have kept,<br>&nbsp;&nbsp;&nbsp;&nbsp;And ever for the sins of man have wept;<br>&nbsp;&nbsp;&nbsp;&nbsp;And sometimes kneeling in the temple I<br>&nbsp;&nbsp;&nbsp;&nbsp;Have reverently crossed my hands and slept.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Junker Barlow</cite>"
+    },
+    {
+        "name": "ALLEGIANCE",
+        "category": "noun",
+        "description": "&nbsp;&nbsp;&nbsp;&nbsp;This thing Allegiance, as I suppose,<br>&nbsp;&nbsp;&nbsp;&nbsp;Is a ring fitted in the subject's nose,<br>&nbsp;&nbsp;&nbsp;&nbsp;Whereby that organ is kept rightly pointed<br>&nbsp;&nbsp;&nbsp;&nbsp;To smell the sweetness of the Lord's anointed.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "ALLIANCE",
+        "category": "noun",
+        "description": "In international politics, the union of two thieves who have their hands so deeply inserted in each other's pockets that they cannot separately plunder a third."
+    },
+    {
+        "name": "ALLIGATOR",
+        "category": "noun",
+        "description": "The place whereupon the priest formerly raveled out the small intestine of the sacrificial victim for purposes of divination and cooked its flesh for the gods. The word is now seldom used, except with reference to the sacrifice of their liberty and peace by a male and a female tool.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;They stood before the altar and supplied<br>&nbsp;&nbsp;&nbsp;&nbsp;The fire themselves in which their fat was fried.<br>&nbsp;&nbsp;&nbsp;&nbsp;In vain the sacrifice! -- no god will claim<br>&nbsp;&nbsp;&nbsp;&nbsp;An offering burnt with an unholy flame.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>M.P. Nopput</cite>"
+    },
+    {
+        "name": "AMBIDEXTROUS",
+        "category": "adjective",
+        "description": "Able to pick with equal skill a right-hand pocket or a left."
+    },
+    {
+        "name": "AMBITION",
+        "category": "noun",
+        "description": "An overmastering desire to be vilified by enemies while living and made ridiculous by friends when dead."
+    },
+    {
+        "name": "AMNESTY",
+        "category": "noun",
+        "description": "The state's magnanimity to those offenders whom it would be too expensive to punish."
+    },
+    {
+        "name": "ANOINT",
+        "category": "verb",
+        "description": "To grease a king or other great functionary already sufficiently slippery.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;As sovereigns are anointed by the priesthood,<br>&nbsp;&nbsp;&nbsp;&nbsp;So pigs to lead the populace are greased good.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Judibras</cite>"
+    },
+    {
+        "name": "ANTIPATHY",
+        "category": "noun",
+        "description": "The sentiment inspired by one's friend's friend."
+    },
+    {
+        "name": "APHORISM",
+        "category": "noun",
+        "description": "Predigested wisdom.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The flabby wine-skin of his brain<br>&nbsp;&nbsp;&nbsp;&nbsp;Yields to some pathologic strain,<br>&nbsp;&nbsp;&nbsp;&nbsp;And voids from its unstored abysm<br>&nbsp;&nbsp;&nbsp;&nbsp;The driblet of an aphorism.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>'The Mad Philosopher,' 1697</cite>"
+    },
+    {
+        "name": "APOLOGIZE",
+        "category": "verb",
+        "description": "To lay the foundation for a future offence."
+    },
+    {
+        "name": "APOSTATE",
+        "category": "noun",
+        "description": "A leech who, having penetrated the shell of a turtle only to find that the creature has long been dead, deems it expedient to form a new attachment to a fresh turtle."
+    },
+    {
+        "name": "APOTHECARY",
+        "category": "noun",
+        "description": "The physician's accomplice, undertaker's benefactor and grave worm's provider.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;When Jove sent blessings to all men that are,<br>&nbsp;&nbsp;&nbsp;&nbsp;And Mercury conveyed them in a jar,<br>&nbsp;&nbsp;&nbsp;&nbsp;That friend of tricksters introduced by stealth<br>&nbsp;&nbsp;&nbsp;&nbsp;Disease for the apothecary's health,<br>&nbsp;&nbsp;&nbsp;&nbsp;Whose gratitude impelled him to proclaim:<br>&nbsp;&nbsp;&nbsp;&nbsp;'My deadliest drug shall bear my patron's name!'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "APPEAL",
+        "category": "verb",
+        "description": "In law, to put the dice into the box for another throw."
+    },
+    {
+        "name": "APPETITE",
+        "category": "noun",
+        "description": "An instinct thoughtfully implanted by Providence as a solution to the labor question."
+    },
+    {
+        "name": "APPLAUSE",
+        "category": "noun",
+        "description": "The echo of a platitude."
+    },
+    {
+        "name": "APRIL FOOL",
+        "category": "noun",
+        "description": "The March fool with another month added to his folly."
+    },
+    {
+        "name": "ARCHBISHOP",
+        "category": "noun",
+        "description": "An ecclesiastical dignitary one point holier than a bishop.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;If I were a jolly archbishop,<br>&nbsp;&nbsp;&nbsp;&nbsp;On Fridays I'd eat all the fish up --<br>&nbsp;&nbsp;&nbsp;&nbsp;Salmon and flounders and smelts;<br>&nbsp;&nbsp;&nbsp;&nbsp;On other days everything else.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Jodo Rem</cite>"
+    },
+    {
+        "name": "ARCHITECT",
+        "category": "noun",
+        "description": "One who drafts a plan of your house, and plans a draft of your money."
+    },
+    {
+        "name": "ARDOR",
+        "category": "noun",
+        "description": "The quality that distinguishes love without knowledge."
+    },
+    {
+        "name": "ARENA",
+        "category": "noun",
+        "description": "In politics, an imaginary rat-pit in which the statesman wrestles with his record."
+    },
+    {
+        "name": "ARISTOCRACY",
+        "category": "noun",
+        "description": "Government by the best men. (In this sense the word is obsolete; so is that kind of government.) Fellows that wear downy hats and clean shirts -- guilty of education and suspected of bank accounts."
+    },
+    {
+        "name": "ARMOR",
+        "category": "noun",
+        "description": "The kind of clothing worn by a man whose tailor is a blacksmith."
+    },
+    {
+        "name": "ARRAYED",
+        "category": "pp",
+        "description": "Drawn up and given an orderly disposition, as a rioter hanged to a lamppost."
+    },
+    {
+        "name": "ARREST",
+        "category": "verb",
+        "description": "Formally to detain one accused of unusualness.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;God made the world in six days and was arrested on the seventh.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>The Unauthorized Version</cite>"
+    },
+    {
+        "name": "ARSENIC",
+        "category": "noun",
+        "description": "A kind of cosmetic greatly affected by the ladies, whom it greatly affects in turn.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Eat arsenic? Yes, all you get,'<br>&nbsp;&nbsp;&nbsp;&nbsp;Consenting, he did speak up;<br>&nbsp;&nbsp;&nbsp;&nbsp;''Tis better you should eat it, pet,<br>&nbsp;&nbsp;&nbsp;&nbsp;Than put it in my teacup.'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Joel Huck</cite>"
+    },
+    {
+        "name": "ART",
+        "category": "noun",
+        "description": "This word has no definition. Its origin is related as follows by the ingenious Father Gassalasca Jape, S.J.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;One day a wag -- what would the wretch be at? --<br>&nbsp;&nbsp;&nbsp;&nbsp;Shifted a letter of the cipher RAT,<br>&nbsp;&nbsp;&nbsp;&nbsp;And said it was a god's name! Straight arose<br>&nbsp;&nbsp;&nbsp;&nbsp;Fantastic priests and postulants (with shows,<br>&nbsp;&nbsp;&nbsp;&nbsp;And mysteries, and mummeries, and hymns,<br>&nbsp;&nbsp;&nbsp;&nbsp;And disputations dire that lamed their limbs)<br>&nbsp;&nbsp;&nbsp;&nbsp;To serve his temple and maintain the fires,<br>&nbsp;&nbsp;&nbsp;&nbsp;Expound the law, manipulate the wires.<br>&nbsp;&nbsp;&nbsp;&nbsp;Amazed, the populace that rites attend,<br>&nbsp;&nbsp;&nbsp;&nbsp;Believe whate'er they cannot comprehend,<br>&nbsp;&nbsp;&nbsp;&nbsp;And, inly edified to learn that two<br>&nbsp;&nbsp;&nbsp;&nbsp;Half-hairs joined so and so (as Art can do)<br>&nbsp;&nbsp;&nbsp;&nbsp;Have sweeter values and a grace more fit<br>&nbsp;&nbsp;&nbsp;&nbsp;Than Nature's hairs that never have been split,<br>&nbsp;&nbsp;&nbsp;&nbsp;Bring cates and wines for sacrificial feasts,<br>&nbsp;&nbsp;&nbsp;&nbsp;And sell their garments to support the priests."
+    },
+    {
+        "name": "ARTLESSNESS",
+        "category": "noun",
+        "description": "A certain engaging quality to which women attain by long study and severe practice upon the admiring male, who is pleased to fancy it resembles the candid simplicity of his young."
+    },
+    {
+        "name": "ASPERSE",
+        "category": "verb",
+        "description": "Maliciously to ascribe to another vicious actions which one has not had the temptation and opportunity to commit."
+    },
+    {
+        "name": "ASS",
+        "category": "noun",
+        "description": "A public singer with a good voice but no ear. In Virginia City, Nevada, he is called the Washoe Canary, in Dakota, the Senator, and everywhere the Donkey. The animal is widely and variously celebrated in the literature, art and religion of every age and country; no other so engages and fires the human imagination as this noble vertebrate. Indeed, it is doubted by some (Ramasilus, lib. II., De Clem., and C. Stantatus, De Temperamente) if it is not a god; and as such we know it was worshiped by the Etruscans, and, if we may believe Macrobious, by the Cupasians also. Of the only two animals admitted into the Mahometan Paradise along with the souls of men, the ass that carried Balaam is one, the dog of the Seven Sleepers the other. This is no small distinction. From what has been written about this beast might be compiled a library of great splendor and magnitude, rivalling that of the Shakespearean cult, and that which clusters about the Bible. It may be said, generally, that all literature is more or less Asinine.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Hail, holy Ass!' the quiring angels sing;<br>&nbsp;&nbsp;&nbsp;&nbsp;'Priest of Unreason, and of Discords King!<br>&nbsp;&nbsp;&nbsp;&nbsp;Great co-Creator, let Thy glory shine:<br>&nbsp;&nbsp;&nbsp;&nbsp;God made all else, the Mule, the Mule is thine!'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "AUCTIONEER",
+        "category": "noun",
+        "description": "The man who proclaims with a hammer that he has picked a pocket with his tongue."
+    },
+    {
+        "name": "AUSTRALIA",
+        "category": "noun",
+        "description": "A country lying in the South Sea, whose industrial and commercial development has been unspeakably retarded by an unfortunate dispute among geographers as to whether it is a continent or an island."
+    },
+    {
+        "name": "AVERNUS",
+        "category": "noun",
+        "description": "The lake by which the ancients entered the infernal regions. The fact that access to the infernal regions was obtained by a lake is believed by the learned Marcus Ansello Scrutator to have suggested the Christian rite of baptism by immersion. This, however, has been shown by Lactantius to be an error.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Facilis descensus Averni,<br>&nbsp;&nbsp;&nbsp;&nbsp;The poet remarks; and the sense<br>&nbsp;&nbsp;&nbsp;&nbsp;Of it is that when down-hill I turn I<br>&nbsp;&nbsp;&nbsp;&nbsp;Will get more of punches than pence.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Jehal Dai Lupe</cite>"
     }
 ]
