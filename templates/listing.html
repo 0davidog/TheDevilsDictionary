@@ -3,10 +3,28 @@
 {% block content %}
 <div class="container p-5">
     <div class="row">
+
         <div class="col">
-            <h1>{{ listing_name | title }}</h1>
-            <hr class="mb-5">
+            <nav>
+                {% if prev_letter %}
+                    <a href="{{ url_for('listing', listing_name=prev_letter) }}">Previous ({{ prev_letter }})</a>
+                {% endif %}
+            </nav>    
         </div>
+
+        <div class="col text-center">
+            <h1>{{ listing_name | title }}</h1>
+        </div>
+
+        <div class="col text-end">
+            <nav>
+                {% if next_letter %}
+                    <a href="{{ url_for('listing', listing_name=next_letter) }}">Next ({{ next_letter }})</a>
+                {% endif %}
+            </nav>
+        </div>
+
+        <hr class="mb-5">
     </div>
     {% for entry in listings %}
     <div class="row mb-5">

@@ -46,15 +46,29 @@ def index():  # Define a function called index, which will be executed when the 
 @app.route("/<listing_name>")
 def listing(listing_name):
     data = []
+    letters = [chr(i) for i in range(ord('A'), ord('Z') + 1)]
+    
+    # Find the index of the current letter
+    current_index = letters.index(listing_name.upper())
+
+    # Determine the previous and next letters if they exist
+    prev_letter = letters[current_index - 1] if current_index > 0 else None
+    next_letter = letters[current_index + 1] if current_index < len(letters) - 1 else None
 
     try:
-        with open("data/" + listing_name + ".json", "r") as json_data:
+        with open(f"data/{listing_name.upper()}.json", "r") as json_data:
             data = json.load(json_data)
     except FileNotFoundError:
         # Handle the case where the file does not exist
         pass
 
-    return render_template("listing.html", listing_name=listing_name, listings=data)
+    return render_template(
+        "listing.html", 
+        listing_name=listing_name, 
+        listings=data, 
+        prev_letter=prev_letter, 
+        next_letter=next_letter
+    )
 
 
 @app.route("/<listing_name>/<entry_name>")
