@@ -8,12 +8,22 @@
             <hr>
         </div>
     </div>
-    <div class="row">
+
+    <div class="row mb-5">
         <div class="col">
             {% for letter in letters %}
             <a href="{{ url_for('listing', listing_name=letter)|lower }}" class="index-letter me-2">{{ letter }}</a>
             {% endfor %}
         </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <h2><a href="{{ url_for('entry', listing_name=listing_name, entry_name=random.name.replace(' ', '_'))|lower }}">{{ random.name | custom_title }}.</a></h2>
+            <p class="text-muted"><em>{{ random.category }}</em></p>
+            <p>{{ random.description | safe }}</p>
+        </div>
+
     </div>
 </div>
 
