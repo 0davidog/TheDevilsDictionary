@@ -1,10 +1,5 @@
 [
     {
-        "name": "",
-        "category": "",
-        "description": ""
-    },
-    {
         "name": "BAAL",
         "category": "noun",
         "description": "An old deity formerly much worshiped under various names. As Baal he was popular with the Phoenicians; as Belus or Bel he had the honor to be served by the priest Berosus, who wrote the famous account of the Deluge; as Babel he had a tower partly erected to his glory on the Plain of Shinar. From Babel comes our English word 'babble.' Under whatever name worshiped, Baal is the Sun-god. As Beelzebub he is the god of flies, which are begotten of the sun's rays on the stagnant water. In Physicia Baal is still worshiped as Bolus, and as Belly he is adored and served with abundant sacrifice by the priests of Guttledom."
@@ -12,6 +7,201 @@
     {
         "name": "BABE OR BABY",
         "category": "noun",
-        "description": "A misshapen creature of no particular age, sex, or condition, chiefly remarkable for the violence of the sympathies and antipathies it excites in others, itself without sentiment or emotion. There have been famous babes; for example, little Moses, from whose adventure in the bulrushes the Egyptian hierophants of seven centuries before doubtless derived their idle tale of the child Osiris being preserved on a floating lotus leaf.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Ere babes were invented<br>&nbsp;&nbsp;&nbsp;&nbsp;The girls were contended.<br>&nbsp;&nbsp;&nbsp;&nbsp;Now man is tormented<br>&nbsp;&nbsp;&nbsp;&nbsp;Until to buy babes he has squandered<br>&nbsp;&nbsp;&nbsp;&nbsp;His money. And so I have pondered<br>&nbsp;&nbsp;&nbsp;&nbsp;This thing, and thought may be<br>&nbsp;&nbsp;&nbsp;&nbsp;'T were better that Baby<br>&nbsp;&nbsp;&nbsp;&nbsp;The First had been eagled or condored.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Ro Amil</cite>"
+        "description": "A misshapen creature of no particular age, sex, or condition, chiefly remarkable for the violence of the sympathies and antipathies it excites in others, itself without sentiment or emotion. There have been famous babes; for example, little Moses, from whose adventure in the bulrushes the Egyptian hierophants of seven centuries before doubtless derived their idle tale of the child Osiris being preserved on a floating lotus leaf.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Ere babes were invented<br>&nbsp;&nbsp;&nbsp;&nbsp;The girls were contended.<br>&nbsp;&nbsp;&nbsp;&nbsp;Now man is tormented<br>&nbsp;&nbsp;&nbsp;&nbsp;Until to buy babes he has squandered<br>&nbsp;&nbsp;&nbsp;&nbsp;His money. And so I have pondered<br>&nbsp;&nbsp;&nbsp;&nbsp;This thing, and thought may be<br>&nbsp;&nbsp;&nbsp;&nbsp;'T were better that Baby<br>&nbsp;&nbsp;&nbsp;&nbsp;The First had been eagled or condored.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Ro Amil</cite>"
+    },
+    {
+        "name": "BACCHUS",
+        "category": "noun",
+        "description": "A convenient deity invented by the ancients as an excuse for getting drunk.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Is public worship, then, a sin,<br>&nbsp;&nbsp;&nbsp;&nbsp;That for devotions paid to Bacchus<br>&nbsp;&nbsp;&nbsp;&nbsp;The lictors dare to run us in,<br>&nbsp;&nbsp;&nbsp;&nbsp;And resolutely thump and whack us?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Jorace</cite>"
+    },
+    {
+        "name": "BACK",
+        "category": "noun",
+        "description": "That part of your friend which it is your privilege to contemplate in your adversity."
+    },
+    {
+        "name": "BACKBITE",
+        "category": "verb",
+        "description": "To speak of a man as you find him when he can't find you."
+    },
+    {
+        "name": "BAIT",
+        "category": "noun",
+        "description": "A preparation that renders the hook more palatable. The best kind is beauty."
+    },
+    {
+        "name": "BAPTISM",
+        "category": "noun",
+        "description": "A sacred rite of such efficacy that he who finds himself in heaven without having undergone it will be unhappy forever. It is performed with water in two ways -- by immersion, or plunging, and by aspersion, or sprinkling.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;But whether the plan of immersion<br>&nbsp;&nbsp;&nbsp;&nbsp;Is better than simple aspersion<br>&nbsp;&nbsp;&nbsp;&nbsp;Let those immersed<br>&nbsp;&nbsp;&nbsp;&nbsp;And those aspersed<br>&nbsp;&nbsp;&nbsp;&nbsp;Decide by the Authorized Version,<br>&nbsp;&nbsp;&nbsp;&nbsp;And by matching their agues tertian.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "BAROMETER",
+        "category": "noun",
+        "description": "An ingenious instrument which indicates what kind of weather we are having."
+    },
+    {
+        "name": "BARRACK",
+        "category": "noun",
+        "description": "A house in which soldiers enjoy a portion of that of which it is their business to deprive others."
+    },
+    {
+        "name": "BASILISK",
+        "category": "noun",
+        "description": "The cockatrice. A sort of serpent hatched form the egg of a cock. The basilisk had a bad eye, and its glance was fatal. Many infidels deny this creature's existence, but Semprello Aurator saw and handled one that had been blinded by lightning as a punishment for having fatally gazed on a lady of rank whom Jupiter loved. Juno afterward restored the reptile's sight and hid it in a cave. Nothing is so well attested by the ancients as the existence of the basilisk, but the cocks have stopped laying."
+    },
+    {
+        "name": "BASTINADO",
+        "category": "noun",
+        "description": "The act of walking on wood without exertion."
+    },
+    {
+        "name": "BATH",
+        "category": "noun",
+        "description": "A kind of mystic ceremony substituted for religious worship, with what spiritual efficacy has not been determined.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The man who taketh a steam bath<br>&nbsp;&nbsp;&nbsp;&nbsp;He loseth all the skin he hath,<br>&nbsp;&nbsp;&nbsp;&nbsp;And, for he's boiled a brilliant red,<br>&nbsp;&nbsp;&nbsp;&nbsp;Thinketh to cleanliness he's wed,<br>&nbsp;&nbsp;&nbsp;&nbsp;Forgetting that his lungs he's soiling<br>&nbsp;&nbsp;&nbsp;&nbsp;With dirty vapors of the boiling.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Richard Gwow</cite>"
+    },
+    {
+        "name": "BATTLE",
+        "category": "noun",
+        "description": "A method of untying with the teeth of a political knot that would not yield to the tongue."
+    },
+    {
+        "name": "BEARD",
+        "category": "noun",
+        "description": "The hair that is commonly cut off by those who justly execrate the absurd Chinese custom of shaving the head."
+    },
+    {
+        "name": "BEAUTY",
+        "category": "noun",
+        "description": "The power by which a woman charms a lover and terrifies a husband."
+    },
+    {
+        "name": "BEFRIEND",
+        "category": "verb",
+        "description": "To make an ingrate."
+    },
+    {
+        "name": "BEG",
+        "category": "verb",
+        "description": "To ask for something with an earnestness proportioned to the belief that it will not be given.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Who is that, father?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A mendicant, child,&nbsp;&nbsp;&nbsp;&nbsp;Haggard, morose, and unaffable -- wild!<br>&nbsp;&nbsp;&nbsp;&nbsp;See how he glares through the bars of his cell!<br>&nbsp;&nbsp;&nbsp;&nbsp;With Citizen Mendicant all is not well.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Why did they put him there, father?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Because<br>&nbsp;&nbsp;&nbsp;&nbsp;Obeying his belly he struck at the laws.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;His belly?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Oh, well, he was starving, my boy --<br>&nbsp;&nbsp;&nbsp;&nbsp;A state in which, doubtless, there's little of joy.<br>&nbsp;&nbsp;&nbsp;&nbsp;No bite had he eaten for days, and his cry<br>&nbsp;&nbsp;&nbsp;&nbsp;Was 'Bread!' ever 'Bread!'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;What's the matter with pie?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;With little to wear, he had nothing to sell;<br>&nbsp;&nbsp;&nbsp;&nbsp;To beg was unlawful -- improper as well.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Why didn't he work?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;He would even have done that,<br>&nbsp;&nbsp;&nbsp;&nbsp;But men said: 'Get out!' and the State remarked: 'Scat!'<br>&nbsp;&nbsp;&nbsp;&nbsp;I mention these incidents merely to show<br>&nbsp;&nbsp;&nbsp;&nbsp;That the vengeance he took was uncommonly low.<br>&nbsp;&nbsp;&nbsp;&nbsp;Revenge, at the best, is the act of a Siou,<br>&nbsp;&nbsp;&nbsp;&nbsp;But for trifles --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Pray what did bad Mendicant do?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Stole two loaves of bread to replenish his lack<br>&nbsp;&nbsp;&nbsp;&nbsp;And tuck out the belly that clung to his back.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Is that all father dear?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;There's little to tell:<br>&nbsp;&nbsp;&nbsp;&nbsp;They sent him to jail, and they'll send him to -- well,<br>&nbsp;&nbsp;&nbsp;&nbsp;The company's better than here we can boast,<br>&nbsp;&nbsp;&nbsp;&nbsp;And there's --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Bread for the needy, dear father?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Um -- toast.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Atka Mip</cite>"
+    },
+    {
+        "name": "BEGGAR",
+        "category": "noun",
+        "description": "One who has relied on the assistance of his friends."
+    },
+    {
+        "name": "BEHAVIOR",
+        "category": "noun",
+        "description": "Conduct, as determined, not by principle, but by breeding. The word seems to be somewhat loosely used in Dr. Jamrach Holobom's translation of the following lines from the Dies Irae:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Recordare, Jesu pie,<br>&nbsp;&nbsp;&nbsp;&nbsp;Quod sum causa tuae viae.<br>&nbsp;&nbsp;&nbsp;&nbsp;Ne me perdas illa die.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Pray remember, sacred Savior,<br>&nbsp;&nbsp;&nbsp;&nbsp;Whose the thoughtless hand that gave your<br>&nbsp;&nbsp;&nbsp;&nbsp;Death-blow. Pardon such behavior."
+    },
+    {
+        "name": "BELLADONNA",
+        "category": "noun",
+        "description": "In Italian a beautiful lady; in English a deadly poison. A striking example of the essential identity of the two tongues."
+    },
+    {
+        "name": "BENEDICTINES",
+        "category": "noun",
+        "description": "An order of monks otherwise known as black friars.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;She thought it a crow, but it turn out to be<br>&nbsp;&nbsp;&nbsp;&nbsp;A monk of St. Benedict croaking a text.<br>&nbsp;&nbsp;&nbsp;&nbsp;'Here's one of an order of cooks,' said she --<br>&nbsp;&nbsp;&nbsp;&nbsp;'Black friars in this world, fried black in the next.'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>'The Devil on Earth' (London, 1712)</cite>"
+    },
+    {
+        "name": "BENEFACTOR",
+        "category": "noun",
+        "description": "One who makes heavy purchases of ingratitude, without, however, materially affecting the price, which is still within the means of all."
+    },
+    {
+        "name": "BERENICE'S HAIR",
+        "category": "noun",
+        "description": "A constellation (Coma Berenices) named in honor of one who sacrificed her hair to save her husband.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Her locks an ancient lady gave<br>&nbsp;&nbsp;&nbsp;&nbsp;Her loving husband's life to save;<br>&nbsp;&nbsp;&nbsp;&nbsp;And men -- they honored so the dame --<br>&nbsp;&nbsp;&nbsp;&nbsp;Upon some stars bestowed her name.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;But to our modern married fair,<br>&nbsp;&nbsp;&nbsp;&nbsp;Who'd give their lords to save their hair,<br>&nbsp;&nbsp;&nbsp;&nbsp;No stellar recognition's given.<br>&nbsp;&nbsp;&nbsp;&nbsp;There are not stars enough in heaven.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "BIGAMY",
+        "category": "noun",
+        "description": "A mistake in taste for which the wisdom of the future will adjudge a punishment called trigamy."
+    },
+    {
+        "name": "BIGOT",
+        "category": "noun",
+        "description": "One who is obstinately and zealously attached to an opinion that you do not entertain."
+    },
+    {
+        "name": "BILLINGSGATE",
+        "category": "noun",
+        "description": "The invective of an opponent."
+    },
+    {
+        "name": "BIRTH",
+        "category": "noun",
+        "description": "The first and direst of all disasters. As to the nature of it there appears to be no uniformity. Castor and Pollux were born from the egg. Pallas came out of a skull. Galatea was once a block of stone. Peresilis, who wrote in the tenth century, avers that he grew up out of the ground where a priest had spilled holy water. It is known that Arimaxus was derived from a hole in the earth, made by a stroke of lightning. Leucomedon was the son of a cavern in Mount Aetna, and I have myself seen a man come out of a wine cellar."
+    },
+    {
+        "name": "BLACKGUARD",
+        "category": "noun",
+        "description": "A man whose qualities, prepared for display like a box of berries in a market -- the fine ones on top -- have been opened on the wrong side. An inverted gentleman."
+    },
+    {
+        "name": "BLANK-VERSE",
+        "category": "noun",
+        "description": "Unrhymed iambic pentameters -- the most difficult kind of English verse to write acceptably; a kind, therefore, much affected by those who cannot acceptably write any kind."
+    },
+    {
+        "name": "BODY-SNATCHER",
+        "category": "noun",
+        "description": "A robber of grave-worms. One who supplies the young physicians with that which the old physicians have supplied the undertaker. The hyena.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'One night,' a doctor said, 'last fall,<br>&nbsp;&nbsp;&nbsp;&nbsp;I and my comrades, four in all,<br>&nbsp;&nbsp;&nbsp;&nbsp;When visiting a graveyard stood<br>&nbsp;&nbsp;&nbsp;&nbsp;Within the shadow of a wall.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;While waiting for the moon to sink<br>&nbsp;&nbsp;&nbsp;&nbsp;We saw a wild hyena slink<br>&nbsp;&nbsp;&nbsp;&nbsp;About a new-made grave, and then<br>&nbsp;&nbsp;&nbsp;&nbsp;Begin to excavate its brink!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Shocked by the horrid act, we made<br>&nbsp;&nbsp;&nbsp;&nbsp;A sally from our ambuscade,<br>&nbsp;&nbsp;&nbsp;&nbsp;And, falling on the unholy beast,<br>&nbsp;&nbsp;&nbsp;&nbsp;Dispatched him with a pick and spade.'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Bettel K. Jhones</cite>"
+    },
+    {
+        "name": "BONDSMAN",
+        "category": "noun",
+        "description": "A fool who, having property of his own, undertakes to become responsible for that entrusted to another to a third. Philippe of Orleans wishing to appoint one of his favorites, a dissolute nobleman, to a high office, asked him what security he would be able to give. 'I need no bondsmen,' he replied, 'for I can give you my word of honor.' 'And pray what may be the value of that?' inquired the amused Regent. 'Monsieur, it is worth its weight in gold.'"
+    },
+    {
+        "name": "BORE",
+        "category": "noun",
+        "description": "A person who talks when you wish him to listen."
+    },
+    {
+        "name": "BOTANY",
+        "category": "noun",
+        "description": "The science of vegetables -- those that are not good to eat, as well as those that are. It deals largely with their flowers, which are commonly badly designed, inartistic in color, and ill- smelling."
+    },
+    {
+        "name": "BOTTLE-NOSED",
+        "category": "adjective",
+        "description": "Having a nose created in the image of its maker."
+    },
+    {
+        "name": "BOUNDARY",
+        "category": "noun",
+        "description": "In political geography, an imaginary line between two nations, separating the imaginary rights of one from the imaginary rights of the other."
+    },
+    {
+        "name": "BOUNTY",
+        "category": "noun",
+        "description": "The liberality of one who has much, in permitting one who has nothing to get all that he can.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A single swallow, it is said, devours ten millions of insects every<br>&nbsp;&nbsp;&nbsp;&nbsp;year. The supplying of these insects I take to be a signal instance<br>&nbsp;&nbsp;&nbsp;&nbsp;of the Creator's bounty in providing for the lives of His creatures.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Henry Ward Beecher</cite>"
+    },
+    {
+        "name": "BRAHMA",
+        "category": "noun",
+        "description": "He who created the Hindoos, who are preserved by Vishnu and destroyed by Siva -- a rather neater division of labor than is found among the deities of some other nations. The Abracadabranese, for example, are created by Sin, maintained by Theft and destroyed by Folly. The priests of Brahma, like those of Abracadabranese, are holy and learned men who are never naughty.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;O Brahma, thou rare old Divinity,<br>&nbsp;&nbsp;&nbsp;&nbsp;First Person of the Hindoo Trinity,<br>&nbsp;&nbsp;&nbsp;&nbsp;You sit there so calm and securely,<br>&nbsp;&nbsp;&nbsp;&nbsp;With feet folded up so demurely --<br>&nbsp;&nbsp;&nbsp;&nbsp;You're the First Person Singular, surely.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Polydore Smith</cite>"
+    },
+    {
+        "name": "BRAIN",
+        "category": "noun",
+        "description": "An apparatus with which we think what we think. That which distinguishes the man who is content to be something from the man who wishes to do something. A man of great wealth, or one who has been pitchforked into high station, has commonly such a headful of brain that his neighbors cannot keep their hats on. In our civilization, and under our republican form of government, brain is so highly honored that it is rewarded by exemption from the cares of office."
+    },
+    {
+        "name": "BRANDY",
+        "category": "noun",
+        "description": "A cordial composed of one part thunder-and-lightning, one part remorse, two parts bloody murder, one part death-hell-and-the- grave and four parts clarified Satan. Dose, a headful all the time. Brandy is said by Dr. Johnson to be the drink of heroes. Only a hero will venture to drink it."
+    },
+    {
+        "name": "BRIDE",
+        "category": "noun",
+        "description": "A woman with a fine prospect of happiness behind her."
+    },
+    {
+        "name": "BRUTE",
+        "category": "noun",
+        "description": "See HUSBAND."
     }
 ]
