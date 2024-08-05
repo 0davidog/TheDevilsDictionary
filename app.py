@@ -38,8 +38,8 @@ def custom_title(value):
 app.jinja_env.filters['custom_title'] = custom_title
 
 
-@app.route("/")  # Decorator to associate the index() function with the root URL ("/")
-def index():  # Define a function called index, which will be executed when the root URL is accessed
+@app.route("/")
+def index():
     letters = [chr(i) for i in range(ord('A'), ord('Z') + 1)]
     random_letter = random.choice(letters)
 
@@ -49,9 +49,11 @@ def index():  # Define a function called index, which will be executed when the 
             data = json.load(json_data)
             if data:  # Check if data is not empty
                 random_entry = random.choice(data)
-    except FileNotFoundError:
-        # Handle the case where the file does not exist
-        random_entry = "File not found."
+                if not isinstance(random_entry, dict) or 'name' not in random_entry:
+                    raise ValueError("Invalid data format: Each entry must be a dictionary with a 'name' key.")
+    except (FileNotFoundError, ValueError) as e:
+        # Handle the case where the file does not exist or data format is invalid
+        random_entry = {"name": "File not found or invalid data format."}
 
     return render_template("index.html", page_title="Index", letters=letters, random=random_entry, listing_name=random_letter)
 
