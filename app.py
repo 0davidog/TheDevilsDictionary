@@ -45,7 +45,7 @@ def index():
 
     random_entry = None
     try:
-        file_path = os.path.join(app.root_path, 'data', f"{random_letter.upper()}.json")
+        file_path = os.path.join(app.root_path, 'data', f"{random_letter.lower()}.json")
         app.logger.debug(f"Loading JSON file from: {file_path}")
         with open(file_path, "r") as json_data:
             data = json.load(json_data)
@@ -68,7 +68,7 @@ def listing(listing_name):
     next_letter = letters[current_index + 1] if current_index < len(letters) - 1 else None
 
     try:
-        file_path = os.path.join(app.root_path, 'data', f"{listing_name.upper()}.json")
+        file_path = os.path.join(app.root_path, 'data', f"{listing_name.lower()}.json")
         app.logger.debug(f"Loading JSON file from: {file_path}")
         with open(file_path, "r") as json_data:
             data = json.load(json_data)
@@ -83,7 +83,7 @@ def entry(listing_name, entry_name):
     entry_name = entry_name.replace("_", " ").upper()
 
     try:
-        file_path = os.path.join(app.root_path, 'data', f"{listing_name.upper()}.json")
+        file_path = os.path.join(app.root_path, 'data', f"{listing_name.lower()}.json")
         app.logger.debug(f"Loading JSON file from: {file_path}")
         with open(file_path, "r") as json_data:
             data = json.load(json_data)
