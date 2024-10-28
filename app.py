@@ -1,6 +1,6 @@
 import os
 import json
-from flask import Flask, render_template, request, flash
+from flask import Flask, render_template, request, flash, send_from_directory
 from flask_mail import Mail, Message
 import random
 import logging
@@ -37,6 +37,10 @@ def custom_title(value):
     return ' '.join(title_cased_words)
 
 app.jinja_env.filters['custom_title'] = custom_title
+
+@app.route('/robots.txt')
+def robots():
+    return send_from_directory(app.root_path, 'robots.txt')
 
 @app.route("/")
 def index():
