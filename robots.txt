@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://the-devils-dictionary-5b2dd95b8a94.herokuapp.com/sitemap.xml
