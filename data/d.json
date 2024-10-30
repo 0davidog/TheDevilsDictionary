@@ -1,17 +1,257 @@
 [
     {
-        "name": "",
-        "category": "",
-        "description": ""
-    },
-    {
         "name": "DAMN",
         "category": "verb",
-        "description": "A word formerly much used by the Paphlagonians, the meaning of which is lost. By the learned Dr. Dolabelly Gak it is believed to have been a term of satisfaction, implying the highest possible degree of mental tranquillity. Professor Groke, on the contrary, thinks it expressed an emotion of tumultuous delight, because it so frequently occurs in combination with the word jod or god, meaning 'joy.' It would be with great diffidence that I should advance an opinion conflicting with that of either of these formidable authorities."
+        "description": "A word formerly much used by the Paphlagonians, the meaning of which is lost. By the learned Dr. Dolabelly Gak it is believed to have been a term of satisfaction, implying the highest possible degree of mental tranquillity. Professor Groke, on the contrary, thinks it expressed an emotion of tumultuous delight, because it so frequently occurs in combination with the word jod or god, meaning &quot;joy.&quot; It would be with great diffidence that I should advance an opinion conflicting with that of either of these formidable authorities."
     },
     {
         "name": "DANCE",
         "category": "verb",
         "description": "To leap about to the sound of tittering music, preferably with arms about your neighbor's wife or daughter. There are many kinds of dances, but all those requiring the participation of the two sexes have two characteristics in common: they are conspicuously innocent, and warmly loved by the vicious."
+    },
+    {
+        "name": "DANGER",
+        "category": "noun",
+        "description": "&nbsp;&nbsp;&nbsp;&nbsp;A savage beast which, when it sleeps,<br>&nbsp;&nbsp;&nbsp;&nbsp;Man girds at and despises,<br>&nbsp;&nbsp;&nbsp;&nbsp;But takes himself away by leaps<br>&nbsp;&nbsp;&nbsp;&nbsp;And bounds when it arises.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Ambat Delaso</cite>"
+    },
+    {
+        "name": "DARING",
+        "category": "noun",
+        "description": "One of the most conspicuous qualities of a man in security."
+    },
+    {
+        "name": "DATARY",
+        "category": "noun",
+        "description": "A high ecclesiastic official of the Roman Catholic Church, whose important function is to brand the Pope's bulls with the words Datum Romae. He enjoys a princely revenue and the friendship of God."
+    },
+    {
+        "name": "DAWN",
+        "category": "noun",
+        "description": "The time when men of reason go to bed. Certain old men prefer to rise at about that time, taking a cold bath and a long walk with an empty stomach, and otherwise mortifying the flesh. They then point with pride to these practices as the cause of their sturdy health and ripe years; the truth being that they are hearty and old, not because of their habits, but in spite of them. The reason we find only robust persons doing this thing is that it has killed all the others who have tried it."
+    },
+    {
+        "name": "DAY",
+        "category": "noun",
+        "description": "A period of twenty-four hours, mostly misspent. This period is divided into two parts, the day proper and the night, or day improper -- the former devoted to sins of business, the latter consecrated to the other sort. These two kinds of social activity overlap."
+    },
+    {
+        "name": "DEAD",
+        "category": "adjective",
+        "description": "&nbsp;&nbsp;&nbsp;&nbsp;Done with the work of breathing; done<br>&nbsp;&nbsp;&nbsp;&nbsp;With all the world; the mad race run<br>&nbsp;&nbsp;&nbsp;&nbsp;Though to the end; the golden goal<br>&nbsp;&nbsp;&nbsp;&nbsp;Attained and found to be a hole!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Squatol Johnes</cite>"
+    },
+    {
+        "name": "DEBAUCHEE",
+        "category": "noun",
+        "description": "One who has so earnestly pursued pleasure that he has had the misfortune to overtake it."
+    },
+    {
+        "name": "DEBT",
+        "category": "noun",
+        "description": "An ingenious substitute for the chain and whip of the slave-driver.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;As, pent in an aquarium, the troutlet<br>&nbsp;&nbsp;&nbsp;&nbsp;Swims round and round his tank to find an outlet,<br>&nbsp;&nbsp;&nbsp;&nbsp;Pressing his nose against the glass that holds him,<br>&nbsp;&nbsp;&nbsp;&nbsp;Nor ever sees the prison that enfolds him;<br>&nbsp;&nbsp;&nbsp;&nbsp;So the poor debtor, seeing naught around him,<br>&nbsp;&nbsp;&nbsp;&nbsp;Yet feels the narrow limits that impound him,<br>&nbsp;&nbsp;&nbsp;&nbsp;Grieves at his debt and studies to evade it,<br>&nbsp;&nbsp;&nbsp;&nbsp;And finds at last he might as well have paid it.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Barlow S. Vode</cite>"
+    },
+    {
+        "name": "DECALOGUE",
+        "category": "noun",
+        "description": "A series of commandments, ten in number -- just enough to permit an intelligent selection for observance, but not enough to embarrass the choice. Following is the revised edition of the Decalogue, calculated for this meridian.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Thou shalt no God but me adore:<br>&nbsp;&nbsp;&nbsp;&nbsp;'Twere too expensive to have more.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;No images nor idols make<br>&nbsp;&nbsp;&nbsp;&nbsp;For Robert Ingersoll to break.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Take not God's name in vain; select<br>&nbsp;&nbsp;&nbsp;&nbsp;A time when it will have effect.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Work not on Sabbath days at all,<br>&nbsp;&nbsp;&nbsp;&nbsp;But go to see the teams play ball.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Honor thy parents. That creates<br>&nbsp;&nbsp;&nbsp;&nbsp;For life insurance lower rates.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Kill not, abet not those who kill;<br>&nbsp;&nbsp;&nbsp;&nbsp;Thou shalt not pay thy butcher's bill.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Kiss not thy neighbor's wife, unless<br>&nbsp;&nbsp;&nbsp;&nbsp;Thine own thy neighbor doth caress<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Don't steal; thou'lt never thus compete<br>&nbsp;&nbsp;&nbsp;&nbsp;Successfully in business. Cheat.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Bear not false witness -- that is low --<br>&nbsp;&nbsp;&nbsp;&nbsp;But &quot;hear 'tis rumored so and so.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Covet thou naught what thou hast not<br>&nbsp;&nbsp;&nbsp;&nbsp;By hook or crook, or somehow, got.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "DECIDE",
+        "category": "verb",
+        "description": "To succumb to the preponderance of one set of influences over another set.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A leaf was riven from a tree,<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;I mean to fall to earth,&quot; said he.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The west wind, rising, made him veer.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Eastward,&quot; said he, &quot;I now shall steer.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The east wind rose with greater force.<br>&nbsp;&nbsp;&nbsp;&nbsp;Said he: &quot;'Twere wise to change my course.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;With equal power they contend.<br>&nbsp;&nbsp;&nbsp;&nbsp;He said: &quot;My judgment I suspend.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Down died the winds; the leaf, elate,<br>&nbsp;&nbsp;&nbsp;&nbsp;Cried: &quot;I've decided to fall straight.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;First thoughts are best?&quot; That's not the moral;<br>&nbsp;&nbsp;&nbsp;&nbsp;Just choose your own and we'll not quarrel.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Howe'er your choice may chance to fall,<br>&nbsp;&nbsp;&nbsp;&nbsp;You'll have no hand in it at all.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "DEFAME",
+        "category": "verb",
+        "description": "To lie about another. To tell the truth about another."
+    },
+    {
+        "name": "DEFENCELESS",
+        "category": "adjective",
+        "description": "Unable to attack."
+    },
+    {
+        "name": "DEGENERATE",
+        "category": "adjective",
+        "description": "Less conspicuously admirable than one's ancestors. The contemporaries of Homer were striking examples of degeneracy; it required ten of them to raise a rock or a riot that one of the heroes of the Trojan war could have raised with ease. Homer never tires of sneering at &quot;men who live in these degenerate days,&qupt; which is perhaps why they suffered him to beg his bread -- a marked instance of returning good for evil, by the way, for if they had forbidden him he would certainly have starved."
+    },
+    {
+        "name": "DEGRADATION",
+        "category": "noun",
+        "description": "One of the stages of moral and social progress from private station to political preferment."
+    },
+    {
+        "name": "DEINOTHERIUM",
+        "category": "noun",
+        "description": "An extinct pachyderm that flourished when the Pterodactyl was in fashion. The latter was a native of Ireland, its name being pronounced Terry Dactyl or Peter O'Dactyl, as the man pronouncing it may chance to have heard it spoken or seen it printed."
+    },
+    {
+        "name": "DEJEUNER",
+        "category": "noun",
+        "description": "The breakfast of an American who has been in Paris. Variously pronounced."
+    },
+    {
+        "name": "DELEGATION",
+        "category": "noun",
+        "description": "In American politics, an article of merchandise that comes in sets."
+    },
+    {
+        "name": "DELIBERATION",
+        "category": "noun",
+        "description": "The act of examining one's bread to determine which side it is buttered on."
+    },
+    {
+        "name": "DELUGE",
+        "category": "noun",
+        "description": "A notable first experiment in baptism which washed away the sins (and sinners) of the world."
+    },
+    {
+        "name": "DELUSION",
+        "category": "noun",
+        "description": "The father of a most respectable family, comprising Enthusiasm, Affection, Self-denial, Faith, Hope, Charity and many other goodly sons and daughters.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;All hail, Delusion! Were it not for thee<br>&nbsp;&nbsp;&nbsp;&nbsp;The world turned topsy-turvy we should see;<br>&nbsp;&nbsp;&nbsp;&nbsp;For Vice, respectable with cleanly fancies,<br>&nbsp;&nbsp;&nbsp;&nbsp;Would fly abandoned Virtue's gross advances.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Mumfrey Mappel</cite>"
+    },
+    {
+        "name": "DENTIST",
+        "category": "noun",
+        "description": "A prestidigitator who, putting metal into your mouth, pulls coins out of your pocket."
+    },
+    {
+        "name": "DEPENDENT",
+        "category": "adjective",
+        "description": "Reliant upon another's generosity for the support which you are not in a position to exact from his fears."
+    },
+    {
+        "name": "DEPUTY",
+        "category": "noun",
+        "description": "A male relative of an office-holder, or of his bondsman. The deputy is commonly a beautiful young man, with a red necktie and an intricate system of cobwebs extending from his nose to his desk. When accidentally struck by the janitor's broom, he gives off a cloud of dust.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Chief Deputy,&quot; the Master cried,<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;To-day the books are to be tried<br>&nbsp;&nbsp;&nbsp;&nbsp;By experts and accountants who<br>&nbsp;&nbsp;&nbsp;&nbsp;Have been commissioned to go through<br>&nbsp;&nbsp;&nbsp;&nbsp;Our office here, to see if we<br>&nbsp;&nbsp;&nbsp;&nbsp;Have stolen injudiciously.<br>&nbsp;&nbsp;&nbsp;&nbsp;Please have the proper entries made,<br>&nbsp;&nbsp;&nbsp;&nbsp;The proper balances displayed,<br>&nbsp;&nbsp;&nbsp;&nbsp;Conforming to the whole amount<br>&nbsp;&nbsp;&nbsp;&nbsp;Of cash on hand -- which they will count.<br>&nbsp;&nbsp;&nbsp;&nbsp;I've long admired your punctual way --<br>&nbsp;&nbsp;&nbsp;&nbsp;Here at the break and close of day,<br>&nbsp;&nbsp;&nbsp;&nbsp;Confronting in your chair the crowd<br>&nbsp;&nbsp;&nbsp;&nbsp;Of business men, whose voices loud<br>&nbsp;&nbsp;&nbsp;&nbsp;And gestures violent you quell<br>&nbsp;&nbsp;&nbsp;&nbsp;By some mysterious, calm spell --<br>&nbsp;&nbsp;&nbsp;&nbsp;Some magic lurking in your look<br>&nbsp;&nbsp;&nbsp;&nbsp;That brings the noisiest to book<br>&nbsp;&nbsp;&nbsp;&nbsp;And spreads a holy and profound<br>&nbsp;&nbsp;&nbsp;&nbsp;Tranquillity o'er all around.<br>&nbsp;&nbsp;&nbsp;&nbsp;So orderly all's done that they<br>&nbsp;&nbsp;&nbsp;&nbsp;Who came to draw remain to pay.<br>&nbsp;&nbsp;&nbsp;&nbsp;But now the time demands, at last,<br>&nbsp;&nbsp;&nbsp;&nbsp;That you employ your genius vast<br>&nbsp;&nbsp;&nbsp;&nbsp;In energies more active. Rise<br>&nbsp;&nbsp;&nbsp;&nbsp;And shake the lightnings from your eyes;<br>&nbsp;&nbsp;&nbsp;&nbsp;Inspire your underlings, and fling<br>&nbsp;&nbsp;&nbsp;&nbsp;Your spirit into everything!&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;The Master's hand here dealt a whack<br>&nbsp;&nbsp;&nbsp;&nbsp;Upon the Deputy's bent back,<br>&nbsp;&nbsp;&nbsp;&nbsp;When straightway to the floor there fell<br>&nbsp;&nbsp;&nbsp;&nbsp;A shrunken globe, a rattling shell<br>&nbsp;&nbsp;&nbsp;&nbsp;A blackened, withered, eyeless head!<br>&nbsp;&nbsp;&nbsp;&nbsp;The man had been a twelvemonth dead.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Jamrach Holobom</cite>"
+    },
+    {
+        "name": "DESTINY",
+        "category": "noun",
+        "description": "A tyrant's authority for crime and fool's excuse for failure."
+    },
+    {
+        "name": "DIAGNOSIS",
+        "category": "noun",
+        "description": "A physician's forecast of the disease by the patient's pulse and purse."
+    },
+    {
+        "name": "DIAPHRAGM",
+        "category": "noun",
+        "description": "A muscular partition separating disorders of the chest from disorders of the bowels."
+    },
+    {
+        "name": "DIARY",
+        "category": "noun",
+        "description": "A daily record of that part of one's life, which he can relate to himself without blushing.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Hearst kept a diary wherein were writ<br>&nbsp;&nbsp;&nbsp;&nbsp;All that he had of wisdom and of wit.<br>&nbsp;&nbsp;&nbsp;&nbsp;So the Recording Angel, when Hearst died,<br>&nbsp;&nbsp;&nbsp;&nbsp;Erased all entries of his own and cried:<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;I'll judge you by your diary.&quot; Said Hearst:<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Thank you; 'twill show you I am Saint the First&quot; --<br>&nbsp;&nbsp;&nbsp;&nbsp;Straightway producing, jubilant and proud,<br>&nbsp;&nbsp;&nbsp;&nbsp;That record from a pocket in his shroud.<br>&nbsp;&nbsp;&nbsp;&nbsp;The Angel slowly turned the pages o'er,<br>&nbsp;&nbsp;&nbsp;&nbsp;Each stupid line of which he knew before,<br>&nbsp;&nbsp;&nbsp;&nbsp;Glooming and gleaming as by turns he hit<br>&nbsp;&nbsp;&nbsp;&nbsp;On Shallow sentiment and stolen wit;<br>&nbsp;&nbsp;&nbsp;&nbsp;Then gravely closed the book and gave it back.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;My friend, you've wandered from your proper track:<br>&nbsp;&nbsp;&nbsp;&nbsp;You'd never be content this side the tomb --<br>&nbsp;&nbsp;&nbsp;&nbsp;For big ideas Heaven has little room,<br>&nbsp;&nbsp;&nbsp;&nbsp;And Hell's no latitude for making mirth,&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;He said, and kicked the fellow back to earth.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>&quot;The Mad Philosopher&quot;</cite>"
+    },
+    {
+        "name": "DICTATOR",
+        "category": "noun",
+        "description": "The chief of a nation that prefers the pestilence of despotism to the plague of anarchy."
+    },
+    {
+        "name": "DICTIONARY",
+        "category": "noun",
+        "description": "A malevolent literary device for cramping the growth of a language and making it hard and inelastic. This dictionary, however, is a most useful work."
+    },
+    {
+        "name": "DIE",
+        "category": "noun",
+        "description": "The singular of &quot;dice.&quot; We seldom hear the word, because there is a prohibitory proverb, &quot;Never say die.&quot; At long intervals, however, some one says: &quot;The die is cast,&quot; which is not true, for it is cut. The word is found in an immortal couplet by that eminent poet and domestic economist, Senator Depew:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A cube of cheese no larger than a die<br>&nbsp;&nbsp;&nbsp;&nbsp;May bait the trap to catch a nibbling mie."
+    },
+    {
+        "name": "DIGESTION",
+        "category": "noun",
+        "description": "The conversion of victuals into virtues. When the process is imperfect, vices are evolved instead -- a circumstance from which that wicked writer, Dr. Jeremiah Blenn, infers that the ladies are the greater sufferers from dyspepsia."
+    },
+    {
+        "name": "DIPLOMACY",
+        "category": "noun",
+        "description": "The patriotic art of lying for one's country."
+    },
+    {
+        "name": "DISABUSE",
+        "category": "verb",
+        "description": "The present your neighbor with another and better error than the one which he has deemed it advantageous to embrace."
+    },
+    {
+        "name": "DISCRIMINATE",
+        "category": "verb",
+        "description": "To note the particulars in which one person or thing is, if possible, more objectionable than another."
+    },
+    {
+        "name": "DISCUSSION",
+        "category": "noun",
+        "description": " A method of confirming others in their errors."
+    },
+    {
+        "name": "DISOBEDIENCE",
+        "category": "noun",
+        "description": "The silver lining to the cloud of servitude."
+    },
+    {
+        "name": "DISOBEY",
+        "category": "verb",
+        "description": "To celebrate with an appropriate ceremony the maturity of a command.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;His right to govern me is clear as day,<br>&nbsp;&nbsp;&nbsp;&nbsp;My duty manifest to disobey;<br>&nbsp;&nbsp;&nbsp;&nbsp;And if that fit observance e'er I shut<br>&nbsp;&nbsp;&nbsp;&nbsp;May I and duty be alike undone.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Israfel Brown</cite>"
+    },
+    {
+        "name": "DISSEMBLE",
+        "category": "verb",
+        "description": "To put a clean shirt upon the character.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Let us dissemble.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Adam</cite>"
+    },
+    {
+        "name": "DISTANCE",
+        "category": "noun",
+        "description": "The only thing that the rich are willing for the poor to call theirs, and keep."
+    },
+    {
+        "name": "DISTRESS",
+        "category": "noun",
+        "description": "A disease incurred by exposure to the prosperity of a friend."
+    },
+    {
+        "name": "DIVINATION",
+        "category": "noun",
+        "description": "The art of nosing out the occult. Divination is of as many kinds as there are fruit-bearing varieties of the flowering dunce and the early fool."
+    },
+    {
+        "name": "DOG",
+        "category": "noun",
+        "description": "A kind of additional or subsidiary Deity designed to catch the overflow and surplus of the world's worship. This Divine Being in some of his smaller and silkier incarnations takes, in the affection of Woman, the place to which there is no human male aspirant. The Dog is a survival -- an anachronism. He toils not, neither does he spin, yet Solomon in all his glory never lay upon a door-mat all day long, sun-soaked and fly-fed and fat, while his master worked for the means wherewith to purchase the idle wag of the Solomonic tail, seasoned with a look of tolerant recognition."
+    },
+    {
+        "name": "DRAGOON",
+        "category": "noun",
+        "description": "A soldier who combines dash and steadiness in so equal measure that he makes his advances on foot and his retreats on horseback."
+    },
+    {
+        "name": "DRAMATIST",
+        "category": "noun",
+        "description": "One who adapts plays from the French."
+    },
+    {
+        "name": "DRUIDS",
+        "category": "noun",
+        "description": "Priests and ministers of an ancient Celtic religion which did not disdain to employ the humble allurement of human sacrifice. Very little is now known about the Druids and their faith. Pliny says their religion, originating in Britain, spread eastward as far as Persia. Caesar says those who desired to study its mysteries went to Britain. Caesar himself went to Britain, but does not appear to have obtained any high preferment in the Druidical Church, although his talent for human sacrifice was considerable.<br><br>Druids performed their religious rites in groves, and knew nothing of church mortgages and the season-ticket system of pew rents. They were, in short, heathens and -- as they were once complacently catalogued by a distinguished prelate of the Church of England -- Dissenters. "
+    },
+    {
+        "name": "DUCK-BILL",
+        "category": "noun",
+        "description": "Your account at your restaurant during the canvas-back season."
+    },
+    {
+        "name": "DUEL",
+        "category": "noun",
+        "description": "A formal ceremony preliminary to the reconciliation of two enemies. Great skill is necessary to its satisfactory observance; if awkwardly performed the most unexpected and deplorable consequences sometimes ensue. A long time ago a man lost his life in a duel.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;That dueling's a gentlemanly vice<br>&nbsp;&nbsp;&nbsp;&nbsp;I hold; and wish that it had been my lot<br>&nbsp;&nbsp;&nbsp;&nbsp;To live my life out in some favored spot --<br>&nbsp;&nbsp;&nbsp;&nbsp;Some country where it is considered nice<br>&nbsp;&nbsp;&nbsp;&nbsp;To split a rival like a fish, or slice<br>&nbsp;&nbsp;&nbsp;&nbsp;A husband like a spud, or with a shot<br>&nbsp;&nbsp;&nbsp;&nbsp;Bring down a debtor doubled in a knot<br>&nbsp;&nbsp;&nbsp;&nbsp;And ready to be put upon the ice.<br>&nbsp;&nbsp;&nbsp;&nbsp;Some miscreants there are, whom I do long<br>&nbsp;&nbsp;&nbsp;&nbsp;To shoot, to stab, or some such way reclaim<br>&nbsp;&nbsp;&nbsp;&nbsp;The scurvy rogues to better lives and manners,<br>&nbsp;&nbsp;&nbsp;&nbsp;I seem to see them now -- a mighty throng.<br>&nbsp;&nbsp;&nbsp;&nbsp;It looks as if to challenge _me_ they came,<br>&nbsp;&nbsp;&nbsp;&nbsp;Jauntily marching with brass bands and banners!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Xamba Q. Dar</cite>"
+    },
+    {
+        "name": "DULLARD",
+        "category": "noun",
+        "description": "A member of the reigning dynasty in letters and life. The Dullards came in with Adam, and being both numerous and sturdy have overrun the habitable world. The secret of their power is their insensibility to blows; tickle them with a bludgeon and they laugh with a platitude. The Dullards came originally from Boeotia, whence they were driven by stress of starvation, their dullness having blighted the crops. For some centuries they infested Philistia, and many of them are called Philistines to this day. In the turbulent times of the Crusades they withdrew thence and gradually overspread all Europe, occupying most of the high places in politics, art, literature, science and theology. Since a detachment of Dullards came over with the Pilgrims in the Mayflower and made a favorable report of the country, their increase by birth, immigration, and conversion has been rapid and steady. According to the most trustworthy statistics the number of adult Dullards in the United States is but little short of thirty millions, including the statisticians. The intellectual centre of the race is somewhere about Peoria, Illinois, but the New England Dullard is the most shockingly moral."
+    },
+    {
+        "name": "DUTY",
+        "category": "noun",
+        "description": "That which sternly impels us in the direction of profit, along the line of desire.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Sir Lavender Portwine, in favor at court,<br>&nbsp;&nbsp;&nbsp;&nbsp;Was wroth at his master, who'd kissed Lady Port.<br>&nbsp;&nbsp;&nbsp;&nbsp;His anger provoked him to take the king's head,<br>&nbsp;&nbsp;&nbsp;&nbsp;But duty prevailed, and he took the king's bread,<br>&nbsp;&nbsp;&nbsp;&nbsp;Instead.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
     }
 ]
