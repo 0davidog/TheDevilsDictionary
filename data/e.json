@@ -1,17 +1,232 @@
 [
     {
-        "name": "",
-        "category": "",
-        "description": ""
-    },
-    {
         "name": "EAT",
         "category": "verb",
-        "description": "To perform successively (and successfully) the functions of mastication, humectation, and deglutition.<br><br>'I was in the drawing-room, enjoying my dinner,' said Brillat-Savarin, beginning an anecdote. 'What!' interrupted Rochebriant; 'eating dinner in a drawing-room?' 'I must beg you to observe, monsieur,' explained the great gastronome, 'that I did not say I was eating my dinner, but enjoying it. I had dined an hour before.' "
+        "description": "To perform successively (and successfully) the functions of mastication, humectation, and deglutition.<br><br>&quot;I was in the drawing-room, enjoying my dinner,&quot; said Brillat-Savarin, beginning an anecdote. &quot;What!&quot; interrupted Rochebriant; &quot;eating dinner in a drawing-room?&quot; &quot;I must beg you to observe, monsieur,&quot; explained the great gastronome, &quot;that I did not say I was eating my dinner, but enjoying it. I had dined an hour before.&quot;"
     },
     {
         "name": "EAVESDROP",
         "category": "verb",
-        "description": "Secretly to overhear a catalogue of the crimes and vices of another or yourself.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A lady with one of her ears applied<br>&nbsp;&nbsp;&nbsp;&nbsp;To an open keyhole heard, inside,<br>&nbsp;&nbsp;&nbsp;&nbsp;Two female gossips in converse free --<br>&nbsp;&nbsp;&nbsp;&nbsp;The subject engaging them was she.<br>&nbsp;&nbsp;&nbsp;&nbsp;'I think,' said one, 'and my husband thinks<br>&nbsp;&nbsp;&nbsp;&nbsp;That she's a prying, inquisitive minx!'<br>&nbsp;&nbsp;&nbsp;&nbsp;As soon as no more of it she could hear<br>&nbsp;&nbsp;&nbsp;&nbsp;The lady, indignant, removed her ear.<br>&nbsp;&nbsp;&nbsp;&nbsp;'I will not stay,' she said, with a pout,<br>&nbsp;&nbsp;&nbsp;&nbsp;'To hear my character lied about!'<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Gopete Sherany</cite>"
+        "description": "Secretly to overhear a catalogue of the crimes and vices of another or yourself.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A lady with one of her ears applied<br>&nbsp;&nbsp;&nbsp;&nbsp;To an open keyhole heard, inside,<br>&nbsp;&nbsp;&nbsp;&nbsp;Two female gossips in converse free --<br>&nbsp;&nbsp;&nbsp;&nbsp;The subject engaging them was she.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;I think,&quot; said one, &quot;and my husband thinks<br>&nbsp;&nbsp;&nbsp;&nbsp;That she's a prying, inquisitive minx!&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;As soon as no more of it she could hear<br>&nbsp;&nbsp;&nbsp;&nbsp;The lady, indignant, removed her ear.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;I will not stay,&quot; she said, with a pout,<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;To hear my character lied about!&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Gopete Sherany</cite>"
+    },
+    {
+        "name": "ECCENTRICITY",
+        "category": "noun",
+        "description": "A method of distinction so cheap that fools employ it to accentuate their incapacity."
+    },
+    {
+        "name": "ECONOMY",
+        "category": "noun",
+        "description": "Purchasing the barrel of whiskey that you do not need for the price of the cow that you cannot afford."
+    },
+    {
+        "name": "EDIBLE",
+        "category": "adjective",
+        "description": "Good to eat, and wholesome to digest, as a worm to a toad, a toad to a snake, a snake to a pig, a pig to a man, and a man to a worm."
+    },
+    {
+        "name": "EDITOR",
+        "category": "noun",
+        "description": "A person who combines the judicial functions of Minos, Rhadamanthus and Aeacus, but is placable with an obolus; a severely virtuous censor, but so charitable withal that he tolerates the virtues of others and the vices of himself; who flings about him the splintering lightning and sturdy thunders of admonition till he resembles a bunch of firecrackers petulantly uttering his mind at the tail of a dog; then straightway murmurs a mild, melodious lay, soft as the cooing of a donkey intoning its prayer to the evening star. Master of mysteries and lord of law, high-pinnacled upon the throne of thought, his face suffused with the dim splendors of the Transfiguration, his legs intertwisted and his tongue a-cheek, the editor spills his will along the paper and cuts it off in lengths to suit. And at intervals from behind the veil of the temple is heard the voice of the foreman demanding three inches of wit and six lines of religious meditation, or bidding him turn off the wisdom and whack up some pathos.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;O, the Lord of Law on the Throne of Thought,<br>&nbsp;&nbsp;&nbsp;&nbsp;A gilded impostor is he.<br>&nbsp;&nbsp;&nbsp;&nbsp;Of shreds and patches his robes are wrought,<br>&nbsp;&nbsp;&nbsp;&nbsp;His crown is brass,<br>&nbsp;&nbsp;&nbsp;&nbsp;Himself an ass,<br>&nbsp;&nbsp;&nbsp;&nbsp;And his power is fiddle-dee-dee.<br>&nbsp;&nbsp;&nbsp;&nbsp;Prankily, crankily prating of naught,<br>&nbsp;&nbsp;&nbsp;&nbsp;Silly old quilly old Monarch of Thought.<br>&nbsp;&nbsp;&nbsp;&nbsp;Public opinion's camp-follower he,<br>&nbsp;&nbsp;&nbsp;&nbsp;Thundering, blundering, plundering free.<br>&nbsp;&nbsp;&nbsp;&nbsp;Affected,<br>&nbsp;&nbsp;&nbsp;&nbsp;Ungracious,<br>&nbsp;&nbsp;&nbsp;&nbsp;Suspected,<br>&nbsp;&nbsp;&nbsp;&nbsp;Mendacious,<br>&nbsp;&nbsp;&nbsp;&nbsp;Respected contemporaree!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>J.H. Bumbleshook</cite>"
+    },
+    {
+        "name": "EDUCATION",
+        "category": "noun",
+        "description": "That which discloses to the wise and disguises from the foolish their lack of understanding."
+    },
+    {
+        "name": "EFFECT",
+        "category": "noun",
+        "description": "The second of two phenomena which always occur together in the same order. The first, called a Cause, is said to generate the other -- which is no more sensible than it would be for one who has never seen a dog except in the pursuit of a rabbit to declare the rabbit the cause of a dog."
+    },
+    {
+        "name": "EGOTIST",
+        "category": "noun",
+        "description": "A person of low taste, more interested in himself than in me.<br><br>&bnsp;&bnsp;&bnsp;&bnsp;Megaceph, chosen to serve the State<br>&bnsp;&bnsp;&bnsp;&bnsp;In the halls of legislative debate,<br>&bnsp;&bnsp;&bnsp;&bnsp;One day with all his credentials came<br>&bnsp;&bnsp;&bnsp;&bnsp;To the capitol's door and announced his name.<br>&bnsp;&bnsp;&bnsp;&bnsp;The doorkeeper looked, with a comical twist<br>&bnsp;&bnsp;&bnsp;&bnsp;Of the face, at the eminent egotist,<br>&bnsp;&bnsp;&bnsp;&bnsp;And said: &quot;Go away, for we settle here<br>&bnsp;&bnsp;&bnsp;&bnsp;All manner of questions, knotty and queer,<br>&bnsp;&bnsp;&bnsp;&bnsp;And we cannot have, when the speaker demands<br>&bnsp;&bnsp;&bnsp;&bnsp;To be told how every member stands,<br>&bnsp;&bnsp;&bnsp;&bnsp;A man who to all things under the sky<br>&bnsp;&bnsp;&bnsp;&bnsp;Assents by eternally voting 'I'.&quot;"
+    },
+    {
+        "name": "EJECTION",
+        "category": "noun",
+        "description": "An approved remedy for the disease of garrulity. It is also much used in cases of extreme poverty."
+    },
+    {
+        "name": "ELECTOR",
+        "category": "noun",
+        "description": "One who enjoys the sacred privilege of voting for the man of another man's choice."
+    },
+    {
+        "name": "ELECTRICITY",
+        "category": "noun",
+        "description": "The power that causes all natural phenomena not known to be caused by something else. It is the same thing as lightning, and its famous attempt to strike Dr. Franklin is one of the most picturesque incidents in that great and good man's career. The memory of Dr. Franklin is justly held in great reverence, particularly in France, where a waxen effigy of him was recently on exhibition, bearing the following touching account of his life and services to science:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Monsieur Franqulin, inventor of electricity. This<br>&nbsp;&nbsp;&nbsp;&nbsp;illustrious savant, after having made several voyages around the<br>&nbsp;&nbsp;&nbsp;&nbsp;world, died on the Sandwich Islands and was devoured by savages,<br>&nbsp;&nbsp;&nbsp;&nbsp;of whom not a single fragment was ever recovered.&quot;<br><br>Electricity seems destined to play a most important part in the arts and industries. The question of its economical application to some purposes is still unsettled, but experiment has already proved that it will propel a street car better than a gas jet and give more light than a horse."
+    },
+    {
+        "name": "ELEGY",
+        "category": "noun",
+        "description": "A composition in verse, in which, without employing any of the methods of humor, the writer aims to produce in the reader's mind the dampest kind of dejection. The most famous English example begins somewhat like this:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The cur foretells the knell of parting day;<br>&nbsp;&nbsp;&nbsp;&nbsp;The loafing herd winds slowly o'er the lea;<br>&nbsp;&nbsp;&nbsp;&nbsp;The wise man homeward plods; I only stay<br>&nbsp;&nbsp;&nbsp;&nbsp;To fiddle-faddle in a minor key."
+    },
+    {
+        "name": "ELOQUENCE",
+        "category": "noun",
+        "description": "The art of orally persuading fools that white is the color that it appears to be. It includes the gift of making any color appear white."
+    },
+    {
+        "name": "ELYSIUM",
+        "category": "noun",
+        "description": "An imaginary delightful country which the ancients foolishly believed to be inhabited by the spirits of the good. This ridiculous and mischievous fable was swept off the face of the earth by the early Christians -- may their souls be happy in Heaven!"
+    },
+    {
+        "name": "EMANCIPATION",
+        "category": "noun",
+        "description": "A bondman's change from the tyranny of another to the despotism of himself.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;He was a slave: at word he went and came;<br>&nbsp;&nbsp;&nbsp;&nbsp;His iron collar cut him to the bone.<br>&nbsp;&nbsp;&nbsp;&nbsp;Then Liberty erased his owner's name,<br>&nbsp;&nbsp;&nbsp;&nbsp;Tightened the rivets and inscribed his own.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "EMBALM",
+        "category": "verb",
+        "description": "To cheat vegetation by locking up the gases upon which it feeds. By embalming their dead and thereby deranging the natural balance between animal and vegetable life, the Egyptians made their once fertile and populous country barren and incapable of supporting more than a meagre crew. The modern metallic burial casket is a step in the same direction, and many a dead man who ought now to be ornamenting his neighbor's lawn as a tree, or enriching his table as a bunch of radishes, is doomed to a long inutility. We shall get him after awhile if we are spared, but in the meantime the violet and rose are languishing for a nibble at his glutoeus maximus."
+    },
+    {
+        "name": "EMOTION",
+        "category": "noun",
+        "description": "A prostrating disease caused by a determination of the heart to the head. It is sometimes accompanied by a copious discharge of hydrated chloride of sodium from the eyes."
+    },
+    {
+        "name": "ENCOMIAST",
+        "category": "noun",
+        "description": "A special (but not particular) kind of liar."
+    },
+    {
+        "name": "END",
+        "category": "noun",
+        "description": "The position farthest removed on either hand from the Interlocutor.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:The man was perishing apace<br>&nbsp:&nbsp:&nbsp:&nbsp:Who played the tambourine;<br>&nbsp:&nbsp:&nbsp:&nbsp:The seal of death was on his face --<br>&nbsp:&nbsp:&nbsp:&nbsp:'Twas pallid, for 'twas clean.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:&quot;This is the end,&quot; the sick man said<br>&nbsp:&nbsp:&nbsp:&nbsp:In faint and failing tones.<br>&nbsp:&nbsp:&nbsp:&nbsp:A moment later he was dead,<br>&nbsp:&nbsp:&nbsp:&nbsp:And Tambourine was Bones.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:<cite>Tinley Roquot</cite>"
+    },
+    {
+        "name": "ENOUGH",
+        "category": "pro",
+        "description": " All there is in the world if you like it. Enough is as good as a feast -- for that matter Enougher's as good as a feast for the platter. <cite>Arbely C. Strunk</cite>"
+    },
+    {
+        "name": "ENTERTAINMENT",
+        "category": "noun",
+        "description": "Any kind of amusement whose inroads stop short of death by injection."
+    },
+    {
+        "name": "ENTHUSIASM",
+        "category": "noun",
+        "description": "A distemper of youth, curable by small doses of repentance in connection with outward applications of experience. Byron, who recovered long enough to call it &quot;entuzy-muzy,&quot; had a relapse, which carried him off -- to Missolonghi."
+    },
+    {
+        "name": "ENVELOPE",
+        "category": "noun",
+        "description": "The coffin of a document; the scabbard of a bill; the husk of a remittance; the bed-gown of a love-letter."
+    },
+    {
+        "name": "ENVY",
+        "category": "noun",
+        "description": "Emulation adapted to the meanest capacity."
+    },
+    {
+        "name": "EPAULET",
+        "category": "noun",
+        "description": "An ornamented badge, serving to distinguish a military officer from the enemy -- that is to say, from the officer of lower rank to whom his death would give promotion."
+    },
+    {
+        "name": "EPICURE",
+        "category": "noun",
+        "description": "An opponent of Epicurus, an abstemious philosopher who, holding that pleasure should be the chief aim of man, wasted no time in gratification from the senses."
+    },
+    {
+        "name": "EPIGRAM",
+        "category": "noun",
+        "description": "A short, sharp saying in prose or verse, frequently characterize by acidity or acerbity and sometimes by wisdom. Following are some of the more notable epigrams of the learned and ingenious Dr. Jamrach Holobom:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;We know better the needs of ourselves than of others. To<br>&nbsp;&nbsp;&nbsp;&nbsp;serve oneself is economy of administration.<br>&nbsp;&nbsp;&nbsp;&nbsp;In each human heart are a tiger, a pig, an ass and a<br>&nbsp;&nbsp;&nbsp;&nbsp;nightingale. Diversity of character is due to their unequal<br>&nbsp;&nbsp;&nbsp;&nbsp;activity.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;There are three sexes; males, females and girls.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Beauty in women and distinction in men are alike in this:<br>&nbsp;&nbsp;&nbsp;&nbsp;they seem to be the unthinking a kind of credibility.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Women in love are less ashamed than men. They have less to be<br>&nbsp;&nbsp;&nbsp;&nbsp;ashamed of.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;While your friend holds you affectionately by both your hands<br>&nbsp;&nbsp;&nbsp;&nbsp;you are safe, for you can watch both his."
+    },
+    {
+        "name": "EPITAPH",
+        "category": "noun",
+        "description": "An inscription on a tomb, showing that virtues acquired by death have a retroactive effect. Following is a touching example: Here lie the bones of Parson Platt, Wise, pious, humble and all that, Who showed us life as all should live it; Let that be said -- and God forgive it!"
+    },
+    {
+        "name": "ERUDITION",
+        "category": "noun",
+        "description": "Dust shaken out of a book into an empty skull.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;So wide his erudition's mighty span,<br>&nbsp;&nbsp;&nbsp;&nbsp;He knew Creation's origin and plan<br>&nbsp;&nbsp;&nbsp;&nbsp;And only came by accident to grief --<br>&nbsp;&nbsp;&nbsp;&nbsp;He thought, poor man, 'twas right to be a thief.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>Romach Pute</cite>"
+    },
+    {
+        "name": "ESOTERIC",
+        "category": "adjective",
+        "description": "Very particularly abstruse and consummately occult. The ancient philosophies were of two kinds, -- exoteric, those that the philosophers themselves could partly understand, and esoteric, those that nobody could understand. It is the latter that have most profoundly affected modern thought and found greatest acceptance in our time."
+    },
+    {
+        "name": "ETHNOLOGY",
+        "category": "noun",
+        "description": "The science that treats of the various tribes of Man, as robbers, thieves, swindlers, dunces, lunatics, idiots and ethnologists."
+    },
+    {
+        "name": "EUCHARIST",
+        "category": "noun",
+        "description": "A sacred feast of the religious sect of Theophagi.<br><br>A dispute once unhappily arose among the members of this sect as to what it was that they ate. In this controversy some five hundred thousand have already been slain, and the question is still unsettled."
+    },
+    {
+        "name": "EULOGY",
+        "category": "noun",
+        "description": "Praise of a person who has either the advantages of wealth and power, or the consideration to be dead."
+    },
+    {
+        "name": "EVANGELIST",
+        "category": "noun",
+        "description": "A bearer of good tidings, particularly (in a religious sense) such as assure us of our own salvation and the damnation of our neighbors."
+    },
+    {
+        "name": "EVERLASTING",
+        "category": "adjective",
+        "description": "Lasting forever. It is with no small diffidence that I venture to offer this brief and elementary definition, for I am not unaware of the existence of a bulky volume by a sometime Bishop of Worcester, entitled, _A Partial Definition of the Word &quot;Everlasting,&quot; as Used in the Authorized Version of the Holy Scriptures_. His book was once esteemed of great authority in the Anglican Church, and is still, I understand, studied with pleasure to the mind and profit of the soul."
+    },
+    {
+        "name": "EXCEPTION",
+        "category": "noun",
+        "description": "A thing which takes the liberty to differ from other things of its class, as an honest man, a truthful woman, etc. &quot;The exception proves the rule&quot; is an expression constantly upon the lips of the ignorant, who parrot it from one another with never a thought of its absurdity. In the Latin, &quot;_Exceptio probat regulam_&quot; means that the exception _tests_ the rule, puts it to the proof, not _confirms_ it. The malefactor who drew the meaning from this excellent dictum and substituted a contrary one of his own exerted an evil power which appears to be immortal."
+    },
+    {
+        "name": "EXCESS",
+        "category": "noun",
+        "description": "In morals, an indulgence that enforces by appropriate penalties the law of moderation.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Hail, high Excess -- especially in wine,<br>&nbsp;&nbsp;&nbsp;&nbsp;To thee in worship do I bend the knee<br>&nbsp;&nbsp;&nbsp;&nbsp;Who preach abstemiousness unto me --<br>&nbsp;&nbsp;&nbsp;&nbsp;My skull thy pulpit, as my paunch thy shrine.<br>&nbsp;&nbsp;&nbsp;&nbsp;Precept on precept, aye, and line on line,<br>&nbsp;&nbsp;&nbsp;&nbsp;Could ne'er persuade so sweetly to agree<br>&nbsp;&nbsp;&nbsp;&nbsp;With reason as thy touch, exact and free,<br>&nbsp;&nbsp;&nbsp;&nbsp;Upon my forehead and along my spine.<br>&nbsp;&nbsp;&nbsp;&nbsp;At thy command eschewing pleasure's cup,<br>&nbsp;&nbsp;&nbsp;&nbsp;With the hot grape I warm no more my wit;<br>&nbsp;&nbsp;&nbsp;&nbsp;When on thy stool of penitence I sit<br>&nbsp;&nbsp;&nbsp;&nbsp;I'm quite converted, for I can't get up.<br>&nbsp;&nbsp;&nbsp;&nbsp;Ungrateful he who afterward would falter<br>&nbsp;&nbsp;&nbsp;&nbsp;To make new sacrifices at thine altar!"
+    },
+    {
+        "name": "EXCOMMUNICATION",
+        "category": "noun",
+        "description": "<br><br>&nbsp:&nbsp:&nbsp:&nbsp:This &quot;excommunication&quot; is a word<br>&nbsp:&nbsp:&nbsp:&nbsp:In speech ecclesiastical oft heard,<br>&nbsp:&nbsp:&nbsp:&nbsp:And means the damning, with bell, book and candle,<br>&nbsp:&nbsp:&nbsp:&nbsp:Some sinner whose opinions are a scandal --<br>&nbsp:&nbsp:&nbsp:&nbsp:A rite permitting Satan to enslave him<br>&nbsp:&nbsp:&nbsp:&nbsp:Forever, and forbidding Christ to save him.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:<cite>Gat Huckle</cite>"
+    },
+    {
+        "name": "EXECUTIVE",
+        "category": "noun",
+        "description": "An officer of the Government, whose duty it is to enforce the wishes of the legislative power until such time as the judicial department shall be pleased to pronounce them invalid and of no effect. Following is an extract from an old book entitled, The Lunarian Astonished -- Pfeiffer & Co., Boston, 1803:<br><br>&nbsp:&nbsp:&nbsp:&nbsp:LUNARIAN: Then when your Congress has passed a law it goes<br>&nbsp:&nbsp:&nbsp:&nbsp:directly to the Supreme Court in order that it may at once be<br>&nbsp:&nbsp:&nbsp:&nbsp:known whether it is constitutional?<br><br>&nbsp:&nbsp:&nbsp:&nbsp:TERRESTRIAN: O no; it does not require the approval of the<br>&nbsp:&nbsp:&nbsp:&nbsp:Supreme Court until having perhaps been enforced for many<br>&nbsp:&nbsp:&nbsp:&nbsp:years somebody objects to its operation against himself -- I<br>&nbsp:&nbsp:&nbsp:&nbsp:mean his client. The President, if he approves it, begins to<br>&nbsp:&nbsp:&nbsp:&nbsp:execute it at once.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:LUNARIAN: Ah, the executive power is a part of the legislative.<br>&nbsp:&nbsp:&nbsp:&nbsp:Do your policemen also have to approve the local ordinances<br>&nbsp:&nbsp:&nbsp:&nbsp:that they enforce?<br><br>&nbsp:&nbsp:&nbsp:&nbsp:TERRESTRIAN: Not yet -- at least not in their character of<br>&nbsp:&nbsp:&nbsp:&nbsp:constables. Generally speaking, though, all laws require the<br>&nbsp:&nbsp:&nbsp:&nbsp:approval of those whom they are intended to restrain.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:LUNARIAN: I see. The death warrant is not valid until signed by<br>&nbsp:&nbsp:&nbsp:&nbsp:the murderer.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:TERRESTRIAN: My friend, you put it too strongly; we are not so<br>&nbsp:&nbsp:&nbsp:&nbsp:consistent.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:LUNARIAN: But this system of maintaining an expensive judicial<br>&nbsp:&nbsp:&nbsp:&nbsp:machinery to pass upon the validity of laws only after they<br>&nbsp:&nbsp:&nbsp:&nbsp:have long been executed, and then only when brought before the<br>&nbsp:&nbsp:&nbsp:&nbsp:court by some private person -- does it not cause great<br>&nbsp:&nbsp:&nbsp:&nbsp:confusion?<br><br>&nbsp:&nbsp:&nbsp:&nbsp:TERRESTRIAN: It does.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:LUNARIAN: Why then should not your laws, previously to being<br>&nbsp:&nbsp:&nbsp:&nbsp:executed, be validated, not by the signature of your<br>&nbsp:&nbsp:&nbsp:&nbsp:President, but by that of the Chief Justice of the Supreme<br>&nbsp:&nbsp:&nbsp:&nbsp:Court?<br><br>&nbsp:&nbsp:&nbsp:&nbsp:TERRESTRIAN: There is no precedent for any such course.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:UNARIAN: Precedent. What is that?<br><br>&nbsp:&nbsp:&nbsp:&nbsp:TERRESTRIAN: It has been defined by five hundred lawyers in three<br>&nbsp:&nbsp:&nbsp:&nbsp:volumes each. So how can any one know?"
+    },
+    {
+        "name": "EXHORT",
+        "category": "verb",
+        "description": "In religious affairs, to put the conscience of another upon the spit and roast it to a nut-brown discomfort."
+    },
+    {
+        "name": "EXILE",
+        "category": "noun",
+        "description": "One who serves his country by residing abroad, yet is not an ambassador.<br><br>An English sea-captain being asked if he had read &quot;The Exile of Erin,&quot; replied: &quot;No, sir, but I should like to anchor on it.&quot; Years afterwards, when he had been hanged as a pirate after a career of unparalleled atrocities, the following memorandum was found in the ship's log that he had kept at the time of his reply:<br><br>&nbsp:&nbsp:&nbsp:&nbsp:Aug. 3d, 1842. Made a joke on the ex-Isle of Erin. Coldly received. War with the whole world!"
+    },
+    {
+        "name": "EXISTENCE",
+        "category": "noun",
+        "description": "<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A transient, horrible, fantastic dream,<br>&nbsp;&nbsp;&nbsp;&nbsp;Wherein is nothing yet all things do seem:<br>&nbsp;&nbsp;&nbsp;&nbsp;From which we're wakened by a friendly nudge<br>&nbsp;&nbsp;&nbsp;&nbsp;Of our bedfellow Death, and cry: &quot;O fudge!&quot;"
+    },
+    {
+        "name": "EXPERIENCE",
+        "category": "noun",
+        "description": "The wisdom that enables us to recognize as an undesirable old acquaintance the folly that we have already embraced.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:To one who, journeying through night and fog,<br>&nbsp:&nbsp:&nbsp:&nbsp:Is mired neck-deep in an unwholesome bog,<br>&nbsp:&nbsp:&nbsp:&nbsp:Experience, like the rising of the dawn,<br>&nbsp:&nbsp:&nbsp:&nbsp:Reveals the path that he should not have gone.<br><br>&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:&nbsp:<cite>Joel Frad Bink</cite>"
+    },
+    {
+        "name": "EXPOSTULATION",
+        "category": "noun",
+        "description": "One of the many methods by which fools prefer to lose their friends."
+    },
+    {
+        "name": "EXTINCTION",
+        "category": "noun",
+        "description": "The raw material out of which theology created the future state."
     }
 ]
