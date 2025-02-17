@@ -13,5 +13,45 @@
         "name": "KILL",
         "category": "verb",
         "description": "To create a vacancy without nominating a successor."
+    },
+    {
+        "name": "KILT",
+        "category": "noun",
+        "description": "A costume sometimes worn by Scotchmen in America and Americans in Scotland."
+    },
+    {
+        "name": "KINDNESS",
+        "category": "noun",
+        "description": "A brief preface to ten volumes of exaction."
+    },
+    {
+        "name": "KING",
+        "category": "noun",
+        "description": "A male person commonly known in America as a &quot;crowned head,&quot; although he never wears a crown and has usually no head to speak of.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A king, in times long, long gone by,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Said to his lazy jester:<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;If I were you and you were I<br>&nbsp;&nbsp;&nbsp;&nbsp;My moments merrily would fly --<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor care nor grief to pester.&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;The reason, Sire, that you would thrive,&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fool said -- &quot;if you'll hear it --<br>&nbsp;&nbsp;&nbsp;&nbsp;Is that of all the fools alive<br>&nbsp;&nbsp;&nbsp;&nbsp;Who own you for their sovereign, I've<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The most forgiving spirit.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Oogum Bem</cite>"
+    },
+    {
+        "name": "KING'S EVIL",
+        "category": "noun",
+        "description": "A malady that was formerly cured by the touch of the sovereign, but has now to be treated by the physicians. Thus 'the most pious Edward' of England used to lay his royal hand upon the ailing subjects and make them whole --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a crowd of wretched souls<br><br>&nbsp;&nbsp;&nbsp;&nbsp;That stay his cure: their malady convinces<br>&nbsp;&nbsp;&nbsp;&nbsp;The great essay of art; but at his touch,<br>&nbsp;&nbsp;&nbsp;&nbsp;Such sanctity hath Heaven given his hand,<br>&nbsp;&nbsp;&nbsp;&nbsp;They presently amend,<br><br>as the &quot;Doctor&quot; in 'Macbeth' hath it. This useful property of the royal hand could, it appears, be transmitted along with other crown properties; for according to &quot;Malcolm,&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'tis spoken<br><br>&nbsp;&nbsp;&nbsp;&nbsp;To the succeeding royalty he leaves<br>&nbsp;&nbsp;&nbsp;&nbsp;The healing benediction.<br><br>But the gift somewhere dropped out of the line of succession: the later sovereigns of England have not been tactual healers, and the disease once honored with the name &quot;king's evil&quot; now bears the humbler one of &quot;scrofula,&quot; from 'scrofa', a sow. The date and author of the following epigram are known only to the author of this dictionary, but it is old enough to show that the jest about Scotland's national disorder is not a thing of yesterday.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Ye Kynge his evill in me laye,<br>&nbsp;&nbsp;&nbsp;&nbsp;Wh. he of Scottlande charmed awaye.<br>&nbsp;&nbsp;&nbsp;&nbsp;He layde his hand on mine and sayd:<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Be gone!&quot; Ye ill no longer stayd.<br>&nbsp;&nbsp;&nbsp;&nbsp;But O ye wofull plyght in wh.<br>&nbsp;&nbsp;&nbsp;&nbsp;I'm now y-pight: I have ye itche!<br><br>The superstition that maladies can be cured by royal taction is dead, but like many a departed conviction it has left a monument of custom to keep its memory green. The practice of forming a line and shaking the President's hand had no other origin, and when that great dignitary bestows his healing salutation on<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strangely visited people,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;All swoln and ulcerous, pitiful to the eye,<br>&nbsp;&nbsp;&nbsp;&nbsp;The mere despair of surgery,<br><br>he and his patients are handing along an extinguished torch which once was kindled at the altar-fire of a faith long held by all classes of men. It is a beautiful and edifying &quot;survival&quot; -- one which brings the sainted past close home in our &quot;business and bosoms.&quot;"
+    },
+    {
+        "name": "KISS",
+        "category": "noun",
+        "description": "A word invented by the poets as a rhyme for &quot;bliss.&quot; It is supposed to signify, in a general way, some kind of rite or ceremony appertaining to a good understanding; but the manner of its performance is unknown to this lexicographer."
+    },
+    {
+        "name": "KLEPTOMANIAC",
+        "category": "noun",
+        "description": "A rich thief."
+    },
+    {
+        "name": "KNIGHT",
+        "category": "noun",
+        "description": "<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Once a warrior gentle of birth,<br>&nbsp;&nbsp;&nbsp;&nbsp;Then a person of civic worth,<br>&nbsp;&nbsp;&nbsp;&nbsp;Now a fellow to move our mirth.<br>&nbsp;&nbsp;&nbsp;&nbsp;Warrior, person, and fellow -- no more:<br>&nbsp;&nbsp;&nbsp;&nbsp;We must knight our dogs to get any lower.<br>&nbsp;&nbsp;&nbsp;&nbsp;Brave Knights Kennelers then shall be,<br>&nbsp;&nbsp;&nbsp;&nbsp;Noble Knights of the Golden Flea,<br>&nbsp;&nbsp;&nbsp;&nbsp;Knights of the Order of St. Steboy,<br>&nbsp;&nbsp;&nbsp;&nbsp;Knights of St. Gorge and Sir Knights Jawy.<br>&nbsp;&nbsp;&nbsp;&nbsp;God speed the day when this knighting fad<br>&nbsp;&nbsp;&nbsp;&nbsp;Shall go to the dogs and the dogs go mad."
+    },
+    {
+        "name": "KORAN",
+        "category": "noun",
+        "description": "A book which the Mohammedans foolishly believe to have been written by divine inspiration, but which Christians know to be a wicked imposture, contradictory to the Holy Scriptures."
     }
 ]

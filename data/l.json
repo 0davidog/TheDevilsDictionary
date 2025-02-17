@@ -1,10 +1,5 @@
 [
     {
-        "name": "",
-        "category": "",
-        "description": ""
-    },
-    {
         "name": "LABOR",
         "category": "noun",
         "description": "One of the processes by which A acquires property for B."
@@ -13,5 +8,230 @@
         "name": "LAND",
         "category": "noun",
         "description": "A part of the earth's surface, considered as property. The theory that land is property subject to private ownership and control is the foundation of modern society, and is eminently worthy of the superstructure. Carried to its logical conclusion, it means that some have the right to prevent others from living; for the right to own implies the right exclusively to occupy; and in fact laws of trespass are enacted wherever property in land is recognized. It follows that if the whole area of 'terra firma' is owned by A, B and C, there will be no place for D, E, F and G to be born, or, born as trespassers, to exist.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A life on the ocean wave,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A home on the rolling deep,<br>&nbsp;&nbsp;&nbsp;&nbsp;For the spark the nature gave<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have there the right to keep.<br>&nbsp;&nbsp;&nbsp;&nbsp;They give me the cat-o'-nine<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whenever I go ashore.<br>&nbsp;&nbsp;&nbsp;&nbsp;Then ho! for the flashing brine --<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a natural commodore!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Dodle</cite>"
+    },
+    {
+        "name": "LANGUAGE",
+        "category": "noun",
+        "description": "The music with which we charm the serpents guarding another's treasure."
+    },
+    {
+        "name": "LAOCOON",
+        "category": "noun",
+        "description": " A famous piece of antique scripture representing a priest of that name and his two sons in the folds of two enormous serpents. The skill and diligence with which the old man and lads support the serpents and keep them up to their work have been justly regarded as one of the noblest artistic illustrations of the mastery of human intelligence over brute inertia."
+    },
+    {
+        "name": "LAP",
+        "category": "noun",
+        "description": "One of the most important organs of the female system -- an admirable provision of nature for the repose of infancy, but chiefly useful in rural festivities to support plates of cold chicken and heads of adult males. The male of our species has a rudimentary lap, imperfectly developed and in no way contributing to the animal's substantial welfare."
+    },
+    {
+        "name": "LAST",
+        "category": "noun",
+        "description": "A shoemaker's implement, named by a frowning Providence as opportunity to the maker of puns.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Ah, punster, would my lot were cast,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where the cobbler is unknown,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;So that I might forget his last<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And hear your own.<br><br><cite>Gargo Repsky,</cite>"
+    },
+    {
+        "name": "LAUGHTER",
+        "category": "noun",
+        "description": "An interior convulsion, producing a distortion of the features and accompanied by inarticulate noises. It is infectious and, though intermittent, incurable. Liability to attacks of laughter is one of the characteristics distinguishing man from the animals -- these being not only inaccessible to the provocation of his example, but impregnable to the microbes having original jurisdiction in bestowal of the disease. Whether laughter could be imparted to animals by inoculation from the human patient is a question that has not been answered by experimentation. Dr. Meir Witchell holds that the infection character of laughter is due to the instantaneous fermentation of 'sputa' diffused in a spray. From this peculiarity he names the disorder 'Convulsio spargens'."
+    },
+    {
+        "name": "LAUREATE",
+        "category": "adjective",
+        "description": "Crowned with leaves of the laurel. In England the Poet Laureate is an officer of the sovereign's court, acting as dancing skeleton at every royal feast and singing-mute at every royal funeral. Of all incumbents of that high office, Robert Southey had the most notable knack at drugging the Samson of public joy and cutting his hair to the quick; and he had an artistic color-sense which enabled him so to blacken a public grief as to give it the aspect of a national crime."
+    },
+    {
+        "name": "LAUREL",
+        "category": "noun",
+        "description": "The 'laurus', a vegetable dedicated to Apollo, and formerly defoliated to wreathe the brows of victors and such poets as had influence at court. ('Vide supra.')"
+    },
+    {
+        "name": "LAW",
+        "category": "noun",
+        "description": "<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Once Law was sitting on the bench,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And Mercy knelt a-weeping.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Clear out!&quot; he cried, &quot;disordered wench!<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nor come before me creeping.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Upon your knees if you appear,<br>&nbsp;&nbsp;&nbsp;&nbsp;'Tis plain your have no standing here.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Then Justice came. His Honor cried:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;_Your_ status? -- devil seize you!&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;_Amica curiae,_&quot; she replied --<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;Friend of the court, so please you.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Begone!&quot; he shouted -- &quot;there's the door --<br>&nbsp;&nbsp;&nbsp;&nbsp;I never saw your face before!&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>G.J.</cite>"
+    },
+    {
+        "name": "LAWFUL",
+        "category": "adjective",
+        "description": "Compatible with the will of a judge having jurisdiction."
+    },
+    {
+        "name": "LAWYER",
+        "category": "noun",
+        "description": "One skilled in circumvention of the law."
+    },
+    {
+        "name": "LAZINESS",
+        "category": "noun",
+        "description": " Unwarranted repose of manner in a person of low degree."
+    },
+    {
+        "name": "LEAD",
+        "category": "noun",
+        "description": "A heavy blue-gray metal much used in giving stability to light lovers -- particularly to those who love not wisely but other men's wives. Lead is also of great service as a counterpoise to an argument of such weight that it turns the scale of debate the wrong way. An interesting fact in the chemistry of international controversy is that at the point of contact of two patriotisms lead is precipitated in great quantities.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Hail, holy Lead! -- of human feuds the great<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And universal arbiter; endowed<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With penetration to pierce any cloud<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Fogging the field of controversial hate,<br>&nbsp;&nbsp;&nbsp;&nbsp;And with a sift, inevitable, straight,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Searching precision find the unavowed<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But vital point. Thy judgment, when allowed<br><br>&nbsp;&nbsp;&nbsp;&nbsp;By the chirurgeon, settles the debate.<br>&nbsp;&nbsp;&nbsp;&nbsp;O useful metal! -- were it not for thee<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We'd grapple one another's ears alway:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;But when we hear thee buzzing like a bee<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We, like old Muhlenberg, &quot;care not to stay.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;And when the quick have run away like pellets<br>&nbsp;&nbsp;&nbsp;&nbsp;Jack Satan smelts the dead to make new bullets."
+    },
+    {
+        "name": "LEARNING",
+        "category": "noun",
+        "description": "The kind of ignorance distinguishing the studious."
+    },
+    {
+        "name": "LECTURER",
+        "category": "noun",
+        "description": "One with his hand in your pocket, his tongue in your ear and his faith in your patience."
+    },
+    {
+        "name": "LEGACY",
+        "category": "noun",
+        "description": "A gift from one who is legging it out of this vale of tears."
+    },
+    {
+        "name": "LEONINE",
+        "category": "adjective",
+        "description": "Unlike a menagerie lion. Leonine verses are those in which a word in the middle of a line rhymes with a word at the end, as in this famous passage from Bella Peeler Silcox:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The electric light invades the dunnest deep of Hades.<br>&nbsp;&nbsp;&nbsp;&nbsp;Cries Pluto, 'twixt his snores: &quot;O tempora! O mores!&quot;<br><br>It should be explained that Mrs. Silcox does not undertake to teach pronunciation of the Greek and Latin tongues. Leonine verses are so called in honor of a poet named Leo, whom prosodists appear to find a pleasure in believing to have been the first to discover that a rhyming couplet could be run into a single line. "
+    },
+    {
+        "name": "LETTUCE",
+        "category": "noun",
+        "description": "An herb of the genus _Lactuca_, &quot;Wherewith,&quot; says that pious gastronome, Hengist Pelly, &quot;God has been pleased to reward the good and punish the wicked. For by his inner light the righteous man has discerned a manner of compounding for it a dressing to the appetency whereof a multitude of gustible condiments conspire, being reconciled and ameliorated with profusion of oil, the entire comestible making glad the heart of the godly and causing his face to shine. But the person of spiritual unworth is successfully tempted to the Adversary to eat of lettuce with destitution of oil, mustard, egg, salt and garlic, and with a rascal bath of vinegar polluted with sugar. Wherefore the person of spiritual unworth suffers an intestinal pang of strange complexity and raises the song.&quot;"
+    },
+    {
+        "name": "LEVIATHAN",
+        "category": "noun",
+        "description": " An enormous aquatic animal mentioned by Job. Some suppose it to have been the whale, but that distinguished ichthyologer, Dr. Jordan, of Stanford University, maintains with considerable heat that it was a species of gigantic Tadpole ('Thaddeus Polandensis') or Polliwig -- 'Maria pseudo-hirsuta'. For an exhaustive description and history of the Tadpole consult the famous monograph of Jane Potter, 'Thaddeus of Warsaw'."
+    },
+    {
+        "name": "LEXICOGRAPHER",
+        "category": "noun",
+        "description": "A pestilent fellow who, under the pretense of recording some particular stage in the development of a language, does what he can to arrest its growth, stiffen its flexibility and mechanize its methods. For your lexicographer, having written his dictionary, comes to be considered &quot;as one having authority,&quot; whereas his function is only to make a record, not to give a law. The natural servility of the human understanding having invested him with judicial power, surrenders its right of reason and submits itself to a chronicle as if it were a statue. Let the dictionary (for example) mark a good word as &quot;obsolete&quot; or &quot;obsolescent&quot; and few men thereafter venture to use it, whatever their need of it and however desirable its restoration to favor -- whereby the process of impoverishment is accelerated and speech decays. On the contrary, recognizing the truth that language must grow by innovation if it grow at all, makes new words and uses the old in an unfamiliar sense, has no following and is tartly reminded that &quot;it isn't in the dictionary&quot; -- although down to the time of the first lexicographer (Heaven forgive him!) no author ever had used a word that _was_ in the dictionary. In the golden prime and high noon of English speech; when from the lips of the great Elizabethans fell words that made their own meaning and carried it in their very sound; when a Shakespeare and a Bacon were possible, and the language now rapidly perishing at one end and slowly renewed at the other was in vigorous growth and hardy preservation -- sweeter than honey and stronger than a lion -- the lexicographer was a person unknown, the dictionary a creation which his Creator had not created him to create.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;God said: &quot;Let Spirit perish into Form,&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;And lexicographers arose, a swarm!<br>&nbsp;&nbsp;&nbsp;&nbsp;Thought fled and left her clothing, which they took,<br>&nbsp;&nbsp;&nbsp;&nbsp;And catalogued each garment in a book.<br>&nbsp;&nbsp;&nbsp;&nbsp;Now, from her leafy covert when she cries:<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Give me my clothes and I'll return,&quot; they rise<br>&nbsp;&nbsp;&nbsp;&nbsp;And scan the list, and say without compassion:<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Excuse us -- they are mostly out of fashion.&quot;<br><br><cite>Sigismund Smith</cite>"
+    },
+    {
+        "name": "LIAR",
+        "category": "noun",
+        "description": "A lawyer with a roving commission."
+    },
+    {
+        "name": "LIBERTY",
+        "category": "noun",
+        "description": " One of Imagination's most precious possessions.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The rising People, hot and out of breath,<br>&nbsp;&nbsp;&nbsp;&nbsp;Roared around the palace: &quot;Liberty or death!&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;If death will do,&quot; the King said, &quot;let me reign;<br>&nbsp;&nbsp;&nbsp;&nbsp;You'll have, I'm sure, no reason to complain.&quot;<br><br><cite>Martha Braymance</cite>"
+    },
+    {
+        "name": "LICKSPITTLE",
+        "category": "noun",
+        "description": "A useful functionary, not infrequently found editing a newspaper. In his character of editor he is closely allied to the blackmailer by the tie of occasional identity; for in truth the lickspittle is only the blackmailer under another aspect, although the latter is frequently found as an independent species. Lickspittling is more detestable than blackmailing, precisely as the business of a confidence man is more detestable than that of a highway robber; and the parallel maintains itself throughout, for whereas few robbers will cheat, every sneak will plunder if he dare."
+    },
+    {
+        "name": "LIFE",
+        "category": "noun",
+        "description": " A spiritual pickle preserving the body from decay. We live in daily apprehension of its loss; yet when lost it is not missed. The question, &quot;Is life worth living?&quot; has been much discussed; particularly by those who think it is not, many of whom have written at great length in support of their view and by careful observance of the laws of health enjoyed for long terms of years the honors of successful controversy.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Life's not worth living, and that's the truth,&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;Carelessly caroled the golden youth.<br>&nbsp;&nbsp;&nbsp;&nbsp;In manhood still he maintained that view<br>&nbsp;&nbsp;&nbsp;&nbsp;And held it more strongly the older he grew.<br>&nbsp;&nbsp;&nbsp;&nbsp;When kicked by a jackass at eighty-three,<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Go fetch me a surgeon at once!&quot; cried he.<br><br><cite>Han Soper</cite>"
+    },
+    {
+        "name": "LIGHTHOUSE",
+        "category": "noun",
+        "description": "A tall building on the seashore in which the government maintains a lamp and the friend of a politician."
+    },
+    {
+        "name": "LIMB",
+        "category": "noun",
+        "description": "The branch of a tree or the leg of an American woman.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Twas a pair of boots that the lady bought,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the salesman laced them tight<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To a very remarkable height --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Higher, indeed, than I think he ought --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higher than _can_ be right.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;For the Bible declares -- but never mind:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is hardly fit<br><br>&nbsp;&nbsp;&nbsp;&nbsp;To censure freely and fault to find<br>&nbsp;&nbsp;&nbsp;&nbsp;With others for sins that I'm not inclined<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Myself to commit.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Each has his weakness, and though my own<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is freedom from every sin,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It still were unfair to pitch in,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Discharging the first censorious stone.<br>&nbsp;&nbsp;&nbsp;&nbsp;Besides, the truth compels me to say,<br>&nbsp;&nbsp;&nbsp;&nbsp;The boots in question were _made_ that way.<br>&nbsp;&nbsp;&nbsp;&nbsp;As he drew the lace she made a grimace,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And blushingly said to him:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;This boot, I'm sure, is too high to endure,<br>&nbsp;&nbsp;&nbsp;&nbsp;It hurts my -- hurts my -- limb.&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;The salesman smiled in a manner mild,<br>&nbsp;&nbsp;&nbsp;&nbsp;Like an artless, undesigning child;<br>&nbsp;&nbsp;&nbsp;&nbsp;Then, checking himself, to his face he gave<br>&nbsp;&nbsp;&nbsp;&nbsp;A look as sorrowful as the grave,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though he didn't care two figs<br><br>&nbsp;&nbsp;&nbsp;&nbsp;For her paints and throes,<br>&nbsp;&nbsp;&nbsp;&nbsp;As he stroked her toes,<br>&nbsp;&nbsp;&nbsp;&nbsp;Remarking with speech and manner just<br>&nbsp;&nbsp;&nbsp;&nbsp;Befitting his calling: &quot;Madam, I trust<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That it doesn't hurt your twigs.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>B. Percival Dike</cite>"
+    },
+    {
+        "name": "LINEN",
+        "category": "noun",
+        "description": "&quot;A kind of cloth the making of which, when made of hemp, entails a great waste of hemp.&quot;<cite>-- Calcraft the Hangman.</cite>"
+    },
+    {
+        "name": "LITIGANT",
+        "category": "noun",
+        "description": " A person about to give up his skin for the hope of retaining his bones."
+    },
+    {
+        "name": "LITIGATION",
+        "category": "noun",
+        "description": "A machine which you go into as a pig and come out of as a sausage."
+    },
+    {
+        "name": "LIVER",
+        "category": "noun",
+        "description": "A large red organ thoughtfully provided by nature to be bilious with. The sentiments and emotions which every literary anatomist now knows to haunt the heart were anciently believed to infest the liver; and even Gascoygne, speaking of the emotional side of human nature, calls it &quot;our hepaticall parte.&quot; It was at one time considered the seat of life; hence its name -- liver, the thing we live with. The liver is heaven's best gift to the goose; without it that bird would be unable to supply us with the Strasbourg 'pate'.<br><br>LL.D. Letters indicating the degree 'Legumptionorum Doctor', one learned in laws, gifted with legal gumption. Some suspicion is cast upon this derivation by the fact that the title was formerly 'LL.d.', and conferred only upon gentlemen distinguished for their wealth. At the date of this writing Columbia University is considering the expediency of making another degree for clergymen, in place of the old D.D. -- 'Damnator Diaboli'. The new honor will be known as 'Sanctorum Custus', and written '$$c'. The name of the Rev. John Satan has been suggested as a suitable recipient by a lover of consistency, who points out that Professor Harry Thurston Peck has long enjoyed the advantage of a degree."
+    },
+    {
+        "name": "LOCK-AND-KEY",
+        "category": "noun",
+        "description": "The distinguishing device of civilization and enlightenment."
+    },
+    {
+        "name": "LODGER",
+        "category": "noun",
+        "description": " A less popular name for the Second Person of that delectable newspaper Trinity, the Roomer, the Bedder, and the Mealer."
+    },
+    {
+        "name": "LOGIC",
+        "category": "noun",
+        "description": "The art of thinking and reasoning in strict accordance with the limitations and incapacities of the human misunderstanding. The basic of logic is the syllogism, consisting of a major and a minor premise and a conclusion -- thus:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Major Premise': Sixty men can do a piece of work sixty times as<br><br>quickly as one man.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Minor Premise': One man can dig a posthole in sixty seconds;<br><br>therefore --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Conclusion': Sixty men can dig a posthole in one second.<br><br>This may be called the syllogism arithmetical, in which, by combining logic and mathematics, we obtain a double certainty and are twice blessed."
+    },
+    {
+        "name": "LOGOMACHY",
+        "category": "noun",
+        "description": "A war in which the weapons are words and the wounds punctures in the swim-bladder of self-esteem -- a kind of contest in which, the vanquished being unconscious of defeat, the victor is denied the reward of success.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Tis said by divers of the scholar-men<br>&nbsp;&nbsp;&nbsp;&nbsp;That poor Salmasius died of Milton's pen.<br>&nbsp;&nbsp;&nbsp;&nbsp;Alas! we cannot know if this is true,<br>&nbsp;&nbsp;&nbsp;&nbsp;For reading Milton's wit we perish too."
+    },
+    {
+        "name": "LONGANIMITY",
+        "category": "noun",
+        "description": "The disposition to endure injury with meek forbearance while maturing a plan of revenge."
+    },
+    {
+        "name": "LONGEVITY",
+        "category": "noun",
+        "description": "Uncommon extension of the fear of death."
+    },
+    {
+        "name": "LOOKING-GLASS",
+        "category": "noun",
+        "description": "A vitreous plane upon which to display a fleeting show for man's disillusion given.<br><br>The King of Manchuria had a magic looking-glass, whereon whoso looked saw, not his own image, but only that of the king. A certain courtier who had long enjoyed the king's favor and was thereby enriched beyond any other subject of the realm, said to the king: &quot;Give me, I pray, thy wonderful mirror, so that when absent out of thine august presence I may yet do homage before thy visible shadow, prostrating myself night and morning in the glory of thy benign countenance, as which nothing has so divine splendor, O Noonday Sun of the Universe!&quot;<br><br>Please with the speech, the king commanded that the mirror be conveyed to the courtier's palace; but after, having gone thither without apprisal, he found it in an apartment where was naught but idle lumber. And the mirror was dimmed with dust and overlaced with cobwebs. This so angered him that he fisted it hard, shattering the glass, and was sorely hurt. Enraged all the more by this mischance, he commanded that the ungrateful courtier be thrown into prison, and that the glass be repaired and taken back to his own palace; and this was done. But when the king looked again on the mirror he saw not his image as before, but only the figure of a crowned ass, having a bloody bandage on one of its hinder hooves -- as the artificers and all who had looked upon it had before discerned but feared to report. Taught wisdom and charity, the king restored his courtier to liberty, had the mirror set into the back of the throne and reigned many years with justice and humility; and one day when he fell asleep in death while on the throne, the whole court saw in the mirror the luminous figure of an angel, which remains to this day. "
+    },
+    {
+        "name": "LOQUACITY",
+        "category": "noun",
+        "description": "A disorder which renders the sufferer unable to curb his tongue when you wish to talk. "
+    },
+    {
+        "name": "LORD",
+        "category": "noun",
+        "description": "In American society, an English tourist above the state of a costermonger, as, lord 'Aberdasher, Lord Hartisan and so forth. The traveling Briton of lesser degree is addressed as &quot;Sir,&quot; as, Sir 'Arry Donkiboi, or 'Amstead 'Eath. The word &quot;Lord&quot; is sometimes used, also, as a title of the Supreme Being; but this is thought to be rather flattery than true reverence.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Miss Sallie Ann Splurge, of her own accord,<br>&nbsp;&nbsp;&nbsp;&nbsp;Wedded a wandering English lord --<br>&nbsp;&nbsp;&nbsp;&nbsp;Wedded and took him to dwell with her &quot;paw,&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;A parent who throve by the practice of Draw.<br>&nbsp;&nbsp;&nbsp;&nbsp;Lord Cadde I don't hesitate to declare<br>&nbsp;&nbsp;&nbsp;&nbsp;Unworthy the father-in-legal care<br>&nbsp;&nbsp;&nbsp;&nbsp;Of that elderly sport, notwithstanding the truth<br>&nbsp;&nbsp;&nbsp;&nbsp;That Cadde had renounced all the follies of youth;<br>&nbsp;&nbsp;&nbsp;&nbsp;For, sad to relate, he'd arrived at the stage<br>&nbsp;&nbsp;&nbsp;&nbsp;Of existence that's marked by the vices of age.<br>&nbsp;&nbsp;&nbsp;&nbsp;Among them, cupidity caused him to urge<br>&nbsp;&nbsp;&nbsp;&nbsp;Repeated demands on the pocket of Splurge,<br>&nbsp;&nbsp;&nbsp;&nbsp;Till, wrecked in his fortune, that gentleman saw<br>&nbsp;&nbsp;&nbsp;&nbsp;Inadequate aid in the practice of Draw,<br>&nbsp;&nbsp;&nbsp;&nbsp;And took, as a means of augmenting his pelf,<br>&nbsp;&nbsp;&nbsp;&nbsp;To the business of being a lord himself.<br>&nbsp;&nbsp;&nbsp;&nbsp;His neat-fitting garments he wilfully shed<br>&nbsp;&nbsp;&nbsp;&nbsp;And sacked himself strangely in checks instead;<br>&nbsp;&nbsp;&nbsp;&nbsp;Denuded his chin, but retained at each ear<br>&nbsp;&nbsp;&nbsp;&nbsp;A whisker that looked like a blasted career.<br>&nbsp;&nbsp;&nbsp;&nbsp;He painted his neck an incarnadine hue<br>&nbsp;&nbsp;&nbsp;&nbsp;Each morning and varnished it all that he knew.<br>&nbsp;&nbsp;&nbsp;&nbsp;The moony monocular set in his eye<br>&nbsp;&nbsp;&nbsp;&nbsp;Appeared to be scanning the Sweet Bye-and-Bye.<br>&nbsp;&nbsp;&nbsp;&nbsp;His head was enroofed with a billycock hat,<br>&nbsp;&nbsp;&nbsp;&nbsp;And his low-necked shoes were aduncous and flat.<br>&nbsp;&nbsp;&nbsp;&nbsp;In speech he eschewed his American ways,<br>&nbsp;&nbsp;&nbsp;&nbsp;Denying his nose to the use of his A's<br>&nbsp;&nbsp;&nbsp;&nbsp;And dulling their edge till the delicate sense<br>&nbsp;&nbsp;&nbsp;&nbsp;Of a babe at their temper could take no offence.<br>&nbsp;&nbsp;&nbsp;&nbsp;His H's -- 'twas most inexpressibly sweet,<br>&nbsp;&nbsp;&nbsp;&nbsp;The patter they made as they fell at his feet!<br>&nbsp;&nbsp;&nbsp;&nbsp;Re-outfitted thus, Mr. Splurge without fear<br>&nbsp;&nbsp;&nbsp;&nbsp;Began as Lord Splurge his recouping career.<br>&nbsp;&nbsp;&nbsp;&nbsp;Alas, the Divinity shaping his end<br>&nbsp;&nbsp;&nbsp;&nbsp;Entertained other views and decided to send<br>&nbsp;&nbsp;&nbsp;&nbsp;His lordship in horror, despair and dismay<br>&nbsp;&nbsp;&nbsp;&nbsp;From the land of the nobleman's natural prey.<br>&nbsp;&nbsp;&nbsp;&nbsp;For, smit with his Old World ways, Lady Cadde<br>&nbsp;&nbsp;&nbsp;&nbsp;Fell -- suffering Caesar! -- in love with her dad!<br><br><cite>G.J.</cite>"
+    },
+    {
+        "name": "LORE",
+        "category": "noun",
+        "description": "Learning -- particularly that sort which is not derived from a regular course of instruction but comes of the reading of occult books, or by nature. This latter is commonly designated as folk-lore and embraces popularly myths and superstitions. In Baring-Gould's 'Curious Myths of the Middle Ages' the reader will find many of these traced backward, through various people son converging lines, toward a common origin in remote antiquity. Among these are the fables of &quot;Teddy the Giant Killer,&quot; &quot;The Sleeping John Sharp Williams,&quot; &quot;Little Red Riding Hood and the Sugar Trust,&quot; &quot;Beauty and the Brisbane,&quot; &quot;The Seven Aldermen of Ephesus,&quot; &quot;Rip Van Fairbanks,&quot; and so forth. The fable with Goethe so affectingly relates under the title of &quot;The Erl- King&quot; was known two thousand years ago in Greece as &quot;The Demos and the Infant Industry.&quot; One of the most general and ancient of these myths is that Arabian tale of &quot;Ali Baba and the Forty Rockefellers.&quot;"
+    },
+    {
+        "name": "LOSS",
+        "category": "noun",
+        "description": "Privation of that which we had, or had not. Thus, in the latter sense, it is said of a defeated candidate that he &quot;lost his election&quot;; and of that eminent man, the poet Gilder, that he has &quot;lost his mind.&quot; It is in the former and more legitimate sense, that the word is used in the famous epitaph:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Here Huntington's ashes long have lain<br>&nbsp;&nbsp;&nbsp;&nbsp;Whose loss is our eternal gain,<br>&nbsp;&nbsp;&nbsp;&nbsp;For while he exercised all his powers<br>&nbsp;&nbsp;&nbsp;&nbsp;Whatever he gained, the loss was ours."
+    },
+    {
+        "name": "LOVE",
+        "category": "noun",
+        "description": "A temporary insanity curable by marriage or by removal of the patient from the influences under which he incurred the disorder. This disease, like 'caries' and many other ailments, is prevalent only among civilized races living under artificial conditions; barbarous nations breathing pure air and eating simple food enjoy immunity from its ravages. It is sometimes fatal, but more frequently to the physician than to the patient."
+    },
+    {
+        "name": "LOW-BRED",
+        "category": "adjective",
+        "description": "&quot;Raised&quot; instead of brought up."
+    },
+    {
+        "name": "LUMINARY",
+        "category": "noun",
+        "description": "One who throws light upon a subject; as an editor by not writing about it."
+    },
+    {
+        "name": "LUNARIAN",
+        "category": "noun",
+        "description": "An inhabitant of the moon, as distinguished from Lunatic, one whom the moon inhabits. The Lunarians have been described by Lucian, Locke and other observers, but without much agreement. For example, Bragellos avers their anatomical identity with Man, but Professor Newcomb says they are more like the hill tribes of Vermont."
+    },
+    {
+        "name": "LYRE",
+        "category": "noun",
+        "description": "An ancient instrument of torture. The word is now used in a figurative sense to denote the poetic faculty, as in the following fiery lines of our great poet, Ella Wheeler Wilcox:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;I sit astride Parnassus with my lyre,<br>&nbsp;&nbsp;&nbsp;&nbsp;And pick with care the disobedient wire.<br>&nbsp;&nbsp;&nbsp;&nbsp;That stupid shepherd lolling on his crook<br>&nbsp;&nbsp;&nbsp;&nbsp;With deaf attention scarcely deigns to look.<br>&nbsp;&nbsp;&nbsp;&nbsp;I bide my time, and it shall come at length,<br>&nbsp;&nbsp;&nbsp;&nbsp;When, with a Titan's energy and strength,<br>&nbsp;&nbsp;&nbsp;&nbsp;I'll grab a fistful of the strings, and O,<br>&nbsp;&nbsp;&nbsp;&nbsp;The word shall suffer when I let them go!<br><br><cite>Farquharson Harris</cite>"
     }
 ]
