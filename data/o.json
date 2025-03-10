@@ -1,10 +1,5 @@
 [
     {
-        "name": "",
-        "category": "",
-        "description": ""
-    },
-    {
         "name": "OATH",
         "category": "noun",
         "description": "In law, a solemn appeal to the Deity, made binding upon the conscience by a penalty for perjury."
@@ -13,5 +8,175 @@
         "name": "OBLIVION",
         "category": "noun",
         "description": "The state or condition in which the wicked cease from struggling and the dreary are at rest. Fame's eternal dumping ground. Cold storage for high hopes. A place where ambitious authors meet their works without pride and their betters without envy. A dormitory without an alarm clock."
+    },
+    {
+        "name": "OBSERVATORY",
+        "category": "noun",
+        "description": "A place where astronomers conjecture away the guesses of their predecessors."
+    },
+    {
+        "name": "OBSESSED",
+        "category": "past participle",
+        "description": "Vexed by an evil spirit, like the Gadarene swine and other critics. Obsession was once more common than it is now. Arasthus tells of a peasant who was occupied by a different devil for every day in the week, and on Sundays by two. They were frequently seen, always walking in his shadow, when he had one, but were finally driven away by the village notary, a holy man; but they took the peasant with them, for he vanished utterly. A devil thrown out of a woman by the Archbishop of Rheims ran through the trees, pursued by a hundred persons, until the open country was reached, where by a leap higher than a church spire he escaped into a bird. A chaplain in Cromwell's army exorcised a soldier's obsessing devil by throwing the soldier into the water, when the devil came to the surface. The soldier, unfortunately, did not."
+    },
+    {
+        "name": "OBSOLETE",
+        "category": "adjective",
+        "description": "No longer used by the timid. Said chiefly of words. A word which some lexicographer has marked obsolete is ever thereafter an object of dread and loathing to the fool writer, but if it is a good word and has no exact modern equivalent equally good, it is good enough for the good writer. Indeed, a writer's attitude toward &quot;obsolete&quot; words is as true a measure of his literary ability as anything except the character of his work. A dictionary of obsolete and obsolescent words would not only be singularly rich in strong and sweet parts of speech; it would add large possessions to the vocabulary of every competent writer who might not happen to be a competent reader."
+    },
+    {
+        "name": "OBSTINATE",
+        "category": "adjective",
+        "description": "Inaccessible to the truth as it is manifest in the splendor and stress of our advocacy.<br><br>The popular type and exponent of obstinacy is the mule, a most intelligent animal."
+    },
+    {
+        "name": "OCCASIONAL",
+        "category": "adjective",
+        "description": "Afflicting us with greater or less frequency. That, however, is not the sense in which the word is used in the phrase &quot;occasional verses,&quot; which are verses written for an &quot;occasion,&quot; such as an anniversary, a celebration or other event. True, they afflict us a little worse than other sorts of verse, but their name has no reference to irregular recurrence."
+    },
+    {
+        "name": "OCCIDENT",
+        "category": "noun",
+        "description": "The part of the world lying west (or east) of the Orient. It is largely inhabited by Christians, a powerful subtribe of the Hypocrites, whose principal industries are murder and cheating, which they are pleased to call &quot;war&quot; and &quot;commerce.&quot; These, also, are the principal industries of the Orient."
+    },
+    {
+        "name": "OCEAN",
+        "category": "noun",
+        "description": "A body of water occupying about two-thirds of a world made for man -- who has no gills."
+    },
+    {
+        "name": "OFFENSIVE",
+        "category": "adjective",
+        "description": "Generating disagreeable emotions or sensations, as the advance of an army against its enemy.<br><br>&quot;Were the enemy's tactics offensive?&quot; the king asked. &quot;I should say so!&quot; replied the unsuccessful general. &quot;The blackguard wouldn't come out of his works!&quot;"
+    },
+    {
+        "name": "OLD",
+        "category": "adjective",
+        "description": "In that stage of usefulness which is not inconsistent with general inefficiency, as an 'old man'. Discredited by lapse of time and offensive to the popular taste, as an 'old' book.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Old books? The devil take them!&quot; Goby said.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Fresh every day must be my books and bread.&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;Nature herself approves the Goby rule<br>&nbsp;&nbsp;&nbsp;&nbsp;And gives us every moment a fresh fool.<br><br><cite>Harley Shum</cite>"
+    },
+    {
+        "name": "OLEAGINOUS",
+        "category": "adjective",
+        "description": "Oily, smooth, sleek.<br><br>Disraeli once described the manner of Bishop Wilberforce as &quot;unctuous, oleaginous, saponaceous.&quot; And the good prelate was ever afterward known as Soapy Sam. For every man there is something in the vocabulary that would stick to him like a second skin. His enemies have only to find it."
+    },
+    {
+        "name": "OLYMPIAN",
+        "category": "adjective",
+        "description": "Relating to a mountain in Thessaly, once inhabited by gods, now a repository of yellowing newspapers, beer bottles and mutilated sardine cans, attesting the presence of the tourist and his appetite.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;His name the smirking tourist scrawls<br>&nbsp;&nbsp;&nbsp;&nbsp;Upon Minerva's temple walls,<br>&nbsp;&nbsp;&nbsp;&nbsp;Where thundered once Olympian Zeus,<br>&nbsp;&nbsp;&nbsp;&nbsp;And marks his appetite's abuse.<br><br><cite>Averil Joop</cite>"
+    },
+    {
+        "name": "OMEN",
+        "category": "noun",
+        "description": "A sign that something will happen if nothing happens."
+    },
+    {
+        "name": "ONCE",
+        "category": "adverb",
+        "description": "Enough."
+    },
+    {
+        "name": "OPERA",
+        "category": "noun",
+        "description": "A play representing life in another world, whose inhabitants have no speech but song, no motions but gestures and no postures but attitudes. All acting is simulation, and the word 'simulation' is from 'simia', an ape; but in opera the actor takes for his model 'Simia audibilis' (or 'Pithecanthropos stentor') -- the ape that howls.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The actor apes a man -- at least in shape;<br>&nbsp;&nbsp;&nbsp;&nbsp;The opera performer apes and ape."
+    },
+    {
+        "name": "OPIATE",
+        "category": "noun",
+        "description": "An unlocked door in the prison of Identity. It leads into the jail yard."
+    },
+    {
+        "name": "OPPORTUNITY",
+        "category": "noun",
+        "description": "A favorable occasion for grasping a disappointment."
+    },
+    {
+        "name": "OPPOSE",
+        "category": "verb",
+        "description": "To assist with obstructions and objections.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;How lonely he who thinks to vex<br>&nbsp;&nbsp;&nbsp;&nbsp;With bandinage the Solemn Sex!<br>&nbsp;&nbsp;&nbsp;&nbsp;Of levity, Mere Man, beware;<br>&nbsp;&nbsp;&nbsp;&nbsp;None but the Grave deserve the Unfair.<br><br><cite>Percy P. Orminder</cite>"
+    },
+    {
+        "name": "OPPOSITION",
+        "category": "noun",
+        "description": "In politics the party that prevents the Government from running amuck by hamstringing it.<br><br>The King of Ghargaroo, who had been abroad to study the science of government, appointed one hundred of his fattest subjects as members of a parliament to make laws for the collection of revenue. Forty of these he named the Party of Opposition and had his Prime Minister carefully instruct them in their duty of opposing every royal measure. Nevertheless, the first one that was submitted passed unanimously. Greatly displeased, the King vetoed it, informing the Opposition that if they did that again they would pay for their obstinacy with their heads. The entire forty promptly disemboweled themselves.<br><br>&quot;What shall we do now?&quot; the King asked. &quot;Liberal institutions cannot be maintained without a party of Opposition.&quot;<br><br>&quot;Splendor of the universe,&quot; replied the Prime Minister, &quot;it is true these dogs of darkness have no longer their credentials, but all is not lost. Leave the matter to this worm of the dust.&quot;<br><br>So the Minister had the bodies of his Majesty's Opposition embalmed and stuffed with straw, put back into the seats of power and nailed there. Forty votes were recorded against every bill and the nation prospered. But one day a bill imposing a tax on warts was defeated -- the members of the Government party had not been nailed to their seats! This so enraged the King that the Prime Minister was put to death, the parliament was dissolved with a battery of artillery, and government of the people, by the people, for the people perished from Ghargaroo."
+    },
+    {
+        "name": "OPTIMISM",
+        "category": "noun",
+        "description": "The doctrine, or belief, that everything is beautiful, including what is ugly, everything good, especially the bad, and everything right that is wrong. It is held with greatest tenacity by those most accustomed to the mischance of falling into adversity, and is most acceptably expounded with the grin that apes a smile. Being a blind faith, it is inaccessible to the light of disproof -- an intellectual disorder, yielding to no treatment but death. It is hereditary, but fortunately not contagious."
+    },
+    {
+        "name": "OPTIMIST",
+        "category": "noun",
+        "description": "A proponent of the doctrine that black is white.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A pessimist applied to God for relief.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Ah, you wish me to restore your hope and cheerfulness,&quot; said God.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;No,&quot; replied the petitioner, &quot;I wish you to create something that would justify them.&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;The world is all created,&quot; said God, &quot;but you have overlooked something -- the mortality of the optimist.&quot;"
+    },
+    {
+        "name": "ORATORY",
+        "category": "noun",
+        "description": "A conspiracy between speech and action to cheat the understanding. A tyranny tempered by stenography."
+    },
+    {
+        "name": "ORPHAN",
+        "category": "noun",
+        "description": "A living person whom death has deprived of the power of filial ingratitude -- a privation appealing with a particular eloquence to all that is sympathetic in human nature. When young the orphan is commonly sent to an asylum, where by careful cultivation of its rudimentary sense of locality it is taught to know its place. It is then instructed in the arts of dependence and servitude and eventually turned loose to prey upon the world as a bootblack or scullery maid."
+    },
+    {
+        "name": "ORTHODOX",
+        "category": "noun",
+        "description": "An ox wearing the popular religious joke."
+    },
+    {
+        "name": "ORTHOGRAPHY",
+        "category": "noun",
+        "description": "The science of spelling by the eye instead of the ear. Advocated with more heat than light by the outmates of every asylum for the insane. They have had to concede a few things since the time of Chaucer, but are none the less hot in defence of those to be conceded hereafter.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A spelling reformer indicted<br>&nbsp;&nbsp;&nbsp;&nbsp;For fudge was before the court cicted.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The judge said: &quot;Enough --<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His candle we'll snough,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;And his sepulchre shall not be whicted.&quot;"
+    },
+    {
+        "name": "OSTRICH",
+        "category": "noun",
+        "description": "A large bird to which (for its sins, doubtless) nature has denied that hinder toe in which so many pious naturalists have seen a conspicuous evidence of design. The absence of a good working pair of wings is no defect, for, as has been ingeniously pointed out, the ostrich does not fly."
+    },
+    {
+        "name": "OTHERWISE",
+        "category": "adverb",
+        "description": "No better."
+    },
+    {
+        "name": "OUTCOME",
+        "category": "noun",
+        "description": "A particular type of disappointment. By the kind of intelligence that sees in an exception a proof of the rule the wisdom of an act is judged by the outcome, the result. This is immortal nonsense; the wisdom of an act is to be juded by the light that the doer had when he performed it."
+    },
+    {
+        "name": "OUTDO",
+        "category": "verb",
+        "description": "To make an enemy."
+    },
+    {
+        "name": "OUT-OF-DOORS",
+        "category": "noun",
+        "description": "That part of one's environment upon which no government has been able to collect taxes. Chiefly useful to inspire poets.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;I climbed to the top of a mountain one day<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To see the sun setting in glory,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;And I thought, as I looked at his vanishing ray,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of a perfectly splendid story.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Twas about an old man and the ass he bestrode<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Till the strength of the beast was o'ertested;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Then the man would carry him miles on the road<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Till Neddy was pretty well rested.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The moon rising solemnly over the crest<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of the hills to the east of my station<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Displayed her broad disk to the darkening west<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Like a visible new creation.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;And I thought of a joke (and I laughed till I cried)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of an idle young woman who tarried<br><br>&nbsp;&nbsp;&nbsp;&nbsp;About a church-door for a look at the bride,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although 'twas herself that was married.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;To poets all Nature is pregnant with grand<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ideas -- with thought and emotion.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;I pity the dunces who don't understand<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The speech of earth, heaven and ocean.<br><br><cite>Stromboli Smith</cite>"
+    },
+    {
+        "name": "OVATION",
+        "category": "noun",
+        "description": "In ancient Rome, a definite, formal pageant in honor of one who had been disserviceable to the enemies of the nation. A lesser &quot;triumph.&quot; In modern English the word is improperly used to signify any loose and spontaneous expression of popular homage to the hero of the hour and place.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;I had an ovation!&quot; the actor man said,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But I thought it uncommonly queer,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;That people and critics by him had been led<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the ear.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The Latin lexicon makes his absurd<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assertion as plain as a peg;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;In &quot;ovum&quot; we find the true root of the word.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It means egg.<br><br><cite>Dudley Spink</cite>"
+    },
+    {
+        "name": "OVEREAT",
+        "category": "verb",
+        "description": "To dine.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Hail, Gastronome, Apostle of Excess,<br>&nbsp;&nbsp;&nbsp;&nbsp;Well skilled to overeat without distress!<br>&nbsp;&nbsp;&nbsp;&nbsp;Thy great invention, the unfatal feast,<br>&nbsp;&nbsp;&nbsp;&nbsp;Shows Man's superiority to Beast.<br><br><cite>John Boop</cite>"
+    },
+    {
+        "name": "OVERWORK",
+        "category": "noun",
+        "description": "A dangerous disorder affecting high public functionaries who want to go fishing."
+    },
+    {
+        "name": "OWE",
+        "category": "verb",
+        "description": "To have (and to hold) a debt. The word formerly signified not indebtedness, but possession; it meant &quot;own,&quot; and in the minds of debtors there is still a good deal of confusion between assets and liabilities."
+    },
+    {
+        "name": "OYSTER",
+        "category": "noun",
+        "description": "A slimy, gobby shellfish which civilization gives men the hardihood to eat without removing its entrails! The shells are sometimes given to the poor."
     }
 ]

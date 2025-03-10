@@ -12,6 +12,566 @@
     {
         "name": "PAINTING",
         "category": "noun",
-        "description": " The art of protecting flat surfaces from the weather and exposing them to the critic."
+        "description": "The art of protecting flat surfaces from the weather and exposing them to the critic."
+    },
+    {
+        "name": "PALACE",
+        "category": "noun",
+        "description": "A fine and costly residence, particularly that of a great official. The residence of a high dignitary of the Christian Church is called a palace; that of the Founder of his religion was known as a field, or wayside. There is progress."
+    },
+    {
+        "name": "PALM",
+        "category": "noun",
+        "description": "A species of tree having several varieties, of which the familiar &quot;itching palm&quot; ('Palma hominis') is most widely distributed and sedulously cultivated. This noble vegetable exudes a kind of invisible gum, which may be detected by applying to the bark a piece of gold or silver. The metal will adhere with remarkable tenacity. The fruit of the itching palm is so bitter and unsatisfying that a considerable percentage of it is sometimes given away in what are known as &quot;benefactions.&quot;"
+    },
+    {
+        "name": "PALMISTRY",
+        "category": "noun",
+        "description": "The 947th method (according to Mimbleshaw's classification) of obtaining money by false pretences. It consists in &quot;reading character&quot; in the wrinkles made by closing the hand. The pretence is not altogether false; character can really be read very accurately in this way, for the wrinkles in every hand submitted plainly spell the word &quot;dupe.&quot; The imposture consists in not reading it aloud."
+    },
+    {
+        "name": "PANDEMONIUM",
+        "category": "noun",
+        "description": "Literally, the Place of All the Demons. Most of them have escaped into politics and finance, and the place is now used as a lecture hall by the Audible Reformer. When disturbed by his voice the ancient echoes clamor appropriate responses most gratifying to his pride of distinction."
+    },
+    {
+        "name": "PANTALOONS",
+        "category": "noun",
+        "description": "A nether habiliment of the adult civilized male. The garment is tubular and unprovided with hinges at the points of flexion. Supposed to have been invented by a humorist. Called &quot;trousers&quot; by the enlightened and &quot;pants&quot; by the unworthy."
+    },
+    {
+        "name": "PANTHEISM",
+        "category": "noun",
+        "description": "The doctrine that everything is God, in contradistinction to the doctrine that God is everything."
+    },
+    {
+        "name": "PANTOMIME",
+        "category": "noun",
+        "description": "A play in which the story is told without violence to the language. The least disagreeable form of dramatic action."
+    },
+    {
+        "name": "PARDON",
+        "category": "verb",
+        "description": "To remit a penalty and restore to the life of crime. To add to the lure of crime the temptation of ingratitude."
+    },
+    {
+        "name": "PASSPORT",
+        "category": "noun",
+        "description": "A document treacherously inflicted upon a citizen going abroad, exposing him as an alien and pointing him out for special reprobation and outrage."
+    },
+    {
+        "name": "PAST",
+        "category": "noun",
+        "description": "That part of Eternity with some small fraction of which we have a slight and regrettable acquaintance. A moving line called the Present parts it from an imaginary period known as the Future. These two grand divisions of Eternity, of which the one is continually effacing the other, are entirely unlike. The one is dark with sorrow and disappointment, the other bright with prosperity and joy. The Past is the region of sobs, the Future is the realm of song. In the one crouches Memory, clad in sackcloth and ashes, mumbling penitential prayer; in the sunshine of the other Hope flies with a free wing, beckoning to temples of success and bowers of ease. Yet the Past is the Future of yesterday, the Future is the Past of to-morrow. They are one -- the knowledge and the dream."
+    },
+    {
+        "name": "PASTIME",
+        "category": "noun",
+        "description": "A device for promoting dejection. Gentle exercise for intellectual debility."
+    },
+    {
+        "name": "PATIENCE",
+        "category": "noun",
+        "description": "A minor form of despair, disguised as a virtue."
+    },
+    {
+        "name": "PATRIOT",
+        "category": "noun",
+        "description": "One to whom the interests of a part seem superior to those of the whole. The dupe of statesmen and the tool of conquerors."
+    },
+    {
+        "name": "PATRIOTISM",
+        "category": "noun",
+        "description": "Combustible rubbish ready to the torch of any one ambitious to illuminate his name.<br><br>In Dr. Johnson's famous dictionary patriotism is defined as the last resort of a scoundrel. With all due respect to an enlightened but inferior lexicographer I beg to submit that it is the first."
+    },
+    {
+        "name": "PEACE",
+        "category": "noun",
+        "description": "In international affairs, a period of cheating between two periods of fighting.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;O, what's the loud uproar assailing<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mine ears without cease?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Tis the voice of the hopeful, all-hailing<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The horrors of peace.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Ah, Peace Universal; they woo it --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Would marry it, too.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;If only they knew how to do it<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Twere easy to do.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;They're working by night and by day<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On their problem, like moles.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Have mercy, O Heaven, I pray,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On their meddlesome souls!<br><br><cite>Ro Amil</cite>"
+    },
+    {
+        "name": "PEDESTRIAN",
+        "category": "noun",
+        "description": "The variable (and audible) part of the roadway for an automobile."
+    },
+    {
+        "name": "PEDIGREE",
+        "category": "noun",
+        "description": "The known part of the route from an arboreal ancestor with a swim bladder to an urban descendant with a cigarette."
+    },
+    {
+        "name": "PENITENT",
+        "category": "adjective",
+        "description": "Undergoing or awaiting punishment."
+    },
+    {
+        "name": "PERFECTION",
+        "category": "noun",
+        "description": "An imaginary state of quality distinguished from the actual by an element known as excellence; an attribute of the critic.<br><br>The editor of an English magazine having received a letter pointing out the erroneous nature of his views and style, and signed &quot;Perfection,&quot; promptly wrote at the foot of the letter: &quot;I don't agree with you,&quot; and mailed it to Matthew Arnold."
+    },
+    {
+        "name": "PERIPATETIC",
+        "category": "adjective",
+        "description": "Walking about. Relating to the philosophy of Aristotle, who, while expounding it, moved from place to place in order to avoid his pupil's objections. A needless precaution -- they knew no more of the matter than he."
+    },
+    {
+        "name": "PERORATION",
+        "category": "noun",
+        "description": "The explosion of an oratorical rocket. It dazzles, but to an observer having the wrong kind of nose its most conspicuous peculiarity is the smell of the several kinds of powder used in preparing it."
+    },
+    {
+        "name": "PERSEVERANCE",
+        "category": "noun",
+        "description": "A lowly virtue whereby mediocrity achieves an inglorious success.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Persevere, persevere!&quot; cry the homilists all,<br>&nbsp;&nbsp;&nbsp;&nbsp;Themselves, day and night, persevering to bawl.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Remember the fable of tortoise and hare --<br>&nbsp;&nbsp;&nbsp;&nbsp;The one at the goal while the other is -- where?&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;Why, back there in Dreamland, renewing his lease<br>&nbsp;&nbsp;&nbsp;&nbsp;Of life, all his muscles preserving the peace,<br>&nbsp;&nbsp;&nbsp;&nbsp;The goal and the rival forgotten alike,<br>&nbsp;&nbsp;&nbsp;&nbsp;And the long fatigue of the needless hike.<br>&nbsp;&nbsp;&nbsp;&nbsp;His spirit a-squat in the grass and the dew<br>&nbsp;&nbsp;&nbsp;&nbsp;Of the dogless Land beyond the Stew,<br>&nbsp;&nbsp;&nbsp;&nbsp;He sleeps, like a saint in a holy place,<br>&nbsp;&nbsp;&nbsp;&nbsp;A winner of all that is good in a race.<br><br><cite>Sukker Uffro</cite>"
+    },
+    {
+        "name": "PESSIMISM",
+        "category": "noun",
+        "description": "A philosophy forced upon the convictions of the observer by the disheartening prevalence of the optimist with his scarecrow hope and his unsightly smile."
+    },
+    {
+        "name": "PHILANTHROPIST",
+        "category": "noun",
+        "description": "A rich (and usually bald) old gentleman who has trained himself to grin while his conscience is picking his pocket."
+    },
+    {
+        "name": "PHILISTINE",
+        "category": "noun",
+        "description": "One whose mind is the creature of its environment, following the fashion in thought, feeling and sentiment. He is sometimes learned, frequently prosperous, commonly clean and always solemn."
+    },
+    {
+        "name": "PHILOSOPHY",
+        "category": "noun",
+        "description": "A route of many roads leading from nowhere to nothing."
+    },
+    {
+        "name": "PHOENIX",
+        "category": "noun",
+        "description": "The classical prototype of the modern &quot;small hot bird.&quot;"
+    },
+    {
+        "name": "PHONOGRAPH",
+        "category": "noun",
+        "description": "An irritating toy that restores life to dead noises."
+    },
+    {
+        "name": "PHOTOGRAPH",
+        "category": "noun",
+        "description": "A picture painted by the sun without instruction in art. It is a little better than the work of an Apache, but not quite so good as that of a Cheyenne."
+    },
+    {
+        "name": "PHRENOLOGY",
+        "category": "noun",
+        "description": "The science of picking the pocket through the scalp. It consists in locating and exploiting the organ that one is a dupe with."
+    },
+    {
+        "name": "PHYSICIAN",
+        "category": "noun",
+        "description": "One upon whom we set our hopes when ill and our dogs when well."
+    },
+    {
+        "name": "PHYSIOGNOMY",
+        "category": "noun",
+        "description": "The art of determining the character of another by the resemblances and differences between his face and our own, which is the standard of excellence.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;There is no art,&quot; says Shakespeare, foolish man,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;To read the mind's construction in the face.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The physiognomists his portrait scan,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And say: &quot;How little wisdom here we trace!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;He knew his face disclosed his mind and heart,<br>&nbsp;&nbsp;&nbsp;&nbsp;So, in his own defence, denied our art.&quot;<br><br><cite>Lavatar Shunk</cite>"
+    },
+    {
+        "name": "PIANO",
+        "category": "noun",
+        "description": "A parlor utensil for subduing the impenitent visitor. It is operated by pressing the keys of the machine and the spirits of the audience."
+    },
+    {
+        "name": "PICKANINNY",
+        "category": "noun",
+        "description": "The young of the 'Procyanthropos', or 'Americanus dominans'. It is small, black and charged with political fatalities."
+    },
+    {
+        "name": "PICTURE",
+        "category": "noun",
+        "description": "A representation in two dimensions of something wearisome in three.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Behold great Daubert's picture here on view --<br>&nbsp;&nbsp;&nbsp;&nbsp;Taken from Life.&quot; If that description's true,<br>&nbsp;&nbsp;&nbsp;&nbsp;Grant, heavenly Powers, that I be taken, too.<br><br><cite>Jali Hane</cite>"
+    },
+    {
+        "name": "PIE",
+        "category": "noun",
+        "description": "An advance agent of the reaper whose name is Indigestion.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Cold pie was highly esteemed by the remains.<br><br><cite>Rev. Dr. Mucker</cite><br><br>(in a funeral sermon over a British nobleman)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Cold pie is a detestable<br>&nbsp;&nbsp;&nbsp;&nbsp;American comestible.<br>&nbsp;&nbsp;&nbsp;&nbsp;That's why I'm done -- or undone --<br>&nbsp;&nbsp;&nbsp;&nbsp;So far from that dear London.<br><br>(from the headstone of a British nobleman in Kalamazoo)"
+    },
+    {
+        "name": "PIETY",
+        "category": "noun",
+        "description": "Reverence for the Supreme Being, based upon His supposed resemblance to man.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The pig is taught by sermons and epistles<br>&nbsp;&nbsp;&nbsp;&nbsp;To think the God of Swine has snout and bristles.<br><br><cite>Judibras</cite>"
+    },
+    {
+        "name": "PIG",
+        "category": "noun",
+        "description": "An animal ('Porcus omnivorus') closely allied to the human race by the splendor and vivacity of its appetite, which, however, is inferior in scope, for it sticks at pig."
+    },
+    {
+        "name": "PIGMY",
+        "category": "noun",
+        "description": "One of a tribe of very small men found by ancient travelers in many parts of the world, but by modern in Central Africa only. The Pigmies are so called to distinguish them from the bulkier Caucasians -- who are Hogmies."
+    },
+    {
+        "name": "PILGRIM",
+        "category": "noun",
+        "description": " A traveler that is taken seriously. A Pilgrim Father was one who, leaving Europe in 1620 because not permitted to sing psalms through his nose, followed it to Massachusetts, where he could personate God according to the dictates of his conscience."
+    },
+    {
+        "name": "PILLORY",
+        "category": "noun",
+        "description": "A mechanical device for inflicting personal distinction -- prototype of the modern newspaper conducted by persons of austere virtues and blameless lives."
+    },
+    {
+        "name": "PIRACY",
+        "category": "noun",
+        "description": "Commerce without its folly-swaddles, just as God made it."
+    },
+    {
+        "name": "PITIFUL",
+        "category": "adjective",
+        "description": "The state of an enemy of opponent after an imaginary encounter with oneself."
+    },
+    {
+        "name": "PITY",
+        "category": "noun",
+        "description": "A failing sense of exemption, inspired by contrast."
+    },
+    {
+        "name": "PLAGIARISM",
+        "category": "noun",
+        "description": "A literary coincidence compounded of a discreditable priority and an honorable subsequence."
+    },
+    {
+        "name": "PLAGIARIZE",
+        "category": "verb",
+        "description": "To take the thought or style of another writer whom one has never, never read."
+    },
+    {
+        "name": "PLAGUE",
+        "category": "noun",
+        "description": "In ancient times a general punishment of the innocent for admonition of their ruler, as in the familiar instance of Pharaoh the Immune. The plague as we of to-day have the happiness to know it is merely Nature's fortuitous manifestation of her purposeless objectionableness."
+    },
+    {
+        "name": "PLAN",
+        "category": "verb",
+        "description": "To bother about the best method of accomplishing an accidental result."
+    },
+    {
+        "name": "PLATITUDE",
+        "category": "noun",
+        "description": "The fundamental element and special glory of popular literature. A thought that snores in words that smoke. The wisdom of a million fools in the diction of a dullard. A fossil sentiment in artificial rock. A moral without the fable. All that is mortal of a departed truth. A demi-tasse of milk-and-mortality. The Pope's-nose of a featherless peacock. A jelly-fish withering on the shore of the sea of thought. The cackle surviving the egg. A desiccated epigram."
+    },
+    {
+        "name": "PLATONIC",
+        "category": "adjective",
+        "description": "Pertaining to the philosophy of Socrates. Platonic Love is a fool's name for the affection between a disability and a frost."
+    },
+    {
+        "name": "PLAUDITS",
+        "category": "noun",
+        "description": "Coins with which the populace pays those who tickle and devour it."
+    },
+    {
+        "name": "PLEASE",
+        "category": "verb",
+        "description": "To lay the foundation for a superstructure of imposition."
+    },
+    {
+        "name": "PLEASURE",
+        "category": "noun",
+        "description": "The least hateful form of dejection."
+    },
+    {
+        "name": "PLEBEIAN",
+        "category": "noun",
+        "description": "An ancient Roman who in the blood of his country stained nothing but his hands. Distinguished from the Patrician, who was a saturated solution."
+    },
+    {
+        "name": "PLEBISCITE",
+        "category": "noun",
+        "description": "A popular vote to ascertain the will of the sovereign."
+    },
+    {
+        "name": "PLENIPOTENTIARY",
+        "category": "adjective",
+        "description": "Having full power. A Minister Plenipotentiary is a diplomatist possessing absolute authority on condition that he never exert it."
+    },
+    {
+        "name": "PLEONASM",
+        "category": "noun",
+        "description": "An army of words escorting a corporal of thought."
+    },
+    {
+        "name": "PLOW",
+        "category": "noun",
+        "description": "An implement that cries aloud for hands accustomed to the pen."
+    },
+    {
+        "name": "PLUNDER",
+        "category": "verb",
+        "description": "To take the property of another without observing the decent and customary reticences of theft. To effect a change of ownership with the candid concomitance of a brass band. To wrest the wealth of A from B and leave C lamenting a vanishing opportunity."
+    },
+    {
+        "name": "POCKET",
+        "category": "noun",
+        "description": "The cradle of motive and the grave of conscience. In woman this organ is lacking; so she acts without motive, and her conscience, denied burial, remains ever alive, confessing the sins of others."
+    },
+    {
+        "name": "POETRY",
+        "category": "noun",
+        "description": "A form of expression peculiar to the Land beyond the Magazines."
+    },
+    {
+        "name": "POKER",
+        "category": "noun",
+        "description": "A game said to be played with cards for some purpose to this lexicographer unknown."
+    },
+    {
+        "name": "POLICE",
+        "category": "noun",
+        "description": "An armed force for protection and participation."
+    },
+    {
+        "name": "POLITENESS",
+        "category": "noun",
+        "description": "The most acceptable hypocrisy."
+    },
+    {
+        "name": "POLITICS",
+        "category": "noun",
+        "description": "A strife of interests masquerading as a contest of principles. The conduct of public affairs for private advantage."
+    },
+    {
+        "name": "POLITICIAN",
+        "category": "noun",
+        "description": "An eel in the fundamental mud upon which the superstructure of organized society is reared. When we wriggles he mistakes the agitation of his tail for the trembling of the edifice. As compared with the statesman, he suffers the disadvantage of being alive."
+    },
+    {
+        "name": "POLYGAMY",
+        "category": "noun",
+        "description": "A house of atonement, or expiatory chapel, fitted with several stools of repentance, as distinguished from monogamy, which has but one."
+    },
+    {
+        "name": "POPULIST",
+        "category": "noun",
+        "description": "A fossil patriot of the early agricultural period, found in the old red soapstone underlying Kansas; characterized by an uncommon spread of ear, which some naturalists contend gave him the power of flight, though Professors Morse and Whitney, pursuing independent lines of thought, have ingeniously pointed out that had he possessed it he would have gone elsewhere. In the picturesque speech of his period, some fragments of which have come down to us, he was known as &quot;The Matter with Kansas.&quot;"
+    },
+    {
+        "name": "PORTABLE",
+        "category": "adjective",
+        "description": "Exposed to a mutable ownership through vicissitudes of possession.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;His light estate, if neither he did make it<br>&nbsp;&nbsp;&nbsp;&nbsp;Nor yet its former guardian forsake it,<br>&nbsp;&nbsp;&nbsp;&nbsp;Is portable improperly, I take it.<br><br><cite>Worgum Slupsky</cite>"
+    },
+    {
+        "name": "PORTUGUESE",
+        "category": "noun",
+        "description": "A species of geese indigenous to Portugal. They are mostly without feathers and imperfectly edible, even when stuffed with garlic."
+    },
+    {
+        "name": "POSITIVE",
+        "category": "adjective",
+        "description": "Mistaken at the top of one's voice."
+    },
+    {
+        "name": "POSITIVISM",
+        "category": "noun",
+        "description": "A philosophy that denies our knowledge of the Real and affirms our ignorance of the Apparent. Its longest exponent is Comte, its broadest Mill and its thickest Spencer."
+    },
+    {
+        "name": "POSTERITY",
+        "category": "noun",
+        "description": "An appellate court which reverses the judgment of a popular author's contemporaries, the appellant being his obscure competitor."
+    },
+    {
+        "name": "POTABLE",
+        "category": "noun",
+        "description": "Suitable for drinking. Water is said to be potable; indeed, some declare it our natural beverage, although even they find it palatable only when suffering from the recurrent disorder known as thirst, for which it is a medicine. Upon nothing has so great and diligent ingenuity been brought to bear in all ages and in all countries, except the most uncivilized, as upon the invention of substitutes for water. To hold that this general aversion to that liquid has no basis in the preservative instinct of the race is to be unscientific -- and without science we are as the snakes and toads."
+    },
+    {
+        "name": "POVERTY",
+        "category": "noun",
+        "description": "A file provided for the teeth of the rats of reform. The number of plans for its abolition equals that of the reformers who suffer from it, plus that of the philosophers who know nothing about it. Its victims are distinguished by possession of all the virtues and by their faith in leaders seeking to conduct them into a prosperity where they believe these to be unknown."
+    },
+    {
+        "name": "PRAY",
+        "category": "verb",
+        "description": "To ask that the laws of the universe be annulled in behalf of a single petitioner confessedly unworthy."
+    },
+    {
+        "name": "PRE-ADAMITE",
+        "category": "noun",
+        "description": "One of an experimental and apparently unsatisfactory race of antedated Creation and lived under conditions not easily conceived. Melsius believed them to have inhabited &quot;the Void&quot; and to have been something intermediate between fishes and birds. Little its known of them beyond the fact that they supplied Cain with a wife and theologians with a controversy."
+    },
+    {
+        "name": "PRECEDENT",
+        "category": "noun",
+        "description": "In Law, a previous decision, rule or practice which, in the absence of a definite statute, has whatever force and authority a Judge may choose to give it, thereby greatly simplifying his task of doing as he pleases. As there are precedents for everything, he has only to ignore those that make against his interest and accentuate those in the line of his desire. Invention of the precedent elevates the trial-at-law from the low estate of a fortuitous ordeal to the noble attitude of a dirigible arbitrament."
+    },
+    {
+        "name": "PRECIPITATE",
+        "category": "adjective",
+        "description": "Anteprandial.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Precipitate in all, this sinner<br>&nbsp;&nbsp;&nbsp;&nbsp;Took action first, and then his dinner.<br><br><cite>Judibras</cite>"
+    },
+    {
+        "name": "PREDESTINATION",
+        "category": "noun",
+        "description": "The doctrine that all things occur according to programme. This doctrine should not be confused with that of foreordination, which means that all things are programmed, but does not affirm their occurrence, that being only an implication from other doctrines by which this is entailed. The difference is great enough to have deluged Christendom with ink, to say nothing of the gore. With the distinction of the two doctrines kept well in mind, and a reverent belief in both, one may hope to escape perdition if spared."
+    },
+    {
+        "name": "PREDICAMENT",
+        "category": "noun",
+        "description": "The wage of consistency."
+    },
+    {
+        "name": "PREDILECTION",
+        "category": "adjective",
+        "description": "The preparatory stage of disillusion."
+    },
+    {
+        "name": "PRE-EXISTENCE",
+        "category": "noun",
+        "description": "An unnoted factor in creation."
+    },
+    {
+        "name": "PREFERENCE",
+        "category": "noun",
+        "description": " A sentiment, or frame of mind, induced by the erroneous belief that one thing is better than another.<br><br>An ancient philosopher, expounding his conviction that life is no better than death, was asked by a disciple why, then, he did not die. &quot;Because,&quot; he replied, &quot;death is no better than life.&quot;<br><br>It is longer."
+    },
+    {
+        "name": "PREHISTORIC",
+        "category": "adjective",
+        "description": "Belonging to an early period and a museum. Antedating the art and practice of perpetuating falsehood.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;He lived in a period prehistoric,<br>&nbsp;&nbsp;&nbsp;&nbsp;When all was absurd and phantasmagoric.<br>&nbsp;&nbsp;&nbsp;&nbsp;Born later, when Clio, celestial recorded,<br>&nbsp;&nbsp;&nbsp;&nbsp;Set down great events in succession and order,<br>&nbsp;&nbsp;&nbsp;&nbsp;He surely had seen nothing droll or fortuitous<br>&nbsp;&nbsp;&nbsp;&nbsp;In anything here but the lies that she threw at us.<br><br><cite>Orpheus Bowen</cite>"
+    },
+    {
+        "name": "PREJUDICE",
+        "category": "noun",
+        "description": "A vagrant opinion without visible means of support."
+    },
+    {
+        "name": "PRELATE",
+        "category": "noun",
+        "description": "A church officer having a superior degree of holiness and a fat preferment. One of Heaven's aristocracy. A gentleman of God."
+    },
+    {
+        "name": "PREROGATIVE",
+        "category": "noun",
+        "description": "A sovereign's right to do wrong."
+    },
+    {
+        "name": "PRESBYTERIAN",
+        "category": "noun",
+        "description": "One who holds the conviction that the government authorities of the Church should be called presbyters."
+    },
+    {
+        "name": "PRESCRIPTION",
+        "category": "noun",
+        "description": "A physician's guess at what will best prolong the situation with least harm to the patient."
+    },
+    {
+        "name": "PRESENT",
+        "category": "noun",
+        "description": "That part of eternity dividing the domain of disappointment from the realm of hope."
+    },
+    {
+        "name": "PRESENTABLE",
+        "category": "adjective",
+        "description": "Hideously appareled after the manner of the time and place.<br><br>In Boorioboola-Gha a man is presentable on occasions of ceremony if he have his abdomen painted a bright blue and wear a cow's tail; in New York he may, if it please him, omit the paint, but after sunset he must wear two tails made of the wool of a sheep and dyed black."
+    },
+    {
+        "name": "PRESIDE",
+        "category": "verb",
+        "description": "To guide the action of a deliberative body to a desirable result. In Journalese, to perform upon a musical instrument; as, &quot;He presided at the piccolo.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The Headliner, holding the copy in hand,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Read with a solemn face:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;The music was very uncommonly grand --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The best that was every provided,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For our townsman Brown presided<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the organ with skill and grace.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The Headliner discontinued to read,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And, spread the paper down<br><br>&nbsp;&nbsp;&nbsp;&nbsp;On the desk, he dashed in at the top of the screed:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;Great playing by President Brown.&quot;<br><br><cite>Orpheus Bowen</cite>"
+    },
+    {
+        "name": "PRESIDENCY",
+        "category": "noun",
+        "description": "The greased pig in the field game of American politics."
+    },
+    {
+        "name": "PRESIDENT",
+        "category": "noun",
+        "description": "The leading figure in a small group of men of whom -- and of whom only -- it is positively known that immense numbers of their countrymen did not want any of them for President.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;If that's an honor surely 'tis a greater<br>&nbsp;&nbsp;&nbsp;&nbsp;To have been a simple and undamned spectator.<br>&nbsp;&nbsp;&nbsp;&nbsp;Behold in me a man of mark and note<br>&nbsp;&nbsp;&nbsp;&nbsp;Whom no elector e'er denied a vote! --<br>&nbsp;&nbsp;&nbsp;&nbsp;An undiscredited, unhooted gent<br>&nbsp;&nbsp;&nbsp;&nbsp;Who might, for all we know, be President<br>&nbsp;&nbsp;&nbsp;&nbsp;By acclimation. Cheer, ye varlets, cheer --<br>&nbsp;&nbsp;&nbsp;&nbsp;I'm passing with a wide and open ear!<br><br><cite>Jonathan Fomry</cite>"
+    },
+    {
+        "name": "PREVARICATOR",
+        "category": "noun",
+        "description": "A liar in the caterpillar estate."
+    },
+    {
+        "name": "PRICE",
+        "category": "noun",
+        "description": "Value, plus a reasonable sum for the wear and tear of conscience in demanding it."
+    },
+    {
+        "name": "PRIMATE",
+        "category": "noun",
+        "description": "The head of a church, especially a State church supported by involuntary contributions. The Primate of England is the Archbishop of Canterbury, an amiable old gentleman, who occupies Lambeth Palace when living and Westminster Abbey when dead. He is commonly dead."
+    },
+    {
+        "name": "PRISON",
+        "category": "noun",
+        "description": "A place of punishments and rewards. The poet assures us that --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Stone walls do not a prison make,&quot;<br><br>but a combination of the stone wall, the political parasite and the moral instructor is no garden of sweets."
+    },
+    {
+        "name": "PRIVATE",
+        "category": "noun",
+        "description": "A military gentleman with a field-marshal's baton in his knapsack and an impediment in his hope."
+    },
+    {
+        "name": "PROBOSCIS",
+        "category": "noun",
+        "description": "The rudimentary organ of an elephant which serves him in place of the knife-and-fork that Evolution has as yet denied him. For purposes of humor it is popularly called a trunk.<br><br>Asked how he knew that an elephant was going on a journey, the illustrious Jo. Miller cast a reproachful look upon his tormentor, and answered, absently: &quot;When it is ajar,&quot; and threw himself from a high promontory into the sea. Thus perished in his pride the most famous humorist of antiquity, leaving to mankind a heritage of woe! No successor worthy of the title has appeared, though Mr. Edward Bok, of 'The Ladies' Home Journal', is much respected for the purity and sweetness of his personal character."
+    },
+    {
+        "name": "PROJECTILE",
+        "category": "noun",
+        "description": "he final arbiter in international disputes. Formerly these disputes were settled by physical contact of the disputants, with such simple arguments as the rudimentary logic of the times could supply -- the sword, the spear, and so forth. With the growth of prudence in military affairs the projectile came more and more into favor, and is now held in high esteem by the most courageous. Its capital defect is that it requires personal attendance at the point of propulsion."
+    },
+    {
+        "name": "PROOF",
+        "category": "noun",
+        "description": "Evidence having a shade more of plausibility than of unlikelihood. The testimony of two credible witnesses as opposed to that of only one."
+    },
+    {
+        "name": "PROOF-READER",
+        "category": "noun",
+        "description": "A malefactor who atones for making your writing nonsense by permitting the compositor to make it unintelligible."
+    },
+    {
+        "name": "PROPERTY",
+        "category": "noun",
+        "description": "Any material thing, having no particular value, that may be held by A against the cupidity of B. Whatever gratifies the passion for possession in one and disappoints it in all others. The object of man's brief rapacity and long indifference."
+    },
+    {
+        "name": "PROPHECY",
+        "category": "noun",
+        "description": "The art and practice of selling one's credibility for future delivery."
+    },
+    {
+        "name": "PROSPECT",
+        "category": "noun",
+        "description": "An outlook, usually forbidding. An expectation, usually forbidden.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Blow, blow, ye spicy breezes --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O'er Ceylon blow your breath,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Where every prospect pleases,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Save only that of death.<br><br><cite>Bishop Sheber</cite>"
+    },
+    {
+        "name": "PROVIDENTIAL",
+        "category": "adjective",
+        "description": "Unexpectedly and conspicuously beneficial to the person so describing it."
+    },
+    {
+        "name": "PRUDE",
+        "category": "noun",
+        "description": "A bawd hiding behind the back of her demeanor."
+    },
+    {
+        "name": "PUBLISH",
+        "category": "noun",
+        "description": "In literary affairs, to become the fundamental element in a cone of critics."
+    },
+    {
+        "name": "PUSH",
+        "category": "noun",
+        "description": "One of the two things mainly conducive to success, especially in politics. The other is Pull."
+    },
+    {
+        "name": "PYRRHONISM",
+        "category": "noun",
+        "description": "An ancient philosophy, named for its inventor. It consisted of an absolute disbelief in everything but Pyrrhonism. Its modern professors have added that."
     }
 ]

@@ -1,10 +1,5 @@
 [
     {
-        "name": "",
-        "category": "",
-        "description": ""
-    },
-    {
         "name": "YANKEE",
         "category": "noun",
         "description": " In Europe, an American. In the Northern States of our Union, a New Englander. In the Southern States the word is unknown. (See DAMNYANK.)"
@@ -13,5 +8,20 @@
         "name": "YEAR",
         "category": "noun",
         "description": "A period of three hundred and sixty-five disappointments."
+    },
+    {
+        "name": "YESTERDAY",
+        "category": "noun",
+        "description": "The infancy of youth, the youth of manhood, the entire past of age.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;But yesterday I should have thought me blest<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To stand high-pinnacled upon the peak<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of middle life and look adown the bleak<br><br>&nbsp;&nbsp;&nbsp;&nbsp;And unfamiliar foreslope to the West,<br>&nbsp;&nbsp;&nbsp;&nbsp;Where solemn shadows all the land invest<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And stilly voices, half-remembered, speak<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unfinished prophecy, and witch-fires freak<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The haunted twilight of the Dark of Rest.<br>&nbsp;&nbsp;&nbsp;&nbsp;Yea, yesterday my soul was all aflame<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To stay the shadow on the dial's face<br><br>&nbsp;&nbsp;&nbsp;&nbsp;At manhood's noonmark! Now, in God His name<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I chide aloud the little interspace<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Disparting me from Certitude, and fain<br>&nbsp;&nbsp;&nbsp;&nbsp;Would know the dream and vision ne'er again.<br><br><cite>Baruch Arnegriff</cite><br><br>It is said that in his last illness the poet Arnegriff was attended at different times by seven doctors."
+    },
+    {
+        "name": "YOKE",
+        "category": "noun",
+        "description": "An implement, madam, to whose Latin name, _jugum_, we owe one of the most illuminating words in our language -- a word that defines the matrimonial situation with precision, point and poignancy. A thousand apologies for withholding it."
+    },
+    {
+        "name": "YOUTH",
+        "category": "noun",
+        "description": "The Period of Possibility, when Archimedes finds a fulcrum, Cassandra has a following and seven cities compete for the honor of endowing a living Homer.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Youth is the true Saturnian Reign, the Golden Age on earth again, when figs are grown on thistles, and pigs betailed with whistles and, wearing silken bristles, live ever in clover, and cows fly over, delivering milk at every door, and Justice never is heard to snore, and every assassin is made a ghost and, howling, is cast into Baltimost!<br><br><cite>Polydore Smith</cite>"
     }
 ]
