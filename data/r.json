@@ -1,17 +1,502 @@
 [
     {
-        "name": "",
-        "category": "",
-        "description": ""
-    },
-    {
         "name": "RABBLE",
         "category": "noun",
-        "description": " In a republic, those who exercise a supreme authority tempered by fraudulent elections. The rabble is like the sacred Simurgh, of Arabian fable -- omnipotent on condition that it do nothing. (The word is Aristocratese, and has no exact equivalent in our tongue, but means, as nearly as may be, 'soaring swine.')"
+        "description": "In a republic, those who exercise a supreme authority tempered by fraudulent elections. The rabble is like the sacred Simurgh, of Arabian fable -- omnipotent on condition that it do nothing. (The word is Aristocratese, and has no exact equivalent in our tongue, but means, as nearly as may be, 'soaring swine.')"
     },
     {
         "name": "RACK",
         "category": "noun",
         "description": "An argumentative implement formerly much used in persuading devotees of a false faith to embrace the living truth. As a call to the unconverted the rack never had any particular efficacy, and is now held in light popular esteem."
+    },
+    {
+        "name": "RANK",
+        "category": "noun",
+        "description": "Relative elevation in the scale of human worth.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;He held at court a rank so high<br>&nbsp;&nbsp;&nbsp;&nbsp;That other noblemen asked why.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Because,&quot; 'twas answered, &quot;others lack<br>&nbsp;&nbsp;&nbsp;&nbsp;His skill to scratch the royal back.&quot;<br><br><cite>Aramis Jukes</cite>"
+    },
+    {
+        "name": "RANSOM",
+        "category": "noun",
+        "description": "The purchase of that which neither belongs to the seller, nor can belong to the buyer. The most unprofitable of investments."
+    },
+    {
+        "name": "RAPACITY",
+        "category": "noun",
+        "description": "Providence without industry. The thrift of power."
+    },
+    {
+        "name": "RAREBIT",
+        "category": "noun",
+        "description": "A Welsh rabbit, in the speech of the humorless, who point out that it is not a rabbit. To whom it may be solemnly explained that the comestible known as toad-in-a-hole is really not a toad, and that _riz-de-veau a la financiere_ is not the smile of a calf prepared after the recipe of a she banker."
+    },
+    {
+        "name": "RASCAL",
+        "category": "noun",
+        "description": "A fool considered under another aspect."
+    },
+    {
+        "name": "RASCALITY",
+        "category": "noun",
+        "description": "Stupidity militant. The activity of a clouded intellect."
+    },
+    {
+        "name": "RASH",
+        "category": "adjective",
+        "description": "Insensible to the value of our advice.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Now lay your bet with mine, nor let<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These gamblers take your cash.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Nay, this child makes no bet.&quot; &quot;Great snakes!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can you be so rash?&quot;<br><br><cite>Bootle P. Gish</cite>"
+    },
+    {
+        "name": "RATIONAL",
+        "category": "adjective",
+        "description": "Devoid of all delusions save those of observation, experience and reflection."
+    },
+    {
+        "name": "RATTLESNAKE",
+        "category": "noun",
+        "description": "Our prostrate brother, _Homo ventrambulans_."
+    },
+    {
+        "name": "RAZOR",
+        "category": "noun",
+        "description": "An instrument used by the Caucasian to enhance his beauty, by the Mongolian to make a guy of himself, and by the Afro-American to affirm his worth."
+    },
+    {
+        "name": "REACH",
+        "category": "noun",
+        "description": "The radius of action of the human hand. The area within which it is possible (and customary) to gratify directly the propensity to provide.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;This is a truth, as old as the hills,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That life and experience teach:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The poor man suffers that keenest of ills,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An impediment of his reach.<br><br><cite>G.J.</cite>"
+    },
+    {
+        "name": "READING",
+        "category": "noun",
+        "description": "The general body of what one reads. In our country it consists, as a rule, of Indiana novels, short stories in &quot;dialect&quot; and humor in slang.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;We know by one's reading<br>&nbsp;&nbsp;&nbsp;&nbsp;His learning and breeding;<br>&nbsp;&nbsp;&nbsp;&nbsp;By what draws his laughter<br>&nbsp;&nbsp;&nbsp;&nbsp;We know his Hereafter.<br>&nbsp;&nbsp;&nbsp;&nbsp;Read nothing, laugh never --<br>&nbsp;&nbsp;&nbsp;&nbsp;The Sphinx was less clever!<br><br><cite>Jupiter Muke</cite>"
+    },
+    {
+        "name": "RADICALISM",
+        "category": "noun",
+        "description": "The conservatism of to-morrow injected into the affairs of to-day."
+    },
+    {
+        "name": "RADIUM",
+        "category": "noun",
+        "description": "A mineral that gives off heat and stimulates the organ that a scientist is a fool with."
+    },
+    {
+        "name": "RAILROAD",
+        "category": "noun",
+        "description": "The chief of many mechanical devices enabling us to get away from where we are to where we are no better off. For this purpose the railroad is held in highest favor by the optimist, for it permits him to make the transit with great expedition."
+    },
+    {
+        "name": "RAMSHACKLE",
+        "category": "adjective",
+        "description": "Pertaining to a certain order of architecture, otherwise known as the Normal American. Most of the public buildings of the United States are of the Ramshackle order, though some of our earlier architects preferred the Ironic. Recent additions to the White House in Washington are Theo-Doric, the ecclesiastic order of the Dorians. They are exceedingly fine and cost one hundred dollars a brick."
+    },
+    {
+        "name": "REALISM",
+        "category": "noun",
+        "description": "The art of depicting nature as it is seen by toads. The charm suffusing a landscape painted by a mole, or a story written by a measuring-worm."
+    },
+    {
+        "name": "REALITY",
+        "category": "noun",
+        "description": "The dream of a mad philosopher. That which would remain in the cupel if one should assay a phantom. The nucleus of a vacuum."
+    },
+    {
+        "name": "REALLY",
+        "category": "adjective",
+        "description": "Apparently."
+    },
+    {
+        "name": "REAR",
+        "category": "noun",
+        "description": "In American military matters, that exposed part of the army that is nearest to Congress."
+    },
+    {
+        "name": "REASON",
+        "category": "verb",
+        "description": "To weight probabilities in the scales of desire."
+    },
+    {
+        "name": "REASON",
+        "category": "noun",
+        "description": "Propensitate of prejudice."
+    },
+    {
+        "name": "REASONABLE",
+        "category": "adjective",
+        "description": "Accessible to the infection of our own opinions. Hospitable to persuasion, dissuasion and evasion."
+    },
+    {
+        "name": "REBEL",
+        "category": "noun",
+        "description": "A proponent of a new misrule who has failed to establish it."
+    },
+    {
+        "name": "RECOLLECT",
+        "category": "verb",
+        "description": "To recall with additions something not previously known."
+    },
+    {
+        "name": "RECONCILIATION",
+        "category": "noun",
+        "description": "A suspension of hostilities. An armed truce for the purpose of digging up the dead."
+    },
+    {
+        "name": "RECONSIDER",
+        "category": "verb",
+        "description": "To seek a justification for a decision already made."
+    },
+    {
+        "name": "RECOUNT",
+        "category": "noun",
+        "description": "In American politics, another throw of the dice, accorded to the player against whom they are loaded."
+    },
+    {
+        "name": "RECREATION",
+        "category": "noun",
+        "description": "A particular kind of dejection to relieve a general fatigue."
+    },
+    {
+        "name": "RECRUIT",
+        "category": "noun",
+        "description": "A person distinguishable from a civilian by his uniform and from a soldier by his gait.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Fresh from the farm or factory or street,<br>&nbsp;&nbsp;&nbsp;&nbsp;His marching, in pursuit or in retreat,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Were an impressive martial spectacle<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Except for two impediments -- his feet.<br><br><cite>Thompson Johnson</cite>"
+    },
+    {
+        "name": "RECTOR",
+        "category": "noun",
+        "description": " In the Church of England, the Third Person of the parochial Trinity, the Cruate and the Vicar being the other two."
+    },
+    {
+        "name": "REDEMPTION",
+        "category": "noun",
+        "description": "Deliverance of sinners from the penalty of their sin, through their murder of the deity against whom they sinned. The doctrine of Redemption is the fundamental mystery of our holy religion, and whoso believeth in it shall not perish, but have everlasting life in which to try to understand it.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;We must awake Man's spirit from his sin,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And take some special measure for redeeming it;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Though hard indeed the task to get it in<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Among the angels any way but teaming it,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or purify it otherwise than steaming it.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;I'm awkward at Redemption -- a beginner:<br>&nbsp;&nbsp;&nbsp;&nbsp;My method is to crucify the sinner.<br><br><cite>Golgo Brone</cite>"
+    },
+    {
+        "name": "REDRESS",
+        "category": "noun",
+        "description": "Reparation without satisfaction.<br><br>Among the Anglo-Saxon a subject conceiving himself wronged by the king was permitted, on proving his injury, to beat a brazen image of the royal offender with a switch that was afterward applied to his own naked back. The latter rite was performed by the public hangman, and it assured moderation in the plaintiff's choice of a switch."
+    },
+    {
+        "name": "RED-SKIN",
+        "category": "noun",
+        "description": "A North American Indian, whose skin is not red -- at least not on the outside."
+    },
+    {
+        "name": "REDUNDANT",
+        "category": "adjective",
+        "description": "Superfluous; needless; _de trop_.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The Sultan said: &quot;There's evidence abundant<br>&nbsp;&nbsp;&nbsp;&nbsp;To prove this unbelieving dog redundant.&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;To whom the Grand Vizier, with mien impressive,<br>&nbsp;&nbsp;&nbsp;&nbsp;Replied: &quot;His head, at least, appears excessive.&quot;<br><br><cite>Habeeb Suleiman</cite><br><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;Mr. Debs is a redundant citizen.<br><br><cite>Theodore Roosevelt</cite>"
+    },
+    {
+        "name": "REFERENDUM",
+        "category": "noun",
+        "description": "A law for submission of proposed legislation to a popular vote to learn the nonsensus of public opinion."
+    },
+    {
+        "name": "REFLECTION",
+        "category": "noun",
+        "description": "An action of the mind whereby we obtain a clearer view of our relation to the things of yesterday and are able to avoid the perils that we shall not again encounter."
+    },
+    {
+        "name": "REFORM",
+        "category": "verb",
+        "description": "A thing that mostly satisfies reformers opposed to reformation."
+    },
+    {
+        "name": "REFUGE",
+        "category": "noun",
+        "description": "Anything assuring protection to one in peril. Moses and Joshua provided six cities of refuge -- Bezer, Golan, Ramoth, Kadesh, Schekem and Hebron -- to which one who had taken life inadvertently could flee when hunted by relatives of the deceased. This admirable expedient supplied him with wholesome exercise and enabled them to enjoy the pleasures of the chase; whereby the soul of the dead man was appropriately honored by observations akin to the funeral games of early Greece."
+    },
+    {
+        "name": "REFUSAL",
+        "category": "noun",
+        "description": "Denial of something desired; as an elderly maiden's hand in marriage, to a rich and handsome suitor; a valuable franchise to a rich corporation, by an alderman; absolution to an impenitent king, by a priest, and so forth. Refusals are graded in a descending scale of finality thus: the refusal absolute, the refusal condition, the refusal tentative and the refusal feminine. The last is called by some casuists the refusal assentive."
+    },
+    {
+        "name": "REGALIA",
+        "category": "noun",
+        "description": "Distinguishing insignia, jewels and costume of such ancient and honorable orders as Knights of Adam; Visionaries of Detectable Bosh; the Ancient Order of Modern Troglodytes; the League of Holy Humbug; the Golden Phalanx of Phalangers; the Genteel Society of Expurgated Hoodlums; the Mystic Alliances of Georgeous Regalians; Knights and Ladies of the Yellow Dog; the Oriental Order of Sons of the West; the Blatherhood of Insufferable Stuff; Warriors of the Long Bow; Guardians of the Great Horn Spoon; the Band of Brutes; the Impenitent Order of Wife-Beaters; the Sublime Legion of Flamboyant Conspicuants; Worshipers at the Electroplated Shrine; Shining Inaccessibles; Fee-Faw-Fummers of the inimitable Grip; Jannissaries of the Broad-Blown Peacock; Plumed Increscencies of the Magic Temple; the Grand Cabal of Able-Bodied Sedentarians; Associated Deities of the Butter Trade; the Garden of Galoots; the Affectionate Fraternity of Men Similarly Warted; the Flashing Astonishers; Ladies of Horror; Cooperative Association for Breaking into the Spotlight; Dukes of Eden; Disciples Militant of the Hidden Faith; Knights-Champions of the Domestic Dog; the Holy Gregarians; the Resolute Optimists; the Ancient Sodality of Inhospitable Hogs; Associated Sovereigns of Mendacity; Dukes-Guardian of the Mystic Cess-Pool; the Society for Prevention of Prevalence; Kings of Drink; Polite Federation of Gents-Consequential; the Mysterious Order of the Undecipherable Scroll; Uniformed Rank of Lousy Cats; Monarchs of Worth and Hunger; Sons of the South Star; Prelates of the Tub-and-Sword."
+    },
+    {
+        "name": "RELIGION",
+        "category": "noun",
+        "description": "A daughter of Hope and Fear, explaining to Ignorance the nature of the Unknowable.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;What is your religion my son?&quot; inquired the Archbishop of Rheims.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Pardon, monseigneur,&quot; replied Rochebriant; &quot;I am ashamed of it.&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Then why do you not become an atheist?&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Impossible! I should be ashamed of atheism.&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;In that case, monsieur, you should join the Protestants.&quot;"
+    },
+    {
+        "name": "RELIQUARY",
+        "category": "noun",
+        "description": "A receptacle for such sacred objects as pieces of the true cross, short-ribs of the saints, the ears of Balaam's ass, the lung of the cock that called Peter to repentance and so forth. Reliquaries are commonly of metal, and provided with a lock to prevent the contents from coming out and performing miracles at unseasonable times. A feather from the wing of the Angel of the Annunciation once escaped during a sermon in Saint Peter's and so tickled the noses of the congregation that they woke and sneezed with great vehemence three times each. It is related in the &quot;Gesta Sanctorum&quot; that a sacristan in the Canterbury cathedral surprised the head of Saint Dennis in the library. Reprimanded by its stern custodian, it explained that it was seeking a body of doctrine. This unseemly levity so raged the diocesan that the offender was publicly anathematized, thrown into the Stour and replaced by another head of Saint Dennis, brought from Rome."
+    },
+    {
+        "name": "RENOWN",
+        "category": "noun",
+        "description": "A degree of distinction between notoriety and fame -- a little more supportable than the one and a little more intolerable than the other. Sometimes it is conferred by an unfriendly and inconsiderate hand.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;I touched the harp in every key,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But found no heeding ear;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;And then Ithuriel touched me<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With a revealing spear.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Not all my genius, great as 'tis,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Could urge me out of night.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;I felt the faint appulse of his,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And leapt into the light!<br><br><cite>W.J. Candleton</cite>"
+    },
+    {
+        "name": "REPARATION",
+        "category": "noun",
+        "description": "Satisfaction that is made for a wrong and deducted from the satisfaction felt in committing it."
+    },
+    {
+        "name": "REPARTEE",
+        "category": "noun",
+        "description": "Prudent insult in retort. Practiced by gentlemen with a constitutional aversion to violence, but a strong disposition to offend. In a war of words, the tactics of the North American Indian."
+    },
+    {
+        "name": "REPENTANCE",
+        "category": "noun",
+        "description": "The faithful attendant and follower of Punishment. It is usually manifest in a degree of reformation that is not inconsistent with continuity of sin.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Desirous to avoid the pains of Hell,<br>&nbsp;&nbsp;&nbsp;&nbsp;You will repent and join the Church, Parnell?<br>&nbsp;&nbsp;&nbsp;&nbsp;How needless! -- Nick will keep you off the coals<br>&nbsp;&nbsp;&nbsp;&nbsp;And add you to the woes of other souls.<br><br><cite>Jomater Abemy</cite>"
+    },
+    {
+        "name": "REPLICA",
+        "category": "noun",
+        "description": "A reproduction of a work of art, by the artist that made the original. It is so called to distinguish it from a &quot;copy,&quot; which is made by another artist. When the two are mae with equal skill the replica is the more valuable, for it is supposed to be more beautiful than it looks."
+    },
+    {
+        "name": "REPORTER",
+        "category": "noun",
+        "description": "A writer who guesses his way to the truth and dispels it with a tempest of words.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;More dear than all my bosom knows, O thou<br>&nbsp;&nbsp;&nbsp;&nbsp;Whose 'lips are sealed' and will not disavow!&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;So sang the blithe reporter-man as grew<br>&nbsp;&nbsp;&nbsp;&nbsp;Beneath his hand the leg-long &quot;interview.&quot;<br><br><cite>Barson Maith</cite>"
+    },
+    {
+        "name": "REPOSE",
+        "category": "verb",
+        "description": "To cease from troubling."
+    },
+    {
+        "name": "REPRESENTATIVE",
+        "category": "noun",
+        "description": "In national politics, a member of the Lower House in this world, and without discernible hope of promotion in the next."
+    },
+    {
+        "name": "REPROBATION",
+        "category": "noun",
+        "description": "In theology, the state of a luckless mortal prenatally damned. The doctrine of reprobation was taught by Calvin, whose joy in it was somewhat marred by the sad sincerity of his conviction that although some are foredoomed to perdition, others are predestined to salvation."
+    },
+    {
+        "name": "REPUBLIC",
+        "category": "noun",
+        "description": "A nation in which, the thing governing and the thing governed being the same, there is only a permitted authority to enforce an optional obedience. In a republic, the foundation of public order is the ever lessening habit of submission inherited from ancestors who, being truly governed, submitted because they had to. There are as many kinds of republics as there are graduations between the despotism whence they came and the anarchy whither they lead."
+    },
+    {
+        "name": "REQUIEM",
+        "category": "noun",
+        "description": "A mass for the dead which the minor poets assure us the winds sing o'er the graves of their favorites. Sometimes, by way of providing a varied entertainment, they sing a dirge."
+    },
+    {
+        "name": "RESIDENT",
+        "category": "adjective",
+        "description": "Unable to leave."
+    },
+    {
+        "name": "RESIGN",
+        "category": "verb",
+        "description": "To renounce an honor for an advantage. To renounce an advantage for a greater advantage.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;'Twas rumored Leonard Wood had signed<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A true renunciation<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Of title, rank and every kind<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Of military station --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Each honorable station.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;By his example fired -- inclined<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To noble emulation,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The country humbly was resigned<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Leonard's resignation --<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His Christian resignation.<br><br><cite>Politian Greame</cite>"
+    },
+    {
+        "name": "RESOLUTE",
+        "category": "adjective",
+        "description": "Obstinate in a course that we approve."
+    },
+    {
+        "name": "RESPECTABILITY",
+        "category": "noun",
+        "description": "The offspring of a _liaison_ between a bald head and a bank account."
+    },
+    {
+        "name": "RESPIRATOR",
+        "category": "noun",
+        "description": "An apparatus fitted over the nose and mouth of an inhabitant of London, whereby to filter the visible universe in its passage to the lungs."
+    },
+    {
+        "name": "RESPITE",
+        "category": "noun",
+        "description": "A suspension of hostilities against a sentenced assassin, to enable the Executive to determine whether the murder may not have been done by the prosecuting attorney. Any break in the continuity of a disagreeable expectation.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Altgeld upon his incandescent bed<br>&nbsp;&nbsp;&nbsp;&nbsp;Lay, an attendant demon at his head.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;O cruel cook, pray grant me some relief --<br>&nbsp;&nbsp;&nbsp;&nbsp;Some respite from the roast, however brief.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Remember how on earth I pardoned all<br>&nbsp;&nbsp;&nbsp;&nbsp;Your friends in Illinois when held in thrall.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Unhappy soul! for that alone you squirm<br>&nbsp;&nbsp;&nbsp;&nbsp;O'er fire unquenched, a never-dying worm.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Yet, for I pity your uneasy state,<br>&nbsp;&nbsp;&nbsp;&nbsp;Your doom I'll mollify and pains abate.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Naught, for a season, shall your comfort mar,<br>&nbsp;&nbsp;&nbsp;&nbsp;Not even the memory of who you are.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Throughout eternal space dread silence fell;<br>&nbsp;&nbsp;&nbsp;&nbsp;Heaven trembled as Compassion entered Hell.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;As long, sweet demon, let my respite be<br>&nbsp;&nbsp;&nbsp;&nbsp;As, governing down here, I'd respite thee.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;As long, poor soul, as any of the pack<br>&nbsp;&nbsp;&nbsp;&nbsp;You thrust from jail consumed in getting back.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;A genial chill affected Altgeld's hide<br>&nbsp;&nbsp;&nbsp;&nbsp;While they were turning him on t'other side.<br><br><cite>Joel Spate Woop</cite>"
+    },
+    {
+        "name": "RESPLENDENT",
+        "category": "adjective",
+        "description": "Like a simple American citizen beduking himself in his lodge, or affirming his consequence in the Scheme of Things as an elemental unit of a parade.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The Knights of Dominion were so resplendent in their velvet-<br>&nbsp;&nbsp;&nbsp;&nbsp;and-gold that their masters would hardly have known them.<br><br><cite>&quot;Chronicles of the Classes&quot;</cite>"
+    },
+    {
+        "name": "RESPOND",
+        "category": "verb",
+        "description": "To make answer, or disclose otherwise a consciousness of having inspired an interest in what Herbert Spencer calls &quot;external coexistences,&quot; as Satan &quot;squat like a toad&quot; at the ear of Eve, responded to the touch of the angel's spear. To respond in damages is to contribute to the maintenance of the plaintiff's attorney and, incidentally, to the gratification of the plaintiff."
+    },
+    {
+        "name": "RESPONSIBILITY",
+        "category": "noun",
+        "description": "A detachable burden easily shifted to the shoulders of God, Fate, Fortune, Luck or one's neighbor. In the days of astrology it was customary to unload it upon a star.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Alas, things ain't what we should see<br>&nbsp;&nbsp;&nbsp;&nbsp;If Eve had let that apple be;<br>&nbsp;&nbsp;&nbsp;&nbsp;And many a feller which had ought<br>&nbsp;&nbsp;&nbsp;&nbsp;To set with monarchses of thought,<br>&nbsp;&nbsp;&nbsp;&nbsp;Or play some rosy little game<br>&nbsp;&nbsp;&nbsp;&nbsp;With battle-chaps on fields of fame,<br>&nbsp;&nbsp;&nbsp;&nbsp;Is downed by his unlucky star<br>&nbsp;&nbsp;&nbsp;&nbsp;And hollers: &quot;Peanuts! -- here you are!&quot;<br><br><cite>&quot;The Sturdy Beggar&quot;</cite>"
+    },
+    {
+        "name": "RESTITUTIONS",
+        "category": "noun",
+        "description": "The founding or endowing of universities and public libraries by gift or bequest."
+    },
+    {
+        "name": "RESTITUTOR",
+        "category": "noun",
+        "description": "Benefactor; philanthropist."
+    },
+    {
+        "name": "RETALIATION",
+        "category": "noun",
+        "description": "The natural rock upon which is reared the Temple of Law."
+    },
+    {
+        "name": "RETRIBUTION",
+        "category": "noun",
+        "description": "A rain of fire-and-brimstone that falls alike upon the just and such of the unjust as have not procured shelter by evicting them.<br><br>In the lines following, addressed to an Emperor in exile by Father Gassalasca Jape, the reverend poet appears to hint his sense of the improduence of turning about to face Retribution when it is talking exercise:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;What, what! Dom Pedro, you desire to go<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Back to Brazil to end your days in quiet?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Why, what assurance have you 'twould be so?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Tis not so long since you were in a riot,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And your dear subjects showed a will to fly at<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Your throat and shake you like a rat. You know<br>&nbsp;&nbsp;&nbsp;&nbsp;That empires are ungrateful; are you certain<br>&nbsp;&nbsp;&nbsp;&nbsp;Republics are less handy to get hurt in?"
+    },
+    {
+        "name": "REVEILLE",
+        "category": "noun",
+        "description": "A signal to sleeping soldiers to dream of battlefields no more, but get up and have their blue noses counted. In the American army it is ingeniously called &quot;rev-e-lee,&quot; and to that pronunciation our countrymen have pledged their lives, their misfortunes and their sacred dishonor."
+    },
+    {
+        "name": "REVELATION",
+        "category": "noun",
+        "description": "A famous book in which St. John the Divine concealed all that he knew. The revealing is done by the commentators, who know nothing."
+    },
+    {
+        "name": "REVERENCE",
+        "category": "noun",
+        "description": "The spiritual attitude of a man to a god and a dog to a man."
+    },
+    {
+        "name": "REVIEW",
+        "category": "verb",
+        "description": "<br><br>&nbsp;&nbsp;&nbsp;&nbsp;To set your wisdom (holding not a doubt of it,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although in truth there's neither bone nor skin to it)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;At work upon a book, and so read out of it<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The qualities that you have first read into it."
+    },
+    {
+        "name": "REVOLUTION",
+        "category": "noun",
+        "description": "In politics, an abrupt change in the form of misgovernment. Specifically, in American history, the substitution of the rule of an Administration for that of a Ministry, whereby the welfare and happiness of the people were advanced a full half-inch. Revolutions are usually accompanied by a considerable effusion of blood, but are accounted worth it -- this appraisement being made by beneficiaries whose blood had not the mischance to be shed. The French revolution is of incalculable value to the Socialist of to-day; when he pulls the string actuating its bones its gestures are inexpressibly terrifying to gory tyrants suspected of fomenting law and order."
+    },
+    {
+        "name": "RHADOMANCER",
+        "category": "noun",
+        "description": "One who uses a divining-rod in prospecting for precious metals in the pocket of a fool."
+    },
+    {
+        "name": "RIBALDRY",
+        "category": "noun",
+        "description": "Censorious language by another concerning oneself."
+    },
+    {
+        "name": "RIBROASTER",
+        "category": "noun",
+        "description": "Censorious language by oneself concerning another. The word is of classical refinement, and is even said to have been used in a fable by Georgius Coadjutor, one of the most fastidious writers of the fifteenth century -- commonly, indeed, regarded as the founder of the Fastidiotic School."
+    },
+    {
+        "name": "RICE-WATER",
+        "category": "noun",
+        "description": "A mystic beverage secretly used by our most popular novelists and poets to regulate the imagination and narcotize the conscience. It is said to be rich in both obtundite and lethargine, and is brewed in a midnight fog by a fat which of the Dismal Swamp."
+    },
+    {
+        "name": "RICH",
+        "category": "adjective",
+        "description": "Holding in trust and subject to an accounting the property of the indolent, the incompetent, the unthrifty, the envious and the luckless. That is the view that prevails in the underworld, where the Brotherhood of Man finds its most logical development and candid advocacy. To denizens of the midworld the word means good and wise."
+    },
+    {
+        "name": "RICHES",
+        "category": "noun",
+        "description": "<br><br>A gift from Heaven signifying, &quot;This is my beloved son, in whom I am well pleased.&quot;<br><br><cite>John D. Rockefeller</cite><br><br><br><br>The reward of toil and virtue.<br><br><cite>J.P. Morgan</cite><br><br><br><br>The sayings of many in the hands of one.<br><br><cite>Eugene Debs</cite><br><br><br><br>To these excellent definitions the inspired lexicographer feels that he can add nothing of value."
+    },
+    {
+        "name": "RIDICULE",
+        "category": "noun",
+        "description": "Words designed to show that the person of whom they are uttered is devoid of the dignity of character distinguishing him who utters them. It may be graphic, mimetic or merely rident. Shaftesbury is quoted as having pronounced it the test of truth -- a ridiculous assertion, for many a solemn fallacy has undergone centuries of ridicule with no abatement of its popular acceptance. What, for example, has been more valorously derided than the doctrine of Infant Respectability?"
+    },
+    {
+        "name": "RIGHT",
+        "category": "noun",
+        "description": "Legitimate authority to be, to do or to have; as the right to be a king, the right to do one's neighbor, the right to have measles, and the like. The first of these rights was once universally believed to be derived directly from the will of God; and this is still sometimes affirmed _in partibus infidelium_ outside the enlightened realms of Democracy; as the well known lines of Sir Abednego Bink, following:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By what right, then, do royal rulers rule?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whose is the sanction of their state and pow'r?<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He surely were as stubborn as a mule<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who, God unwilling, could maintain an hour<br><br>&nbsp;&nbsp;&nbsp;&nbsp;His uninvited session on the throne, or air<br>&nbsp;&nbsp;&nbsp;&nbsp;His pride securely in the Presidential chair.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whatever is is so by Right Divine;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whate'er occurs, God wills it so. Good land!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It were a wondrous thing if His design<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A fool could baffle or a rogue withstand!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;If so, then God, I say (intending no offence)<br>&nbsp;&nbsp;&nbsp;&nbsp;Is guilty of contributory negligence."
+    },
+    {
+        "name": "RIGHTEOUSNESS",
+        "category": "noun",
+        "description": "A sturdy virtue that was once found among the Pantidoodles inhabiting the lower part of the peninsula of Oque. Some feeble attempts were made by returned missionaries to introduce it into several European countries, but it appears to have been imperfectly expounded. An example of this faulty exposition is found in the only extant sermon of the pious Bishop Rowley, a characteristic passage from which is here given:<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;Now righteousness consisteth not merely in a holy state of<br><br>&nbsp;&nbsp;&nbsp;&nbsp;mind, nor yet in performance of religious rites and obedience to<br>&nbsp;&nbsp;&nbsp;&nbsp;the letter of the law. It is not enough that one be pious and<br>&nbsp;&nbsp;&nbsp;&nbsp;just: one must see to it that others also are in the same state;<br>&nbsp;&nbsp;&nbsp;&nbsp;and to this end compulsion is a proper means. Forasmuch as my<br>&nbsp;&nbsp;&nbsp;&nbsp;injustice may work ill to another, so by his injustice may evil be<br>&nbsp;&nbsp;&nbsp;&nbsp;wrought upon still another, the which it is as manifestly my duty<br>&nbsp;&nbsp;&nbsp;&nbsp;to estop as to forestall mine own tort. Wherefore if I would be<br>&nbsp;&nbsp;&nbsp;&nbsp;righteous I am bound to restrain my neighbor, by force if needful,<br>&nbsp;&nbsp;&nbsp;&nbsp;in all those injurious enterprises from which, through a better<br>&nbsp;&nbsp;&nbsp;&nbsp;disposition and by the help of Heaven, I do myself restrain.&quot;"
+    },
+    {
+        "name": "RIME",
+        "category": "noun",
+        "description": "Agreeing sounds in the terminals of verse, mostly bad. The verses themselves, as distinguished from prose, mostly dull. Usually (and wickedly) spelled &quot;rhyme.&quot;"
+    },
+    {
+        "name": "RIMER",
+        "category": "noun",
+        "description": "A poet regarded with indifference or disesteem.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The rimer quenches his unheeded fires,<br>&nbsp;&nbsp;&nbsp;&nbsp;The sound surceases and the sense expires.<br>&nbsp;&nbsp;&nbsp;&nbsp;Then the domestic dog, to east and west,<br>&nbsp;&nbsp;&nbsp;&nbsp;Expounds the passions burning in his breast.<br>&nbsp;&nbsp;&nbsp;&nbsp;The rising moon o'er that enchanted land<br>&nbsp;&nbsp;&nbsp;&nbsp;Pauses to hear and yearns to understand.<br><br><cite>Mowbray Myles</cite>"
+    },
+    {
+        "name": "RIOT",
+        "category": "noun",
+        "description": "A popular entertainment given to the military by innocent bystanders."
+    },
+    {
+        "name": "R.I.P",
+        "category": "",
+        "description": "A careless abbreviation of _requiescat in pace_, attesting to indolent goodwill to the dead. According to the learned Dr. Drigge, however, the letters originally meant nothing more than _reductus in pulvis_."
+    },
+    {
+        "name": "RITE",
+        "category": "noun",
+        "description": "A religious or semi-religious ceremony fixed by law, precept or custom, with the essential oil of sincerity carefully squeezed out of it."
+    },
+    {
+        "name": "RITUALISM",
+        "category": "noun",
+        "description": "A Dutch Garden of God where He may walk in rectilinear freedom, keeping off the grass."
+    },
+    {
+        "name": "ROAD",
+        "category": "noun",
+        "description": "A strip of land along which one may pass from where it is too tiresome to be to where it is futile to go.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;All roads, howsoe'er they diverge, lead to Rome,<br>&nbsp;&nbsp;&nbsp;&nbsp;Whence, thank the good Lord, at least one leads back home.<br><br><cite>Borey the Bald</cite>"
+    },
+    {
+        "name": "ROBBER",
+        "category": "noun",
+        "description": "A candid man of affairs.<br><br>It is related of Voltaire that one night he and some traveling companion lodged at a wayside inn. The surroundings were suggestive, and after supper they agreed to tell robber stories in turn. &quot;Once there was a Farmer-General of the Revenues.&quot; Saying nothing more, he was encouraged to continue. &quot;That,&quot he said, &quot;is the story.&quot;"
+    },
+    {
+        "name": "ROMANCE",
+        "category": "noun",
+        "description": "Fiction that owes no allegiance to the God of Things as They Are. In the novel the writer's thought is tethered to probability, as a domestic horse to the hitching-post, but in romance it ranges at will over the entire region of the imagination -- free, lawless, immune to bit and rein. Your novelist is a poor creature, as Carlyle might say -- a mere reporter. He may invent his characters and plot, but he must not imagine anything taking place that might not occur, albeit his entire narrative is candidly a lie. Why he imposes this hard condition on himself, and &quot;drags at each remove a lengthening chain&quot; of his own forging he can explain in ten thick volumes without illuminating by so much as a candle's ray the black profound of his own ignorance of the matter. There are great novels, for great writers have &quot;laid waste their powers&quot; to write them, but it remains true that far and away the most fascinating fiction that we have is &quot;The Thousand and One Nights.&quot;"
+    },
+    {
+        "name": "ROPE",
+        "category": "noun",
+        "description": "An obsolescent appliance for reminding assassins that they too are mortal. It is put about the neck and remains in place one's whole life long. It has been largely superseded by a more complex electrical device worn upon another part of the person; and this is rapidly giving place to an apparatus known as the preachment."
+    },
+    {
+        "name": "ROSTRUM",
+        "category": "noun",
+        "description": "In Latin, the beak of a bird or the prow of a ship. In America, a place from which a candidate for office energetically expounds the wisdom, virtue and power of the rabble."
+    },
+    {
+        "name": "ROUNDHEAD",
+        "category": "noun",
+        "description": "A member of the Parliamentarian party in the English civil war -- so called from his habit of wearing his hair short, whereas his enemy, the Cavalier, wore his long. There were other points of difference between them, but the fashion in hair was the fundamental cause of quarrel. The Cavaliers were royalists because the king, an indolent fellow, found it more convenient to let his hair grow than to wash his neck. This the Roundheads, who were mostly barbers and soap-boilers, deemed an injury to trade, and the royal neck was therefore the object of their particular indignation. Descendants of the belligerents now wear their hair all alike, but the fires of animosity enkindled in that ancient strife smoulder to this day beneath the snows of British civility."
+    },
+    {
+        "name": "RUBBISH",
+        "category": "noun",
+        "description": "Worthless matter, such as the religions, philosophies, literatures, arts and sciences of the tribes infesting the regions lying due south from Boreaplas."
+    },
+    {
+        "name": "RUIN",
+        "category": "verb",
+        "description": "To destroy. Specifically, to destroy a maid's belief in the virtue of maids."
+    },
+    {
+        "name": "RUM",
+        "category": "noun",
+        "description": "Generically, fiery liquors that produce madness in total abstainers."
+    },
+    {
+        "name": "RUMOR",
+        "category": "noun",
+        "description": "A favorite weapon of the assassins of character.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Sharp, irresistible by mail or shield,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By guard unparried as by flight unstayed,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;O serviceable Rumor, let me wield<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Against my enemy no other blade.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;His be the terror of a foe unseen,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His the inutile hand upon the hilt,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;And mine the deadly tongue, long, slender, keen,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hinting a rumor of some ancient guilt.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;So shall I slay the wretch without a blow,<br>&nbsp;&nbsp;&nbsp;&nbsp;Spare me to celebrate his overthrow,<br>&nbsp;&nbsp;&nbsp;&nbsp;And nurse my valor for another foe.<br><br><cite>Joel Buxter</cite>"
+    },
+    {
+        "name": "RUSSIAN",
+        "category": "noun",
+        "description": "A person with a Caucasian body and a Mongolian soul. A Tartar Emetic."
     }
 ]
