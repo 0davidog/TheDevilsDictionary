@@ -1,10 +1,5 @@
 [
     {
-        "name": "",
-        "category": "",
-        "description": ""
-    },
-    {
         "name": "UBIQUITY",
         "category": "noun",
         "description": "The gift or power of being in all places at one time, but not in all places at all times, which is omnipresence, an attribute of God and the luminiferous ether only. This important distinction between ubiquity and omnipresence was not clear to the mediaeval Church and there was much bloodshed about it. Certain Lutherans, who affirmed the presence everywhere of Christ's body were known as Ubiquitarians. For this error they were doubtless damned, for Christ's body is present only in the eucharist, though that sacrament may be performed in more than one place simultaneously. In recent times ubiquity has not always been understood -- not even by Sir Boyle Roche, for example, who held that a man cannot be in two places at once unless he is a bird."
@@ -13,5 +8,50 @@
         "name": "UGLINESS",
         "category": "noun",
         "description": "A gift of the gods to certain women, entailing virtue without humility."
+    },
+    {
+        "name": "ULTIMATUM",
+        "category": "noun",
+        "description": "In diplomacy, a last demand before resorting to concessions.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Having received an ultimatum from Austria, the Turkish Ministry met to consider it.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;O servant of the Prophet,&quot; said the Sheik of the Imperial Chibouk to the Mamoosh of the Invincible Army, &quot;how many unconquerable soldiers have we in arms?&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Upholder of the Faith,&quot; that dignitary replied after examining his memoranda, &quot;they are in numbers as the leaves of the forest!&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;And how many impenetrable battleships strike terror to the hearts of all Christian swine?&quot; he asked the Imaum of the Ever Victorious Navy.<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;Uncle of the Full Moon,&quot; was the reply, &quot;deign to know that they are as the waves of the ocean, the sands of the desert and the stars of Heaven!&quot;<br>&nbsp;&nbsp;&nbsp;&nbsp;For eight hours the broad brow of the Sheik of the Imperial Chibouk was corrugated with evidences of deep thought: he was calculating the chances of war. Then, &quot;Sons of angels,&quot; he said, &quot;the die is cast! I shall suggest to the Ulema of the Imperial Ear that he advise inaction. In the name of Allah, the council is adjourned.&quot;"
+    },
+    {
+        "name": "UN-AMERICAN",
+        "category": "adjective",
+        "description": "Wicked, intolerable, heathenish."
+    },
+    {
+        "name": "UNCTION",
+        "category": "noun",
+        "description": "An oiling, or greasing. The rite of extreme unction consists in touching with oil consecrated by a bishop several parts of the body of one engaged in dying. Marbury relates that after the rite had been administered to a certain wicked English nobleman it was discovered that the oil had not been properly consecrated and no other could be obtained. When informed of this the sick man said in anger: &quot;Then I'll be damned if I die!&quot;<br><br>&quot;My son,&quot; said the priest, &quot;this is what we fear.&quot;"
+    },
+    {
+        "name": "UNDERSTANDING",
+        "category": "noun",
+        "description": "A cerebral secretion that enables one having it to know a house from a horse by the roof on the house. Its nature and laws have been exhaustively expounded by Locke, who rode a house, and Kant, who lived in a horse.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;His understanding was so keen<br>&nbsp;&nbsp;&nbsp;&nbsp;That all things which he'd felt, heard, seen,<br>&nbsp;&nbsp;&nbsp;&nbsp;He could interpret without fail<br>&nbsp;&nbsp;&nbsp;&nbsp;If he was in or out of jail.<br>&nbsp;&nbsp;&nbsp;&nbsp;He wrote at Inspiration's call<br>&nbsp;&nbsp;&nbsp;&nbsp;Deep disquisitions on them all,<br>&nbsp;&nbsp;&nbsp;&nbsp;Then, pent at last in an asylum,<br>&nbsp;&nbsp;&nbsp;&nbsp;Performed the service to compile 'em.<br>&nbsp;&nbsp;&nbsp;&nbsp;So great a writer, all men swore,<br>&nbsp;&nbsp;&nbsp;&nbsp;They never had not read before.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Jorrock Wormley</cite>"
+    },
+    {
+        "name": "UNITARIAN",
+        "category": "noun",
+        "description": "One who denies the divinity of a Trinitarian."
+    },
+    {
+        "name": "UNIVERSALIST",
+        "category": "noun",
+        "description": " One who forgoes the advantage of a Hell for persons of another faith."
+    },
+    {
+        "name": "URBANITY",
+        "category": "noun",
+        "description": "The kind of civility that urban observers ascribe to dwellers in all cities but New York. Its commonest expression is heard in the words, &quot;I beg your pardon,&quot; and it is not consistent with disregard of the rights of others.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;The owner of a powder mill<br>&nbsp;&nbsp;&nbsp;&nbsp;Was musing on a distant hill --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Something his mind foreboded --<br><br>&nbsp;&nbsp;&nbsp;&nbsp;When from the cloudless sky there fell<br>&nbsp;&nbsp;&nbsp;&nbsp;A deviled human kidney! Well,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The man's mill had exploded.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;His hat he lifted from his head;<br>&nbsp;&nbsp;&nbsp;&nbsp;&quot;I beg your pardon, sir,&quot; he said;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;I didn't know 'twas loaded.&quot;<br><br>&nbsp;&nbsp;&nbsp;&nbsp;<cite>Swatkin</cite>"
+    },
+    {
+        "name": "USAGE",
+        "category": "noun",
+        "description": "The First Person of the literary Trinity, the Second and Third being Custom and Conventionality. Imbued with a decent reverence for this Holy Triad an industrious writer may hope to produce books that will live as long as the fashion."
+    },
+    {
+        "name": "UXORIOUSNESS",
+        "category": "noun",
+        "description": "A perverted affection that has strayed to one's own wife."
     }
 ]
