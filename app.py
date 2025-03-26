@@ -109,12 +109,19 @@ def custom_title(value):
         'The Quick Brown Fox Jumps Over the Lazy Dog'
     """
     ignore_words = {'or', 'and', 'the'}  # Set for fast lookup
-    words = value.split()
+
+    words = re.split(r'(\W+)', value)  # Splitting while keeping punctuation
+
     title_cased_words = [
         word.title() if word.lower()
         not in ignore_words else word.lower() for word in words
     ]
-    return ' '.join(title_cased_words)
+    # Fix spacing issues by ensuring no spaces appear directly inside parentheses
+    result = ''.join(title_cased_words)
+    result = re.sub(r'\(\s+', '(', result)  # Remove space after '('
+    result = re.sub(r'\s+\)', ')', result)  # Remove space before ')'
+
+    return result
 
 
 app.jinja_env.filters['custom_title'] = custom_title
