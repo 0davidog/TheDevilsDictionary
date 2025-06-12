@@ -61,7 +61,7 @@
 					<div class="form-group">
 						{{ form.submit(class="btn btn-primary") }}  <!-- Bootstrap button class -->
 					</div>
-					<input type="text" name="website" style="display:none" tabindex="-1" autocomplete="off">
+					{{ form.honeypot(class="d-none", tabindex="-1", autocomplete="off") }}
 				</form>
 
 				<script src="https://www.google.com/recaptcha/api.js" async defer></script>			

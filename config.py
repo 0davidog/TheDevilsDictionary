@@ -13,6 +13,8 @@ class Config:
     MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
     MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
     MAIL_DEFAULT_SENDER = os.environ.get("MAIL_USERNAME")
+    RECAPTCHA_SECRET_KEY = os.environ.get("RECAPTCHA_SECRET_KEY")
+    SITE_KEY = os.environ.get("SITE_KEY")
 
 class DevelopmentConfig(Config):
     DEBUG = True

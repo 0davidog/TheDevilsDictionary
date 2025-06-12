@@ -6,7 +6,7 @@ from flask import send_from_directory, redirect, url_for
 from flask import jsonify
 from flask_mail import Mail, Message
 from flask_wtf import FlaskForm
-from wtforms import StringField, TextAreaField, SubmitField
+from wtforms import StringField, TextAreaField, SubmitField, HiddenField
 from wtforms.validators import DataRequired, Email
 from config import DevelopmentConfig, ProductionConfig
 from flask_limiter import Limiter
@@ -24,21 +24,6 @@ app = Flask(__name__)
 limiter = Limiter(key_func=get_remote_address)  # Don't pass app here
 limiter.init_app(app)  # Then initialize with the app
 
-class DevelopmentConfig:
-    SECRET_KEY = os.environ.get("SECRET_KEY")
-    MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
-    MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
-    RECAPTCHA_SECRET_KEY = os.environ.get("RECAPTCHA_SECRET_KEY")
-    SITE_KEY = os.environ.get("SITE_KEY")
-    # other configs...
-
-class ProductionConfig:
-    SECRET_KEY = os.environ.get("SECRET_KEY")
-    MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
-    MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
-    RECAPTCHA_SECRET_KEY = os.environ.get("RECAPTCHA_SECRET_KEY")
-    SITE_KEY = os.environ.get("SITE_KEY")
-    # other configs...
 
 # Load configuration based on environment
 if os.environ.get("FLASK_ENV") == "development":
@@ -370,6 +355,7 @@ class ContactForm(FlaskForm):
     name = StringField('Name', validators=[DataRequired()])
     email = StringField('Email', validators=[DataRequired(), Email()])
     message = TextAreaField('Message', validators=[DataRequired()])
+    honeypot = HiddenField('Leave empty')  # Honeypot field, should be empty
     submit = SubmitField('Send Message')
 
 
@@ -391,6 +377,10 @@ def contact():
 
     form = ContactForm()
     if form.validate_on_submit():  # Validate the form on submission
+        if form.honeypot.data:
+            # Honeypot field filled -> likely spam
+            flash('Spam detected. Submission rejected.')
+            return redirect(url_for('contact'))
         content = form.message.data
         sender = form.name.data
         address = form.email.data
@@ -416,8 +406,14 @@ def contact():
 
 
         with app.app_context():
-            mail.send(msg)
-            return redirect(url_for('contact_success'))
+            try:
+                mail.send(msg)
+                flash("Message sent successfully!", "success")
+                return redirect(url_for('contact_success'))
+            except Exception as e:
+                app.logger.error(f"Email send failed: {e}")
+                flash('There was a problem sending your message. Please try again later.')
+                return redirect('/contact')
 
     return render_template("contact.html", form=form, page_title="Contact", site_key=app.config["SITE_KEY"])
 
