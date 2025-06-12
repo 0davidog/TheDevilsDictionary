@@ -1,12 +1,17 @@
 import os
 import json
+import requests
 from flask import Flask, render_template, request, flash
 from flask import send_from_directory, redirect, url_for
+from flask import jsonify
 from flask_mail import Mail, Message
 from flask_wtf import FlaskForm
 from wtforms import StringField, TextAreaField, SubmitField
 from wtforms.validators import DataRequired, Email
 from config import DevelopmentConfig, ProductionConfig
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
+from werkzeug.exceptions import HTTPException
 import random
 import logging
 import re
@@ -16,6 +21,24 @@ if os.path.exists("env.py"):
     import env
 
 app = Flask(__name__)
+limiter = Limiter(key_func=get_remote_address)  # Don't pass app here
+limiter.init_app(app)  # Then initialize with the app
+
+class DevelopmentConfig:
+    SECRET_KEY = os.environ.get("SECRET_KEY")
+    MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
+    MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
+    RECAPTCHA_SECRET_KEY = os.environ.get("RECAPTCHA_SECRET_KEY")
+    SITE_KEY = os.environ.get("SITE_KEY")
+    # other configs...
+
+class ProductionConfig:
+    SECRET_KEY = os.environ.get("SECRET_KEY")
+    MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
+    MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
+    RECAPTCHA_SECRET_KEY = os.environ.get("RECAPTCHA_SECRET_KEY")
+    SITE_KEY = os.environ.get("SITE_KEY")
+    # other configs...
 
 # Load configuration based on environment
 if os.environ.get("FLASK_ENV") == "development":
@@ -23,13 +46,15 @@ if os.environ.get("FLASK_ENV") == "development":
 else:
     app.config.from_object(ProductionConfig)
 
+
 # Error handling for missing configurations
-required_config = ["SECRET_KEY", "MAIL_USERNAME", "MAIL_PASSWORD"]
+required_config = ["SECRET_KEY", "MAIL_USERNAME", "MAIL_PASSWORD", "RECAPTCHA_SECRET_KEY", "SITE_KEY"]
 missing_config = [key for key in required_config if not app.config.get(key)]
 if missing_config:
     raise ValueError(
         f"Missing critical configuration(s): {', '.join(missing_config)}"
         )
+
 
 # Initialize the Mail object
 mail = Mail(app)
@@ -349,6 +374,7 @@ class ContactForm(FlaskForm):
 
 
 # contact page
+@limiter.limit("3/hour")  # Or adjust to "1/minute", "10/day", etc.
 @app.route("/contact", methods=["GET", "POST"])
 def contact():
     """
@@ -362,6 +388,7 @@ def contact():
         str: Rendered template for the contact page
         or redirect to success page.
     """
+
     form = ContactForm()
     if form.validate_on_submit():  # Validate the form on submission
         content = form.message.data
@@ -370,15 +397,29 @@ def contact():
 
         msg = Message(
             "Feedback Message on The Devil's Dictionary App",
-            recipients=[os.environ.get("MAIL_USER")]
+            recipients=[os.environ.get("MAIL_USERNAME")]
         )
         msg.body = f"{sender} ({address}) says: '{content}'."
+
+        recaptcha_response = request.form.get('g-recaptcha-response')
+        verify_url = 'https://www.google.com/recaptcha/api/siteverify'
+        payload = {
+            'secret': app.config["RECAPTCHA_SECRET_KEY"],
+            'response': recaptcha_response
+            }
+
+        recaptcha_result = requests.post(verify_url, data=payload).json()
+    
+        if not recaptcha_result.get('success'):
+            flash('Please complete the CAPTCHA.')
+            return redirect('/contact')
+
 
         with app.app_context():
             mail.send(msg)
             return redirect(url_for('contact_success'))
 
-    return render_template("contact.html", form=form, page_title="Contact")
+    return render_template("contact.html", form=form, page_title="Contact", site_key=app.config["SITE_KEY"])
 
 
 @app.route("/contact/success")
@@ -403,3 +444,8 @@ if __name__ == "__main__":
     """
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+
+
+@app.errorhandler(429)
+def ratelimit_handler(e):
+    return render_template("429.html"), 429
