@@ -2,7 +2,7 @@ import os
 import json
 import requests
 from flask import Flask, render_template, request, flash
-from flask import send_from_directory, redirect, url_for
+from flask import send_from_directory, redirect, Response, url_for
 from flask import jsonify
 from flask_mail import Mail, Message
 from flask_wtf import FlaskForm
@@ -141,6 +141,47 @@ app.jinja_env.filters['custom_title'] = custom_title
 @app.route('/robots.txt')
 def robots():
     return send_from_directory(app.root_path, 'robots.txt')
+
+@app.route("/sitemap.xml", methods=["GET"])
+def sitemap():
+    pages = [
+        url_for('index', _external=True),
+        url_for('about', _external=True),
+        url_for('contact', _external=True)
+    ]
+
+    # Add all letter pages (A-Z)
+    letters = [chr(i) for i in range(ord('A'), ord('Z') + 1)]
+    for letter in letters:
+        letter_url = url_for('listing', listing_name=letter, _external=True)
+        pages.append(letter_url)
+
+        # Attempt to open the corresponding JSON file
+        file_path = os.path.join(app.root_path, 'data', f"{letter.lower()}.json")
+        if os.path.exists(file_path):
+            with open(file_path, "r") as f:
+                try:
+                    data = json.load(f)
+                    if isinstance(data, list):
+                        for entry in data:
+                            # Convert name to URL-friendly format
+                            entry_name = entry["name"].replace(" ", "_")
+                            entry_url = url_for('entry', listing_name=letter, entry_name=entry_name, _external=True)
+                            pages.append(entry_url)
+                except Exception as e:
+                    app.logger.error(f"Error reading {file_path}: {e}")
+
+    # Build XML
+    xml = ['<?xml version="1.0" encoding="UTF-8"?>']
+    xml.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+    for page in pages:
+        xml.append("  <url>")
+        xml.append(f"    <loc>{page}</loc>")
+        xml.append("  </url>")
+    xml.append('</urlset>')
+
+    sitemap_xml = "\n".join(xml)
+    return Response(sitemap_xml, mimetype="application/xml")
 
 
 # Index page
@@ -445,3 +486,5 @@ if __name__ == "__main__":
 @app.errorhandler(429)
 def ratelimit_handler(e):
     return render_template("429.html"), 429
+
+
